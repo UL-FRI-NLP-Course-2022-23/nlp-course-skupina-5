@@ -26,11 +26,11 @@ ENG_TO_SLO_TITLE = {
 
 if __name__ == "__main__":
 
-    eng_df = pd.read_csv("data/eng_raw/grimms_fairytales.csv", index_col=0)
+    eng_df = pd.read_csv("../data/eng_raw/grimms_fairytales.csv", index_col=0)
     eng_df = eng_df.rename(columns={"Title": "eng_title", "Text": "eng_text"})
     eng_df["eng_text_len"] = eng_df["eng_text"].apply(lambda x: len(re.findall(r'\w+', x)))
 
-    slo_dir = "data/slo_raw/txt"
+    slo_dir = "../data/slo_raw/txt"
     all_slo_titles, all_slo_texts = [], []
     for fn in os.listdir(slo_dir):
         title = fn.rsplit(".")[0].replace("-", " ")
@@ -45,7 +45,6 @@ if __name__ == "__main__":
     df["slo_title"] = df["eng_title"].apply(mp)
     df = df.merge(slo_df, right_on="slo_title", left_on="slo_title", how="inner")
 
-
-    eng_df.to_csv("data/data_eng_all.csv")
-    slo_df.to_csv("data/data_slo_all.csv")
-    df.to_csv("data/data.csv")
+    eng_df.to_csv("../data/data_eng_all.csv")
+    slo_df.to_csv("../data/data_slo_all.csv")
+    df.to_csv("../data/data.csv")
