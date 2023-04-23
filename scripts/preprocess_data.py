@@ -2,6 +2,7 @@ import os
 import sys
 import json
 import re
+import nltk
 
 import pandas as pd
 
@@ -45,6 +46,28 @@ if __name__ == "__main__":
     df["slo_title"] = df["eng_title"].apply(mp)
     df = df.merge(slo_df, right_on="slo_title", left_on="slo_title", how="inner")
 
-    eng_df.to_csv("../data/data_eng_all.csv")
-    slo_df.to_csv("../data/data_slo_all.csv")
-    df.to_csv("../data/data.csv")
+    df.to_csv("../data/all_data.csv")
+
+    # Create split files for labels
+    for i, row in df.iterrows():
+        # slovene
+        title = row["slo_title"].replace(" ", "_")
+        text = row["slo_text"]
+        slo_sentences = nltk.sent_tokenize(text, language="slovene")
+        labels = [1] * len(slo_sentences)
+        slo_df = pd.DataFrame(data={"label": labels, "sentence": slo_sentences})
+        slo_df.to_csv(f"../data/slo_processed/{title}.csv")
+
+        # english
+        title = row["eng_title"].replace(" ", "_")
+        text = row["eng_text"]
+        eng_sentences = nltk.sent_tokenize(text, language="english")
+        labels = [1] * len(eng_sentences)
+        eng_df = pd.DataFrame(data={"label": labels, "sentence": eng_sentences})
+        eng_df.to_csv(f"../data/eng_processed/{title}.csv")
+
+
+
+
+
+

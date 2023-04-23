@@ -31,6 +31,48 @@
             </Attribute>
           </value>
         </entry>
+        <entry key="\data\slo_labeled\boter_petelin_in_njegova_zgodba.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\data\slo_processed\boter_petelin_in_njegova_zgodba.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\data\slo_processed\janko_in_metka.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\data\slo_processed\pepelka.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\data\slo_processed\rdeca_kapica.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\data\slo_processed\volk_in_sedem_kozlickov.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
         <entry key="\results\data_slamica ogeljcek in fizolcek.csv">
           <value>
             <Attribute>
