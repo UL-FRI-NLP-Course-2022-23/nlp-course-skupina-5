@@ -71,7 +71,10 @@ def sliding_window_coherence_evaluation(model, device, indexed_tokens, sent_inde
             loss_fct = torch.nn.CrossEntropyLoss(ignore_index=-1, reduction='none')
             loss_w_sent = loss_fct(shift_logits_w.view(-1, shift_logits_w.size(-1)), shift_labels_w.view(-1))
             loss_wo_sent = loss_fct(shift_logits_wo.view(-1, shift_logits_wo.size(-1)), shift_labels_wo.view(-1))
-        if
+
+        if context_after_len < 0:
+            context_after_len = 1
+
         all_loss_w_sent.append(loss_w_sent[-context_after_len:].sum().item() / context_after_len)
         all_loss_wo_sent.append(loss_wo_sent[-context_after_len:].sum().item() / context_after_len)
 
@@ -81,12 +84,46 @@ def sliding_window_coherence_evaluation(model, device, indexed_tokens, sent_inde
 
 def extract_story_context(indexed_tokens, sent_index, max_context_len):
     len_list = [len(tokenized_sent) for tokenized_sent in indexed_tokens]
+    target_sent_len = len_list[sent_index]
+
+    full_context_before_len = sum(len_list[:sent_index])
+    full_context_after_len = sum(len_list[sent_index + 1:])
+
+    tmp_context_before_len = (max_context_len - target_sent_len) * 0.5
+    tmp_context_after_len = (max_context_len - target_sent_len) * 0.5
+
+    if sum(len_list) <= max_context_len:  # full_context_before_len <= context_before_len and full_context_after_len <= context_after_len
+        max_context_before_len, max_context_after_len = full_context_before_len, full_context_after_len
+    elif full_context_before_len <= tmp_context_before_len and full_context_after_len > tmp_context_after_len:
+        max_context_before_len = full_context_before_len
+        max_context_after_len = max_context_len - (full_context_before_len + target_sent_len)
+    elif full_context_before_len > tmp_context_before_len and full_context_after_len <= tmp_context_after_len:
+        max_context_after_len = full_context_after_len
+        max_context_before_len = max_context_len - (full_context_after_len + target_sent_len)
+    elif full_context_before_len > tmp_context_before_len and full_context_after_len > tmp_context_after_len:
+        max_context_before_len = tmp_context_before_len
+        max_context_after_len = tmp_context_after_len
+    else:
+        print("you wrote wrong if statement")
+        exit(-1)
+
+    # extract context before
     context_before = []
+    context_before_len = []
+    for tokenized_sent, sent_len in zip(indexed_tokens[:sent_index - 1][::-1], len_list[:sent_index - 1][::-1]):
+        if sum(context_before_len) + sent_len <= max_context_before_len:
+            context_before = context_before + tokenized_sent[::-1]
+            context_before_len.append(sent_len)
+
+    # extract context after
     context_after = []
-    for tokenized_sent in indexed_tokens[:sent_index]:
-        context_before += tokenized_sent
-    for tokenized_sent in indexed_tokens[sent_index + 1:]:
-        context_after += tokenized_sent
+    context_after_len = []
+    for tokenized_sent, sent_len in zip(indexed_tokens[sent_index:], len_list[sent_index:]):
+        if sum(context_after_len) + sent_len <= max_context_after_len:
+            context_after = context_after + tokenized_sent
+            context_after_len.append(sent_len)
+
+    context_before.reverse()
 
     return context_before, context_after
 
@@ -187,7 +224,7 @@ def estimate_coherence(args):
 
         results = []
         for j, sentence in enumerate(indexed_sentences):
-            if input_size > max_content_len:
+            if False and input_size > max_content_len:
                 with_sentence, without_sentence = sliding_window_coherence_evaluation(model, device, indexed_sentences, j, max_content_len)
             else:
                 with_sentence, without_sentence = compute_rest_of_story_probability(model, device, indexed_sentences, j, max_content_len)
