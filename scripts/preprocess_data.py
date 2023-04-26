@@ -1,6 +1,5 @@
 import os
-import sys
-import json
+import classla
 import re
 import nltk
 
@@ -11,7 +10,6 @@ ENG_TO_SLO_TITLE = {
     "JORINDA AND JORINDEL" : "jorinda in joringel",
     "THE STRAW, THE COAL, AND THE BEAN" : "slamica ogeljcek in fizolcek",
     "THE FROG-PRINCE" : "zabji princ",
-    "THE ADVENTURES OF CHANTICLEER AND PARTLET" : "boter petelin in njegova zgodba",
     "HANSEL AND GRETEL" : "janko in metka",
     "THE MOUSE, THE BIRD, AND THE SAUSAGE" : "misek pticka in klobasa",
     "LITTLE RED-CAP [LITTLE RED RIDING HOOD]" : "rdeca kapica",
