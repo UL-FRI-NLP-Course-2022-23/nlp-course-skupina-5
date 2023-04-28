@@ -72,13 +72,9 @@ def sliding_window_coherence_evaluation(model, device, indexed_tokens, sent_inde
             loss_w_sent = loss_fct(shift_logits_w.view(-1, shift_logits_w.size(-1)), shift_labels_w.view(-1))
             loss_wo_sent = loss_fct(shift_logits_wo.view(-1, shift_logits_wo.size(-1)), shift_labels_wo.view(-1))
 
-        if context_after_len < 0:
-            context_after_len = 1
-
         all_loss_w_sent.append(loss_w_sent[-context_after_len:].sum().item() / context_after_len)
         all_loss_wo_sent.append(loss_wo_sent[-context_after_len:].sum().item() / context_after_len)
 
-    print("STOP")
     return np.mean(all_loss_w_sent), np.mean(all_loss_wo_sent)
 
 
@@ -173,9 +169,6 @@ def compute_rest_of_story_probability(model, device, indexed_tokens, sent_index,
         loss_w_sentence = loss_fct(shift_logits_w.view(-1, shift_logits_w.size(-1)), shift_labels_w.view(-1))
         loss_wo_sentence = loss_fct(shift_logits_wo.view(-1, shift_logits_wo.size(-1)), shift_labels_wo.view(-1))
 
-    if context_after_len == 0:
-        context_after_len = 1
-
     normalized_loss_w_sentence = loss_w_sentence[-context_after_len:].sum().item() / context_after_len
     normalized_loss_wo_sentence = loss_wo_sentence[-context_after_len:].sum().item() / context_after_len
 
@@ -185,6 +178,9 @@ def compute_rest_of_story_probability(model, device, indexed_tokens, sent_index,
 def estimate_coherence(args):
     logger.info("Loading data...")
     df = pd.read_csv("../data/data.csv", index_col=0)
+
+    # Load the text data for each story
+
 
     logger.info(f"Loading model {args.model}...")
 
@@ -212,29 +208,44 @@ def estimate_coherence(args):
 
     nltk.download('punkt')
     for i, row in df.iterrows():
-        if args.language == "slo":
-            text = row["slo_text"]
-            sentences = nltk.sent_tokenize(text, language="slovene")
+        # Load the sentences data
+        if args.language == "en":
+            title = row['eng_title'].replace(" ", "_")
         else:
-            text = row["eng_text"]
-            sentences = nltk.sent_tokenize(text, language="english")
+            title = row['slo_title'].replace(" ", "_")
+
+        if not os.path.isfile(f"../data/labeled/{title}.csv"):
+            continue
+
+        df_story = pd.read_csv(f"../data/labeled/{title}.csv")
+        sentences = df_story['sentence'].tolist()
+        labels = df_story['label'].tolist()
+
         indexed_sentences = [tokenizer.encode(sentence) for sentence in sentences]
-        input_size = sum([len(sentence) for sentence in indexed_sentences])
         progressbar2 = tqdm(total=len(indexed_sentences), desc="Iteration over sentences")
 
         results = []
-        for j, sentence in enumerate(indexed_sentences):
-            if False and input_size > max_content_len:
-                with_sentence, without_sentence = sliding_window_coherence_evaluation(model, device, indexed_sentences, j, max_content_len)
+        for j, sentence in enumerate(indexed_sentences[:-1]):
+            # If last sentence, we use the special token <|endoftext|>
+            if j == len(indexed_sentences) - 2:
+                if args.use_sliding_window:
+                    with_sentence, without_sentence = sliding_window_coherence_evaluation(model, device, indexed_sentences, j, max_content_len)
+                else:
+                    with_sentence, without_sentence = compute_rest_of_story_probability(model, device, indexed_sentences, j, max_content_len)
             else:
-                with_sentence, without_sentence = compute_rest_of_story_probability(model, device, indexed_sentences, j, max_content_len)
+                if args.use_sliding_window:
+                    with_sentence, without_sentence = sliding_window_coherence_evaluation(model, device, indexed_sentences[:-1], j, max_content_len)
+                else:
+                    with_sentence, without_sentence = compute_rest_of_story_probability(model, device, indexed_sentences[:-1], j, max_content_len)
 
-            results.append([sentences[j], with_sentence, without_sentence, without_sentence - with_sentence])
+            results.append([sentences[j], with_sentence, without_sentence, without_sentence - with_sentence, labels[j]])
 
             progressbar2.update(1)
 
-        results_df = pd.DataFrame(results, columns=["sentence", "with_sentence", "without_sentence", "difference"])
-        results_df.to_csv(f"{args.output}/data_{row['slo_title'].replace(' ', '_')}.csv", sep=",")
+        results_df = pd.DataFrame(results, columns=["sentence", "with_sentence", "without_sentence", "difference", "label"])
+        if args.use_sliding_window:
+            title = f"{title}_window"
+        results_df.to_csv(f"{args.output}/{title}.csv", sep=",")
         progressbar.update(1)
 
 
@@ -244,7 +255,8 @@ if __name__ == "__main__":
     parser.add_argument("--model", type=str, default="gpt2", help="Model name")
     parser.add_argument("--language", type=str, default="eng", help="Language (slo or eng)")
     parser.add_argument("--contextlen", type=int, default=1024, help="Context length")
-    parser.add_argument("--input", type=str, default="../data/all_data.csv", help="Path to the data")
+    parser.add_argument("--use_sliding_window", type=bool, default=True, help="Use sliding window")
+    parser.add_argument("--input", type=str, default="../data/data.csv", help="Path to the data")
     parser.add_argument("--output", type=str, default="../results", help="Path to the output")
 
     estimate_coherence(parser.parse_args())

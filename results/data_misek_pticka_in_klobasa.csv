@@ -1,72 +1,32 @@
-,sentence,with_sentence,without_sentence,difference
-0,"Once upon a time, a mouse, a bird, and a sausage, entered into
-partnership and set up house together.",3.165477248857606,3.286343844431751,0.12086659557414503
-1,"For a long time all went well;
-they lived in great comfort, and prospered so far as to be able to add
-considerably to their stores.",3.1925178183998173,3.322325693704324,0.12980787530450666
-2,"The bird’s duty was to fly daily into the
-wood and bring in fuel; the mouse fetched the water, and the sausage saw
-to the cooking.",3.083935050528113,3.2689492832750955,0.18501423274698237
-3,"When people are too well off they always begin to long for something
-new.",3.190906930477061,3.2528384594207114,0.06193152894365017
-4,"And so it came to pass, that the bird, while out one day, met a
-fellow bird, to whom he boastfully expatiated on the excellence of his
-household arrangements.",3.0353525199142157,3.179926169686625,0.14457364977240905
-5,"But the other bird sneered at him for being a
-poor simpleton, who did all the hard work, while the other two stayed
-at home and had a good time of it.",3.0581069198086923,3.2011849345282317,0.1430780147195394
-6,"For, when the mouse had made the fire
-and fetched in the water, she could retire into her little room and rest
-until it was time to set the table.",3.058230888552782,3.2028644840891767,0.14463359553639465
-7,"The sausage had only to watch the
-pot to see that the food was properly cooked, and when it was near
-dinner-time, he just threw himself into the broth, or rolled in and out
-among the vegetables three or four times, and there they were, buttered,
-and salted, and ready to be served.",2.8589151372354498,3.204048816068673,0.3451336788332231
-8,"Then, when the bird came home and
-had laid aside his burden, they sat down to table, and when they had
-finished their meal, they could sleep their fill till the following
-morning: and that was really a very delightful life.",2.9976205536813447,3.2544292103160513,0.25680865663470653
-9,"Influenced by those remarks, the bird next morning refused to bring in
-the wood, telling the others that he had been their servant long enough,
-and had been a fool into the bargain, and that it was now time to make a
-change, and to try some other way of arranging the work.",2.790664249900053,3.147570514475613,0.3569062645755601
-10,"Beg and pray
-as the mouse and the sausage might, it was of no use; the bird remained
-master of the situation, and the venture had to be made.",2.9601166051462156,3.2033058656465023,0.24318926050028677
-11,"They therefore
-drew lots, and it fell to the sausage to bring in the wood, to the mouse
-to cook, and to the bird to fetch the water.",2.9669576059850375,3.143575083287874,0.1766174773028366
-12,And now what happened?,3.183685135971653,3.190949320141735,0.007264184170082011
-13,"The sausage started in search of wood, the bird
-made the fire, and the mouse put on the pot, and then these two waited
-till the sausage returned with the fuel for the following day.",2.8920792211121866,3.1941868604811945,0.30210763936900786
-14,"But the
-sausage remained so long away, that they became uneasy, and the bird
-flew out to meet him.",3.066345023510972,3.2238777184561127,0.15753269494514077
-15,"He had not flown far, however, when he came across
-a dog who, having met the sausage, had regarded him as his legitimate
-booty, and so seized and swallowed him.",2.8864203559027777,3.278186939380787,0.3917665834780095
-16,"The bird complained to the dog
-of this bare-faced robbery, but nothing he said was of any avail, for
-the dog answered that he found false credentials on the sausage, and
-that was the reason his life had been forfeited.",2.6538508691829006,3.2485687123748646,0.594717843191964
-17,"He picked up the wood, and flew sadly home, and told the mouse all he
-had seen and heard.",2.922592087919489,3.164100083224292,0.24150799530480294
-18,"They were both very unhappy, but agreed to make the
-best of things and to remain with one another.",2.9271586100260416,3.1717149522569446,0.24455634223090295
-19,"So now the bird set the table, and the mouse looked after the food and,
-wishing to prepare it in the same way as the sausage, by rolling in and
-out among the vegetables to salt and butter them, she jumped into the
-pot; but she stopped short long before she reached the bottom, having
-already parted not only with her skin and hair, but also with life.",1.0920078822544643,3.1566813151041666,2.0646734328497023
-20,"Presently the bird came in and wanted to serve up the dinner, but he
-could nowhere see the cook.",2.70946582994963,3.3613040321751644,0.6518382022255342
-21,"In his alarm and flurry, he threw the wood
-here and there about the floor, called and searched, but no cook was to
-be found.",1.772418184100457,3.4048009908424235,1.6323828067419666
-22,"Then some of the wood that had been carelessly thrown down,
-caught fire and began to blaze.",1.086975877935236,2.974692604758523,1.8877167268232868
-23,"The bird hastened to fetch some water,
-but his pail fell into the well, and he after it, and as he was unable
-to recover himself, he was drowned.",1.069103479385376,0.5311254262924194,-0.5379780530929565
+,sentence,with_sentence,without_sentence,difference,label
+0,"Pred davnimi časi so mišek, ptička in klobasa pričeli svojo navezo in pričeli tudi stanovati skupaj.",4.754773637820513,4.99667467948718,0.24190104166666693,1
+1,Zelo dolgo jim je šlo odlično; živeli so v velikem udobju in uspeli svoje zaloge znatno povečevati.,4.751553049395161,5.042429015456989,0.29087596606182764,0
+2,"Naloga ptičke je bila, da je dnevno poletela proti gozdu in poskrbela za kurivo; mišek je prinašal vodo, klobasa pa se je lotila kuhanja.",4.629318114391542,4.980052952387802,0.35073483799626004,1
+3,"Ko pa nam gre prelepo, pričnemo vedno hrepeneti po nečem novem.",4.783329996647795,4.952073362075387,0.16874336542759227,0
+4,"In tako se je po določenem času ptička nekega dne prijatelju ptičku prav na veliko pohvalila, kako odlično imajo urejeno v njihovem gospodinjstvu.",4.466743298805026,4.904919257145203,0.4381759583401772,0
+5,"Prijatelj ptiček pa je prhnil in ji rekel, da je le ona tista, ki postori vso trdo delo, medtem ko sostanovalca doma uživata na njen račun.",4.480536300144839,4.923460885380091,0.4429245852352528,1
+6,"Ker ko je mišek zakuril in prinesel vodo, je lahko počival v svoji mali sobici in ostal tam vse do takrat, ko je bilo potrebno pripraviti mizo.",4.39635314474062,4.854004280125383,0.4576511353847632,0
+7,"Klobasa je morala le gledati v lonec in paziti, da se hrana dobro kuha in ko se je bližal čas kosila, se je le vrgla v enolončnico ali se povaljala med zelenjavo trikrat, štirikrat in to je bilo vse, hrana je bila tako namaščena in osoljena pripravljena za postrežbo.",3.763352507679584,4.873452083825614,1.1100995761460304,0
+8,"Ko je ptička prišla domov in odložila svoje breme, sta se sostanovalca usedla k mizi in ko sta končala z obrokom, sta lahko vse do jutra spala: verjel bi, da je to prav lagodno življenje.",3.9338757377524565,4.730435700395742,0.7965599626432858,0
+9,"Pod vplivom teh opomb je ptička naslednje jutro protestirala in ni hotela prinesti lesa, sostanovalcema je povedala, da je že predolgo njuna sužnja in da sta jo s to kupčijo prinesla okoli ter da je skrajni čas za spremembo in drugačno razporeditev dela med njimi.",3.4247728669241573,4.75444610252809,1.3296732356039325,1
+10,Vsaka prošnja in moledovanje miška in klobase je bila odveč.,4.402677604951054,4.617616952183735,0.21493934723268104,0
+11,Ptička je vztrajala pri svojem in spremembe so bile neizogibne.,4.385301350581984,4.636051564081478,0.25075021349949367,0
+12,"Tako so žrebali in določili, da bo les prinesla klobasa mišku, ki bo kuhal in vodo bo zdaj prinesla ptička.",4.242733764648437,4.664126586914063,0.42139282226562536,1
+13,In kaj se je zgodilo?,4.602266770470925,4.6905549127112325,0.0882881422403079,0
+14,"Klobasa je pričela z iskanjem lesa, ptička je zakurila in mišek je pristavil lonec, tako sta zadnja dva čakala, da se klobasa vrne z lesom, ki ga potrebujejo za kosilo naslednji dan.",3.9453790361789163,4.694006400046942,0.7486273638680259,0
+15,"Ampak klobase dolgo ni bilo in postalo jima je prav nelagodno, zato se je ptička odločila, da jo poišče.",4.260873802404835,4.658876269933128,0.3980024675282925,1
+16,"Ni še letela dolgo, ko je srečala psa.",4.660560684974747,4.811699021464647,0.1511383364898995,0
+17,"Ta je srečal klobaso, si jo vzel za svojo in jo seveda pogoltnil.",4.5525171396683675,4.829325773278061,0.27680863360969354,1
+18,"Ptička se je psu pritožila in ga obtožila kraje, ampak vse, kar je rekla je bilo zaman, saj ji je pes odgovoril, da nima nobenih pravic do klobase, ker jo je našel in zato je njena usoda v njegovih tačkah.",3.8572601783769063,4.790586916190088,0.9333267378131813,0
+19,Pobrala je les in nesrečna odletela domov.,4.566892525399795,4.749628917712001,0.18273639231220606,0
+20,"Povedala je mišku vse, kar je videla in slišala.",4.592927820542279,4.749510521982231,0.15658270143995168,0
+21,"Oba sta bila zelo nesrečna, a vendar sta se dogovorila, da bosta iz tega potegnila najbolje, kar lahko in vseeno ostala sostanovalca.",4.103196230801669,4.80961816961115,0.7064219388094815,0
+22,"Tako je ptička pripravljala mizo, mišek je pazil na hrano in si le želel, da bi jo lahko pripravil tako dobro kot je to znala klobasa, ko se je pomešala med zelenjavo, jo solila in namastila, Tako je tudi sam skočil v lonec, a še preden je dosegel njegovo dno, se je poslovil od svojega kožuščka.",2.2356047503716123,5.0113136494054205,2.775708899033808,1
+23,Od takrat naprej mu dlake nikoli več niso zrasle.,4.154882937061544,4.7539361447704085,0.5990532077088648,0
+24,"Ptička je prišla, da bi postregla hrano, a kuharja ni bilo nikjer.",3.9262176162895117,4.544938010730963,0.6187203944414512,1
+25,"V paniki je odvrgla les povsod po tleh in klicala naokoli, iskala, ampak kuharja ni bilo nikjer.",3.221156928375477,4.89825579228292,1.677098863907443,0
+26,"Prestrašen, opečen mišek je bil že daleč, daleč stran.",3.4522693110447302,4.526240629308364,1.073971318263634,0
+27,"Kar na lepem pa je les, odvržen povsod okoli, zagorel.",2.895276456265836,4.358504011824325,1.4632275555584884,1
+28,"Ptička se je trudila, da bi ga pogasila, a ji je vedro padlo v vodnjak.",1.7832422256469727,4.165442148844401,2.3821999231974287,0
+29,Hiša je za vedno zgorela.,0.9321181433541434,4.059913090297154,3.12779494694301,1
+30,Ptiček je prestrašeno odfrčal stran in z miškom se nikoli več nista srečala.,6.727090358734131,6.95617151260376,0.2290811538696289,1
