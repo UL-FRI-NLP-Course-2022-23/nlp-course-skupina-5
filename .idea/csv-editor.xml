@@ -31,7 +31,28 @@
             </Attribute>
           </value>
         </entry>
+        <entry key="\data\labeled\RUMPELSTILTSKIN.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\data\labeled\hansel_and_gretel.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
         <entry key="\data\labeled\janko_in_metka.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\data\labeled\spicparkeljc.csv">
           <value>
             <Attribute>
               <option name="separator" value="," />
@@ -52,7 +73,21 @@
             </Attribute>
           </value>
         </entry>
+        <entry key="\results\data_janko_in_metka.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
         <entry key="\results\data_jorinda_in_joringel.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\results\data_jorinda_in_joringel_window.csv">
           <value>
             <Attribute>
               <option name="separator" value="," />
