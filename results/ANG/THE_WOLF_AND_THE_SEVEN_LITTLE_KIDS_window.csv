@@ -1,0 +1,50 @@
+,sentence,with_sentence,without_sentence,difference,label
+0,"There was once upon a time an old goat who had seven little kids, and loved them with all the love of a mother for her children.",2.5724402225378786,2.672243923611111,0.09980370107323244,0
+1,One day she wanted to go into the forest and fetch some food.,2.7207664114529972,2.744943837650487,0.024177426197489638,0
+2,"So she called all seven to her and said: ‘Dear children, I have to go into the forest, be on your guard against the wolf; if he comes in, he will devour you all--skin, hair, and everything.The wretch often disguises himself, but you will know him at once by his rough voice and his black feet.’",2.2581664722935164,2.469007056684702,0.2108405843911858,1
+3,"The kids said: ‘Dear mother, we will take good care of ourselves; you may go away without any anxiety.’",2.6022680832242036,2.6300886922807836,0.027820609056580015,0
+4,"Then the old one bleated, and went on her way with an easy mind.",2.684729927604773,2.703198327451979,0.01846839984720594,0
+5,"It was not long before someone knocked at the house-door and called: ‘Open the door, dear children; your mother is here, and has brought something back with her for each of you.’",2.5798171984449314,2.610098158060962,0.0302809596160305,1
+6,"But the little kids knew that it was the wolf, by the rough voice.",2.773746375212319,2.7840868416016673,0.010340466389348268,0
+7,"‘We will not open the door,’ cried they, ‘you are not our mother. She has a soft, pleasant voice, but your voice is rough; you are the wolf!’",2.6556342353463327,2.679650588846271,0.024016353499938248,1
+8,"Then the wolf went away to a shopkeeper and bought himself a great lump of chalk, ate this and made his voice soft with it.",2.7581532866379312,2.7774016515505267,0.019248364912595406,1
+9,"Then he came back, knocked at the door of the house, and called: ‘Open the door, dear children, your mother is here and has brought something back with her for each of you.’",2.756978810327293,2.780144559420072,0.02316574909277902,0
+10,"But the wolf had laid his black paws against the window, and the children saw them and cried: ‘We will not open the door, our mother has not black feet like you: you are the wolf!’",2.802863703263006,2.83369430241769,0.030830599154684002,1
+11,"Then the wolf ran to a baker and said: ‘I have hurt my feet, rub some dough over them for me.’",2.938439396867089,2.9524854504481386,0.014046053581049378,0
+12,"And when the baker had rubbed his feet over, he ran to the miller and said: ‘Strew some white meal over my feet for me.’",2.942386497397557,2.9565893047205996,0.014202807323042688,0
+13,"The miller thought to himself: ‘The wolf wants to deceive someone,’ and refused; but the wolf said: ‘If you will not do it, I will devour you.’",2.9634555234396216,2.981241270745985,0.017785747306363398,0
+14,"Then the miller was afraid, and made his paws white for him.",3.1105438173621147,3.115072571075184,0.004528753713069378,0
+15,"Truly, this is the way of mankind.",3.1439921818082293,3.1461080672248958,0.0021158854166665186,0
+16,"So now the wretch went for the third time to the house-door, knocked at it and said: ‘Open the door for me, children, your dear little mother has come home, and has brought every one of you something back from the forest with her.’",2.9745612244604263,3.0301991729380298,0.055637948477603505,1
+17,The little kids cried: ‘First show us your paws that we may know if you are our dear little mother.’,3.118818645408931,3.1430412483898973,0.024222602980966457,0
+18,"Then he put his paws in through the window and when the kids saw that they were white, they believed that all he said was true, and opened the door.",3.0933697894457644,3.1322703354281733,0.038900545982408996,1
+19,But who should come in but the wolf!,3.1900638054944794,3.196700105648078,0.006636300153598729,0
+20,They were terrified and wanted to hide themselves.,3.2166212837316706,3.2225843925047792,0.005963108773108683,0
+21,"One sprang under the table, the second into the bed, the third into the stove, the fourth into the kitchen, the fifth into the cupboard, the sixth under the washing-bowl, and the seventh into the clock-case.",3.040864984306624,3.093246497296578,0.05238151298995364,1
+22,"But the wolf found them all, and used no great ceremony; one after the other he swallowed them down his throat.",3.0981892330545775,3.13724373457115,0.039054501516572415,0
+23,"The youngest, who was in the clock-case, was the only one he did not find.",3.1520808524825945,3.181898716517857,0.02981786403526243,1
+24,"When the wolf had satisfied his appetite he took himself off, laid himself down under a tree in the green meadow outside, and began to sleep.",3.0973923460905217,3.1506209343524016,0.05322858826187993,0
+25,Soon afterwards the old goat came home again from the forest.,3.1930208684350427,3.2103432008166513,0.01732233238160852,0
+26,Ah! What a sight she saw there!,3.2106035188479782,3.217571276170586,0.006967757322607682,0
+27,The house-door stood wide open.,3.220732535085371,3.2289306271460747,0.008198092060703654,0
+28,"The table, chairs, and benches were thrown down, the washing-bowl lay broken to pieces, and the quilts and pillows were pulled off the bed.",3.0870208567721216,3.1376568075625357,0.050635950790414164,0
+29,"She sought her children, but they were nowhere to be found.",3.2043236806441318,3.222001438270621,0.017677757626489043,0
+30,"She called them one after another by name, but no one answered.",3.1895266218445166,3.2199014269847397,0.03037480514022306,0
+31,"At last, when she came to the youngest, a soft voice cried: ‘Dear mother, I am in the clock-case.’",3.1424395965514273,3.1965256356322502,0.05408603908082288,1
+32,"She took the kid out, and it told her that the wolf had come and had eaten all the others.",3.1962123867492025,3.2348843707268484,0.03867198397764593,0
+33,Then you may imagine how she wept over her poor children.,3.2495809923011545,3.267424019916686,0.017843027615531692,0
+34,"At length in her grief she went out, and the youngest kid ran with her.",3.237396147639953,3.2655945055704803,0.028198357930527163,0
+35,"When they came to the meadow, there lay the wolf by the tree and snored so loud that the branches shook.",3.192372227462765,3.239967546259335,0.04759531879657031,0
+36,She looked at him on every side and saw that something was moving and struggling in his gorged belly.,3.2107124621366157,3.249015568302678,0.03830310616606214,1
+37,"‘Ah, heavens,’ she said, ‘is it possible that my poor children whom he has swallowed down for his supper, can be still alive?’",3.12722366872071,3.204576945837745,0.0773532771170351,0
+38,"Then the kid had to run home and fetch scissors, and a needle and thread, and the goat cut open the monster’s stomach, and hardly had she made one cut, than one little kid thrust its head out, and when she had cut farther, all six sprang out one after another, and were all still alive, and had suffered no injury whatever, for in his greediness the monster had swallowed them down whole.",2.7128574814704005,2.948134567206824,0.2352770857364237,1
+39,What rejoicing there was!,3.082104295338856,3.091415827954575,0.009311532615718932,0
+40,"They embraced their dear mother, and jumped like a tailor at his wedding.",3.0028694709612305,3.034099192120855,0.031229721159624635,0
+41,"The mother, however, said: ‘Now go and look for some big stones, and we will fill the wicked beast’s stomach with them while he is still asleep.’",2.955165956423943,3.0460937160089636,0.09092775958502042,1
+42,"Then the seven kids dragged the stones thither with all speed, and put as many of them into this stomach as they could get in; and the mother sewed him up again in the greatest haste, so that he was not aware of anything and never once stirred.",2.8782187943533404,3.0354085577638674,0.15718976341052704,0
+43,"When the wolf at length had had his fill of sleep, he got on his legs, and as the stones in his stomach made him very thirsty, he wanted to go to a well to drink.",3.002559755299542,3.1036077254527323,0.10104797015319011,1
+44,"But when he began to walk and to move about, the stones in his stomach knocked against each other and rattled.",3.1723934310560318,3.217154071768457,0.044760640712425026,0
+45,"Then cried he: ‘What rumbles and tumbles Against my poor bones? I thought ‘twas six kids, but it feels like big stones.’",2.6674406031808835,2.7644464821924544,0.09700587901157087,0
+46,"And when he got to the well and stooped over the water to drink, the heavy stones made him fall in, and he drowned miserably.",2.503062372458609,2.6650254784968865,0.16196310603827735,1
+47,"When the seven kids saw that, they came running to the spot and cried aloud: ‘The wolf is dead!",3.224293926085792,3.408576680022263,0.1842827539364711,0
+48,The wolf is dead!’ and danced for joy round about the well with their mother.,3.434160000238663,3.8479294776916504,0.4137694774529872,1

@@ -1,0 +1,72 @@
+,sentence,with_sentence,without_sentence,difference,label
+0,"Once upon a time, a mouse, a bird, and a sausage, entered into
+partnership and set up house together.",4.540659666328388,4.548208614746641,0.007548948418253154,1
+1,"For a long time all went well;
+they lived in great comfort, and prospered so far as to be able to add
+considerably to their stores.",4.593914971324061,4.5885626467666185,-0.0053523245574425005,0
+2,"The bird’s duty was to fly daily into the
+wood and bring in fuel; the mouse fetched the water, and the sausage saw
+to the cooking.",4.53015072910384,4.537368927799558,0.007218198695717604,1
+3,"When people are too well off they always begin to long for something
+new.",4.552424883601642,4.547664295543324,-0.004760588058317694,0
+4,"And so it came to pass, that the bird, while out one day, met a
+fellow bird, to whom he boastfully expatiated on the excellence of his
+household arrangements.",4.551690479035074,4.551231286880817,-0.0004591921542562716,0
+5,"But the other bird sneered at him for being a
+poor simpleton, who did all the hard work, while the other two stayed
+at home and had a good time of it.",4.542820911201223,4.541203006086184,-0.0016179051150384538,1
+6,"For, when the mouse had made the fire
+and fetched in the water, she could retire into her little room and rest
+until it was time to set the table.",4.560436186475992,4.556669596825253,-0.0037665896507395047,0
+7,"The sausage had only to watch the
+pot to see that the food was properly cooked, and when it was near
+dinner-time, he just threw himself into the broth, or rolled in and out
+among the vegetables three or four times, and there they were, buttered,
+and salted, and ready to be served.",4.588719455840399,4.5754054595078255,-0.013313996332573907,0
+8,"Then, when the bird came home and
+had laid aside his burden, they sat down to table, and when they had
+finished their meal, they could sleep their fill till the following
+morning: and that was really a very delightful life.",4.578247021523406,4.573544631092002,-0.004702390431404524,0
+9,"Influenced by those remarks, the bird next morning refused to bring in
+the wood, telling the others that he had been their servant long enough,
+and had been a fool into the bargain, and that it was now time to make a
+change, and to try some other way of arranging the work.",4.557234238320868,4.550502543420385,-0.006731694900483198,1
+10,"Beg and pray
+as the mouse and the sausage might, it was of no use; the bird remained
+master of the situation, and the venture had to be made.",4.54346810437401,4.533145003187513,-0.010323101186497041,0
+11,"They therefore
+drew lots, and it fell to the sausage to bring in the wood, to the mouse
+to cook, and to the bird to fetch the water.",4.599870630538483,4.590278251852847,-0.009592378685636227,1
+12,And now what happened?,4.589609974985952,4.584920084798014,-0.004689890187937529,0
+13,"The sausage started in search of wood, the bird
+made the fire, and the mouse put on the pot, and then these two waited
+till the sausage returned with the fuel for the following day.",4.637249382174746,4.629457788974965,-0.007791593199780955,0
+14,"But the
+sausage remained so long away, that they became uneasy, and the bird
+flew out to meet him.",4.685817512633308,4.66350569952102,-0.022311813112288803,1
+15,"He had not flown far, however, when he came across
+a dog who, having met the sausage, had regarded him as his legitimate
+booty, and so seized and swallowed him.",4.6601848333654265,4.6511635847494635,-0.009021248615963096,1
+16,"The bird complained to the dog
+of this bare-faced robbery, but nothing he said was of any avail, for
+the dog answered that he found false credentials on the sausage, and
+that was the reason his life had been forfeited.",4.6779819138544685,4.68070720523935,0.002725291384881423,0
+17,"He picked up the wood, and flew sadly home, and told the mouse all he
+had seen and heard.",4.60561223196747,4.609637209196295,0.004024977228825222,0
+18,"They were both very unhappy, but agreed to make the
+best of things and to remain with one another.",4.821578907256205,4.813213215601938,-0.008365691654266705,0
+19,"So now the bird set the table, and the mouse looked after the food and,
+wishing to prepare it in the same way as the sausage, by rolling in and
+out among the vegetables to salt and butter them, she jumped into the
+pot; but she stopped short long before she reached the bottom, having
+already parted not only with her skin and hair, but also with life.",4.482022469260476,4.480216425115411,-0.0018060441450655773,1
+20,"Presently the bird came in and wanted to serve up the dinner, but he
+could nowhere see the cook.",4.437282762073336,4.4239128294445225,-0.013369932628813253,1
+21,"In his alarm and flurry, he threw the wood
+here and there about the floor, called and searched, but no cook was to
+be found.",4.346872688887955,4.324536571254978,-0.02233611763297727,0
+22,"Then some of the wood that had been carelessly thrown down,
+caught fire and began to blaze.",4.2011074794488055,4.205400030644494,0.00429255119568861,1
+23,"The bird hastened to fetch some water,
+but his pail fell into the well, and he after it, and as he was unable
+to recover himself, he was drowned.",5.693665663401286,7.256469110647838,1.5628034472465515,1

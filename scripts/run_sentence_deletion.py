@@ -3,7 +3,7 @@ import pandas as pd
 import numpy as np
 import argparse
 import torch
-import classla
+# import classla
 import nltk.data
 from tqdm import tqdm
 from logzero import logger
@@ -53,8 +53,8 @@ def sliding_window_coherence_evaluation(model, device, indexed_tokens, sent_inde
         input_tensor_wo_sent = torch.tensor(context_before + context_after).unsqueeze(0).to(device)
 
         with torch.no_grad():
-            print(input_tensor_wo_sent.shape)
-            print(input_tensor_w_sent.shape)
+            # print(input_tensor_wo_sent.shape)
+            # print(input_tensor_w_sent.shape)
             outputs_w_sent = model(input_tensor_w_sent)
             outputs_wo_sent = model(input_tensor_wo_sent)
 
@@ -252,9 +252,9 @@ def estimate_coherence(args):
 
 if __name__ == "__main__":
     parser = argparse.ArgumentParser()
-    parser.add_argument("--gpu", type=int, default=-1, help="use gpu or not")
-    parser.add_argument("--model", type=str, default="gpt2", help="Model name")
-    parser.add_argument("--language", type=str, default="eng", help="Language (slo or eng)")
+    parser.add_argument("--gpu", type=int, default=1, help="use gpu or not")
+    parser.add_argument("--model", type=str, default="cjvt/gpt-sl-base", help="Model name")
+    parser.add_argument("--language", type=str, default="slo", help="Language (slo or eng)")
     parser.add_argument("--contextlen", type=int, default=1024, help="Context length")
     parser.add_argument("--use_sliding_window", type=bool, default=True, help="Use sliding window")
     parser.add_argument("--input", type=str, default="../data/data.csv", help="Path to the data")
