@@ -3,20 +3,14 @@ import numpy as np
 import matplotlib.pyplot as plt
 
 
-def visulaize(manual_path, automatic_path):
-    manual_label = get_annotation(manual_path)
-    automatic_label = get_annotation(automatic_path)
-
-    manual_label = np.delete(manual_label, -1)
-
-    print(manual_label)
-    print(automatic_label)
+def visualize(result_path):
+    manual_label, automatic_label = get_annotation(result_path)
 
     if len(manual_label) != len(automatic_label):
         print("Error sizes of stories mismatch!")
         return
 
-    path_parts = manual_path.replace(".csv", "").split("\\")
+    path_parts = result_path.replace(".csv", "").split("\\")
     title = path_parts[-1].replace("_", " ")
 
     x_values = list(range(1, len(manual_label) + 1))
@@ -33,29 +27,35 @@ def visulaize(manual_path, automatic_path):
 
 
 def get_annotation(file_path):
-    annotation = []
+    annotation_manual = []
+    annotation_automatic = []
     with open(file_path, mode='r', encoding='utf-8') as file:
         csv_reader = csv.reader(file)
-        # Ship first row
+        # Skip first row
         next(csv_reader)
         for row in csv_reader:
-            if "results" in file_path:
-                value = row[4]
-            else:
-                value = row[0]
+            difference = row[4]
+            labeled = row[5]
             try:
-                to_float = float(value)
-                annotation.append(float(to_float))
+                to_float = float(difference)
+                annotation_automatic.append(float(to_float))
             except:
                 print("Error with cvs number conversion")
-    return np.array(annotation)
+            try:
+                to_float = float(labeled)
+                annotation_manual.append(float(to_float))
+            except:
+                print("Error with cvs number conversion")
+
+    return np.array(annotation_manual), np.array(annotation_automatic)
 
 
 if __name__ == "__main__":
 
-    # Fill lists with stories you would like to compare
-    manual_labeled = [r"..\data\labeled\misek_pticka_in_klobasa.csv"]
-    automatic_labeled = [r"..\results\SLO\misek_pticka_in_klobasa.csv"]
+    # Fill lists with stories you would like to visualize
+    results = [r"..\results\ANG\the_mouse_the_bird_and_the_sausage.csv",
+               r"..\results\ANG\RUMPELSTILTSKIN.csv",
+               r"..\results\ANG\THE_WOLF_AND_THE_SEVEN_LITTLE_KIDS.csv"]
 
-    for i, j in zip(manual_labeled, automatic_labeled):
-        visulaize(i, j)
+    for result in results:
+        visualize(result)
