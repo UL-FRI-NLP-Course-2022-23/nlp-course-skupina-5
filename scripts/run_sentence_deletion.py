@@ -217,6 +217,7 @@ def estimate_coherence(args):
         if not os.path.isfile(f"../data/labeled/{title}.csv"):
             continue
 
+        print(title)
         df_story = pd.read_csv(f"../data/labeled/{title}.csv")
         sentences = df_story['sentence'].tolist()
         labels = df_story['label'].tolist()

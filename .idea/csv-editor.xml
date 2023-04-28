@@ -3,13 +3,6 @@
   <component name="CsvFileAttributes">
     <option name="attributeMap">
       <map>
-        <entry key="\data\all_data.csv">
-          <value>
-            <Attribute>
-              <option name="separator" value="," />
-            </Attribute>
-          </value>
-        </entry>
         <entry key="\data\data.csv">
           <value>
             <Attribute>
@@ -24,13 +17,6 @@
             </Attribute>
           </value>
         </entry>
-        <entry key="\data\labeled\HANSEL_AND_GRETEL.csv">
-          <value>
-            <Attribute>
-              <option name="separator" value="," />
-            </Attribute>
-          </value>
-        </entry>
         <entry key="\data\labeled\RUMPELSTILTSKIN.csv">
           <value>
             <Attribute>
@@ -39,20 +25,6 @@
           </value>
         </entry>
         <entry key="\data\labeled\THE_WOLF_AND_THE_SEVEN_LITTLE_KIDS.csv">
-          <value>
-            <Attribute>
-              <option name="separator" value="," />
-            </Attribute>
-          </value>
-        </entry>
-        <entry key="\data\labeled\hansel_and_gretel.csv">
-          <value>
-            <Attribute>
-              <option name="separator" value="," />
-            </Attribute>
-          </value>
-        </entry>
-        <entry key="\data\labeled\janko_in_metka.csv">
           <value>
             <Attribute>
               <option name="separator" value="," />
@@ -101,56 +73,7 @@
             </Attribute>
           </value>
         </entry>
-        <entry key="\results\data_boter_petelin_in_njegova_zgodba.csv">
-          <value>
-            <Attribute>
-              <option name="separator" value="," />
-            </Attribute>
-          </value>
-        </entry>
-        <entry key="\results\data_boter_petelin_in_njegova_zgodba_window.csv">
-          <value>
-            <Attribute>
-              <option name="separator" value="," />
-            </Attribute>
-          </value>
-        </entry>
-        <entry key="\results\data_janko_in_metka.csv">
-          <value>
-            <Attribute>
-              <option name="separator" value="," />
-            </Attribute>
-          </value>
-        </entry>
-        <entry key="\results\data_janko_in_metka_window.csv">
-          <value>
-            <Attribute>
-              <option name="separator" value="," />
-            </Attribute>
-          </value>
-        </entry>
-        <entry key="\results\data_jorinda_in_joringel.csv">
-          <value>
-            <Attribute>
-              <option name="separator" value="," />
-            </Attribute>
-          </value>
-        </entry>
-        <entry key="\results\data_jorinda_in_joringel_window.csv">
-          <value>
-            <Attribute>
-              <option name="separator" value="," />
-            </Attribute>
-          </value>
-        </entry>
-        <entry key="\results\data_zlata_ptica.csv">
-          <value>
-            <Attribute>
-              <option name="separator" value="," />
-            </Attribute>
-          </value>
-        </entry>
-        <entry key="\results\data_zlata_ptica_window.csv">
+        <entry key="\results\data_misek_pticka_in_klobasa.csv">
           <value>
             <Attribute>
               <option name="separator" value="," />
