@@ -1,41 +1,146 @@
 ,label,sentence
-0,1,"Živel je oče, ki je imel dva otroka, Janka in Metko."
-1,1,"Ker so bili zelo revni in niso imeli kaj za pod zob, se je nekega dne odločil, da ju bo odpeljal v gozd in pustil tam."
-2,1,"Upal je, da se jima bo uspelo rešiti in da bosta našla kakšnega dobrotnika, ki ju bo vzel s seboj in ju nahranil."
-3,1,"Rekel je: »Moram v gozd po drva.Pridita z mano in v gozdu naberita sladkih borovnic in jagod.«"
-4,1,"Otroka sta se razveselila, da ju bo oče vzel s seboj, saj nista pričakovala, da ju bo kar pustil v gozdu."
-5,1,"Kmalu je oče izginil in ostala sta sama sredi temačnega gozda."
-6,1,"Začela sta iskati očeta in zašla globoko v gozd."
-7,1,"Zdelo se jim je da slišita zvok sekire, zato sta nadaljevala s hojo."
-8,1,"Na travniku sta zagledala sladkih borovnic in jagod in jih začela nabirati."
-9,1,"Kmalu je zvok sekire utihnil, otroka pa nista več našla poti nazaj."
-10,1,"Oče se ni oglašal na njune klice in počasi se je sonce skrilo za krošnje dreves in nastopila je trdna noč."
-11,1,"Otroka je bilo strah, še posebej mlajšo Metko."
-12,1,"Janko se je domislil in splezal na vrh najvišjega drevesa."
-13,1,"Od tam je v bližini zagledal luč, se razveselil in z Metko sta se odpravila proti svetlobi."
-14,1,"Bila sta lačna in izčrpana, ko sta le prišla do hiške."
-15,1,"Tam pa ju je čakalo presenečenje."
-16,1,"Nista mogla verjeti svojim očem."
-17,1,"Pred njima je stala hiša iz medenjakov in sladkorja, streha pa je bila iz čokolade, bombonov in sladkega marcipana."
-18,1,"Janko se ni obotavljal – hitro je odlomil del strehe in jo dal sestrici."
-19,1,"Odlomil je še zase kos sladke strehe, ko se je pred njima prikazala strašna čarovnica in vprašala: »Kdo mi uničuje mojo lepo hiško«."
-20,1,"Otroka sta se prestrašila, ona pa ju je hitro vtaknila v kletko."
-21,1,"Metko je imela za sužnjo."
-22,1,"Morala je skrbeti zanjo in opravljati vsa gospodinjska dela, ji kuhati, čistiti in prati."
-23,1,"Janka je čarovnica vtaknila v kletko in ga pitala s sladkarijami, da bi se čim prej poredil."
-24,1,"Vsak dan je preverjala če je že dovolj debel, da bi ga skuhala in požrla."
-25,1,"Toda Janko je bil prebrisan in ji namesto prsta vedno pomolil palčko."
-26,1,"Čarovnica se je čudila, da je fant kljub vsem sladkarijam še vedno tako koščen."
-27,1,"Nekega dne pa ji je prekipelo in ukazala je Metki naj zakuri ogenj, da bo požrla njenega brata za kosilo."
-28,1,"Nič ni pomagalo, da je Metka neutolažljivo jokala."
-29,1,"Metka je morala nalagati drva v peč, čarovnica pa jo je spraševala ali dobro gori."
-30,1,"Metka ji je odgovorila, da ne more sama pogledati tako visoko."
-31,1,"Čarovnica se je razjezila in sama pogledala v peč – takrat pa je Metka izkoristila priložnost in jo porinila v gorečo peč."
-32,1,"Čarovnica je zavreščala in kmalu zgorela do smrti."
-33,1,"Metka je hitro osvobodila Janka in bila sta presrečna, da sta končno rešena."
-34,1,"Čarovnici sta vzela bisere, ki sta jih našla v skrinjici."
-35,1,"Tekla sta kar so ju nesle noge, da bi našla očeta in dom."
-36,1,"Medtem je bilo njunemu očetu strašno žal, da ju je pustil sama v strašnem gozdu."
-37,1,"Vsak dan ju je iskal in upal, da sta otroka še živa in zdrava."
-38,1,"Nekje na poti so se srečali in si presrečni padli v objem."
-39,1,"Oče je otroka prosil za odpuščanje in skupaj so se vrnili domov ter srečno živeli do konca svojih dni."
+0,1,Na robu nekega velikega gozda je živel reven drvar s svojo ženo in z dvema otrokoma.
+1,1,Fantku je bilo ime Janko in dekletcu Metka.
+2,1,"Drvarjeva družina že tako ni imela kdo ve kaj jesti, ko pa je nastopilo nerodovitno leto, ni mogel drvar zaslužiti niti vsakdanjega kruha."
+3,1,"Ko je tako ponoči premišljeval v svoji postelji in se od skrbi premetaval, je vzdihnil in dejal svoji ženi: »Kaj bo z nami?"
+4,1,"Kako naj preživiva svoja uboga otroka, ko še zase nimava ničesar več?« »Veš kaj, mož,« je odgovorila žena, »jutri navsezgodaj od- peljiva otroka v gozd v najgostejšo goščo."
+5,1,"Tam zakuriva ogenj in dajva vsakemu še košček kruha, nato pa se odpraviva na svoje delo in ju pustiva sama."
+6,1,"Tako ne bosta več našla poti domov in se jih bova odkrižala.« »Ne, žena,« je rekel mož, »tega ne bom storil."
+7,1,"Srce mi ne da, da bi puščal otroka sama v gozdu."
+8,1,"Saj pridejo divje zveri in ju raztrgajo.« »O, ti bedak,« je rekla na to žena, »po tvojem naj potemtakem vsi štirje od lakote umremo."
+9,1,"Ostane nam samo to, da izoblaš deske za mrtvaške krste.« In mu ni dala miru, dokler ni pristal."
+10,1,»Uboga otroka pa se mi vseeno smilita!« je dejal mož.
+11,1,"Tudi lačna otroka nista mogla zaspati in sta slišala, kaj je mačeha rekla očetu."
+12,1,"Metka je bridko zajokala in rekla Janku: »To je najin konec!«
+»Tiho, Metka,« je rekel Janko, »nič ne skrbi, jaz si bom že kaj izmislil za naju.« In ko sta stara dva zaspala, je vstal, oblekel svoj suknjič, odprl zunanja vrata in se splazil ven."
+13,1,"Mesec je jasno svetil in belo kamenje, ki je ležalo pred kočo, je sijalo kakor sami srebrniki."
+14,1,Janko se je sklonil in si vse žepe natlačil s kamenčki.
+15,1,"Nato je šel nazaj v hišo in dejal Metki: »Nič ne skrbi, draga sestrica, kar mirno zaspi, vse bo še dobro.« In je legel nazaj v svojo posteljo."
+16,1,"Zgodaj zjutraj, še preden je vzšlo sonce, je že prišla mačeha in zbudila otroka: »Vstanita, lenuha, v gozd grerilo po drva.« Nato je dala vsakemu košček kruha in rekla: »Tu imata nekaj za kosilo, a ne pojejta takoj, ker ne dobita nič drugega.« Metka je dala kruh pod prepasnik, ker je imel Janko vse žepe natlačene s kamenčki."
+17,1,Nato so se vsi štirje odpravili na pot proti gozdu.
+18,1,"Ko so že nekaj časa hodili, se je Janko ustavil in se oziral nazaj proti hiši."
+19,1,Tako se je ustavljal in oziral venomer.
+20,1,"»Kaj pa se kar naprej ustavljaš in zijaš nazaj, Janko?"
+21,1,"Pazi in ne pozabi na svoje noge,« je rekel oče."
+22,1,"»Oh, oče,« je dejal deček, »po svoji beli mucki se oziram."
+23,1,"Ta sedi na strehi in se poslavlja od mene.« »Bedak,« je rekla mati, »to ni tvoja bela mačka, to je jutranje sonce, ki sije na dimnik.« Janko pa se ni oziral po mački, temveč je vsakič vrgel na pot po en svetal kamenček iz žepa."
+24,1,"Ko so prišli v sredo gozda, je dejal oče: »Naberita drv, otroka, zakuril bom ogenj, da vaju ne bo zeblo.« Janko in Metka sta nanosila celo goro dračja."
+25,1,"Prižgali so ga in ko je ogenj visoko vzplapolal, je rekla ženska: »Zdaj pa lezita k ognju, otroka, in se odpočijta, midva z očetom greva v gozd sekat les."
+26,1,"Ko opraviva, se vrneva po vaju.«
+ Janko in Metka sta sedela ob ognju in ko je bilo poldne, sta pojedla vsak svoj košček kruha."
+27,1,"Ves čas sta slišala udarce sekire in bilo je, kakor da seka oče nekje v bližini."
+28,1,"To pa ni bila sekira, marveč veja, ki jo je oče privezal ob trhlo drevo in je v vetru udarjala sem in tja."
+29,1,"Otroka sta tako dolgo sedela ob ognju, da so se jima od utrujenosti začele zapirati oči."
+30,1,Trdno sta zaspala.
+31,1,"Ko sta se zbudila, je bila že črna noč."
+32,1,"Metka je začela jokati in je rekla : »Kako prideva zdaj iz tega gozda?« »Samo majceno počakaj,« jo je tolažil Janko."
+33,1,"»Ko vzide mesec, bova že našla pot.« Ko se je prikazala luna na nebu, je Janko prijel sestrico za roko in šel za kamenčki, ki so se iskrili kakor novo kovani srebrniki in jima kazali pot."
+34,1,Hodila sta vso noč in prišla šele v svitu naslednjega dne spet do domače hiše.
+35,1,"Potrkala sta na vrata in ko je ženska odprla in videla, da sta onadva, je rekla: »Otroka malopridna, kaj pa sta tako dolgo spala v hosti."
+36,1,"Z očetom sva že mislila, da se nočeta vrniti.« Oče pa se ju je razveselil, kajti v srcu ga je grizlo, da ju je bil pustil tako sama."
+37,1,"Minilo je nekaj časa, pa je spet iz vseh kotov pritisnilo pomanjkanje."
+38,1,"In otroka sta slišala, kako je mačeha rekla ponoči očetu v postelji : »Spet nam je pošel ves živež, samo pol hlebca kruha še imamo, potlej bo pesmi konec."
+39,1,Otroka morata z doma.
+40,1,"Odvedla ju bova še globlje v gozd, da ne bosta našla več poti iz njega."
+41,1,"Drugače ni rešitve za naju.« Drvarju je bilo težko pri srcu in pomislil je: »Bolje bi bilo, da bi zadnji grižljaj delil s svojima otrokoma.«
+ Toda pri ženski je bilo bob ob steno vse, kar je dejal."
+42,1,Oštevala ga je in ga obsipala z očitki.
+43,1,"In ko je drvar že enkrat pristal, je moral še drugič."
+44,1,Otroka pa sta bila budna in sta slišala ves ta pomenek.
+45,1,"Ko sta stara dva zaspala, je Janko spet vstal, hotel ven po kamenčke kakor zadnjikrat, toda ženska je zaklenila vrata in Janko ni mogel iz hiše."
+46,1,"Vseeno pa je pomiril sestrico, ki je jokala: »Nič ne jokaj, Metka, kar mirno spi."
+47,1,Vse bo še dobro.« Navsezgodaj je prišla mačeha in vrgla otroka iz postelje.
+48,1,"Dobila sta vsak svoj košček kruha, ki pa je bil še manjši kakor zadnjikrat."
+49,1,"Na poti proti gozdu je Janko drobil kruh v žepu, se večkrat ustavil in vrgel drobtinico na pot."
+50,1,"»Kaj pa se ustavljaš, Janko, in gledaš nazaj?« je rekel oče."
+51,1,"»Pojdi svojo pot.« »Po svojem golobčku se oziram, ki sedi na strehi in se hoče posloviti od mene,« je odgovoril Janko."
+52,1,"»Bedak,« je rekla ženska, »to ni tvoj golob, to je jutranje sonce, ki sije na dimnik.« Janko pa je polagoma zmetal vse drobtinice na pot."
+53,1,"Mačeha je odvedla otroka še globlje v gozd, v tako goščo, kakršne še živ dan nista videla."
+54,1,"Tam so spet zakurili velik ogenj in mačeha je rekla: »Kar lepo sedita tukaj, otroka, in če bosta trudna, lahko malo zaspita."
+55,1,"Z očetom greva v gozd sekat les, in zvečer, ko opraviva svoje delo, prideva po vaju.« Opoldne je Metka delila svoj košček kruha z Jankom, ki je svojega raztrosil po poti."
+56,1,Nato sta zaspala.
+57,1,"Minil je že večer, k ubogima otrokoma pa ni bilo žive duše."
+58,1,"Prebudila sta se šele v črni noči in Janko je miril svojo sestrico in ji rekel: »Kar počakaj, Metka, da je miril svojo sestrico in ji rekel: »Kar počakaj, Metka, da
+vzide mesec."
+59,1,"Potlej bova lahko videla drobtinice, ki sem jih natrosil, da nama pokažejo pot domov.« Ko je vzšla luna, sta se odpravila, a nobene drobtinice ni bilo več na poti, kajti tisoč in tisoč ptic, ki so letale po gozdu in po polju, jih je pozobalo."
+60,1,"»Tudi tako bova našla pot,« je rekel Janko Metki."
+61,1,A nista je našla.
+62,1,"Hodila sta vso noč in še cel dan od jutra do večera, a nista prišla iz gozda."
+63,1,"Bila sta zelo lačna, ker nista imela nič ,drugega kakor nekaj jagod, ki sta jih nabrala."
+64,1,"Bila sta tudi že tako utrujena, da ju noge niso hotele več nositi."
+65,1,Tako sta legla pod neko drevo in zaspala.
+66,1,"To je bilo že tretje jutro, odkar sta odšla iz hiše svojega očeta."
+67,1,"Vzela sta spet pot pod noge, a sta zašla še globlje v gozd."
+68,1,"Čutila sta, da bosta omagala in umrla, če ne pride kmalu kakšna pomoč."
+69,1,"Ko je bilo okrog poldne, sta zagledala lepo, snežno belo ptico, ki je sedela na veji in tako prelepo gostolela, da sta se ustavila in ji prisluhnila."
+70,1,"Ko je utihnila, je razpela krila in poletavala pred njima."
+71,1,"Otroka sta šla za ptico, dokler nista prišla do neke hišice, kjer je ptica sedla na streho."
+72,1,"Ko pa sta prišla čisto blizu, sta opazila, da je hišica iz kruha sezidana in s štrukeljčki pokrita; okenca pa so bila iz svetlega sladkorčka."
+73,1,"»Tega se pa kar lotiva,« je rekel Janko Metki."
+74,1,»Privoščiva si pošteno južino.
+75,1,"Jaz bom pojedel košček strehe, ti, Metka, pa vzemi košček okna, da se boš posladkala.« Janko je segel z roko in odlomil košček strehe, da bi videl, kako tekne."
+76,1,Metka pa se je lotila šipe in začela hrustati.
+77,1,"Tedaj se je oglasil tenek glas iz sobe: »Hrst, brst, kateri miško kruši, hrusta mojo hiško«
+ Otroka pa sta odgovorila »Vetrc, vetrc iz neba okrog hišice pihlja,« in sta jedla dalje ter se nista dala motiti."
+78,1,"Janko, ki mu je streha prav dobro teknila, jo je iztrgal velik kos in Metka je potegnila ven celo okroglo šipo, sedla na tla in si privoščila."
+79,1,"Tedaj pa so se nenadoma odprla vrata in ven je prišantala kakor zemlja stara ženska, ki se je opirala na bergle."
+80,1,"Janko in Metka sta se tako prestrašila, da jima je popadalo na tla vse, kar sta držala v rokah."
+81,1,"Starka pa je zmajevala z glavo in govorila: »Ejej, ljuba otroka moja, kdo pa vaju je pripeljal sem?"
+82,1,Stopita no v hišo in ostanita pri meni.
+83,1,Nič hudega se vama ne bo zgodilo.« a se vama ne bo zgodilo.« Prijela ju je za roko in ju odpeljala v hišico.
+84,1,"Tam so jima pripravili dobro kosilo, mleko in cvrtnjak s sladkorjem, jabolka in orehe."
+85,1,Nato so belo postlali dve lepi posteljici in Janko in in orehe.
+86,1,Nato so belo postlali dve lepi posteljici in Janko in Metka sta legla in sladko zaspala.
+87,1,Starka pa se je samo delala dobro.
+88,1,"Bila je hudobna čarovnica, ki je prežala na otroke in je svojo kruhasto hišico sezidala samo zato, da bi jih privabila."
+89,1,"Ko je prišel kak otrok v njeno samo zato, da bi jih privabila."
+90,1,"Ko je prišel kak otrok v njeno oblast, ga je ubila, skuhala in ga požrla."
+91,1,Čarovnice imajo rdeče oči in ne morejo videti daleč.
+92,1,"Imajo pa tenek voh kakor živali in zaduhajo, če pridejo ljudje v bližino."
+93,1,"Ko sta se Janko in Metka bližala njeni hišici, se je ženska zlobno zasmejala in posmehljivo dejala: »Ta dva sta mi padla v kremplje."
+94,1,"Ne bosta mi popihala.« Zgodaj zjutraj, ko sta otroka še spala, je že vstala in ko ju je videla, kako milo spita s svojimi polnimi rdečimi lički, je zamrmrala predse: »To bo slasten prigrizek!«
+ Zgrabila je Janka s svojimi koščenimi rokami ga odnesla v majhen hlev in ga zaprla za zamrežena vrata."
+95,1,"Ni mu pomagalo, da je kričal in vpil na vse grlo."
+96,1,"Nato je stopila k Metki in jo stresla, da se je zdramila."
+97,1,"Zaklicala ji je: »Vstani, zaspanka, nanosi vode in skuhaj svojemu bratu kaj dobrega."
+98,1,"Zaprt je v hlevu, da se bo zredil."
+99,1,"Ko bo lepo rejen, ga bom pojedla.« Metka je bridko zajokala, a bilo je vse zaman, morala je storiti, kar je zahtevala hudobna čarovnica."
+100,1,"Tako so ubogemu Janku kuhali najboljše jedi, Metka pa je dobivala samo ostanke."
+101,1,"Vsako jutro je odšantala starka k hlevčku in zaklicala: »Janček, pomoli ven svoj prst, da bom potipala, ali boš kmalu rejen.« Janko pa ji je pomolil koščico in starka, ki je imela brljave oči, tega ni mogla videti in je mislila, da so Jankovi prsti, ter se čudila, da se kar nič ne zredi."
+102,1,"Ko so minili štirje tedni in je Janko ostal še kar suh, jo je premagala nepotrpežljivost in ni marala več čakati."
+103,1,"Metka,« je zaklicala deklici, »skoči hitro in nanosi vodo."
+104,1,"Naj bo Janko debel ali suh, jutri ga bom zaklala in ga skuhala.« Oh, kako je jokala uboga deklica, ko je morala nositi vodo!"
+105,1,Kako so ji tekle solze po licih!
+106,1,"»Bolje bi bilo, da bi naju požrle divje zveri v gozdu."
+107,1,Tako bi vsaj skupaj umrla!« je tarnala.
+108,1,"»Nikar se ne cmeri,« jo je osorno zavrnila starka, »to vse ti ne bo prav nič pomagalo.« Metka je morala zgodaj zjutraj obesiti kotel z vodo in zakuriti ogenj."
+109,1,"»A najprej moramo speči kruh,« je rekla starka."
+110,1,"»Krušno peč sem že zakurila in tudi testo zamesila!«
+Pahnila je ubogo Metko pred peč, iz katere so že švigali plameni."
+111,1,"»Zlezi vanjo,« je rekla čarovnica, »in poglej, ali je dovolj zakurjeno, da lahko damo kruh vanjo.« In če bi jo bila Metka poslušala, bi čarovnica zaprla v jo peč, da bi se Metka spekla v nji."
+112,1,In potem bi o bila pojedla.
+113,1,"Metka pa je uganila, kaj stara namerava in je rekla: »Ne vem, kako naj to storim."
+114,1,"Kako pa pridem vanjo?« »Gos neumna, saj je odprtina dovolj velika, vidiš, še jaz bi lahko zlezla vanjo,« je rekla stara, se primajala in vtaknila glavo v peč."
+115,1,"Metka pa jo je krepko sunila, da je zdrsnila vanjo."
+116,1,Zaprla je železna vrata za njo.
+117,1,"Oh, kako grozansko je zavreščala stara!"
+118,1,A nič ni pomagalo.
+119,1,Čarovnica je morala zgoreti.
+120,1,"Metka je jadrno stekla naravnost k Janku, odprla njegov hlevček in zaklicala: »Janko, rešena sva, stara čarovnica je mrtva!« Janko je skočil ven kakor ptička iz kletke, če ji odpreš vratca."
+121,1,Kako sta se veselila!
+122,1,"Vrgla sta se drug drugemu okoli vratu, poskakovala in se poljubljala!"
+123,1,"In ker se jima ni bilo treba ničesar več bati, sta šla v čarovničino hišo."
+124,1,Tam pa so bili po vseh kotih zabojčki z biseri in dragulji.
+125,1,"»Ti so pa veliko boljši kakor kamenčki,« je rekel Janko in si jih natlačil v žepe, kolikor je mogel."
+126,1,"»Tudi jaz bi rada kaj prinesla domov,« je rekla Metka ter si z njimi napolnila svoj predpasniček."
+127,1,"»Zdaj pa jo pobrišiva od tod,« je dejal Janko, »da prideva iz tega čarovniškega gozda.« a nekaj Ko sta hodila ur, sta prišla do velike vode."
+128,1,"»Saj ne moreva čez videti.« ,« je dejal Janko, »ne brvi ne mostu ni videti.«
+ »Tudi nobene barčice ni na vodi,« mu je odgovorila Metka »tamle pa plava bela račka."
+129,1,"Če jo poprosim, nama bo gotovo Pomagala čez vodo.« Vzkliknila je: »Račka, ljuba račka ti, ker ni mostička ne brvi, midva prosiva lepo, da naju prepelješ čez vodo.« In račka je res priplavala in Janko ji je sedel na hrbet in rekel sestrici, naj sede zraven njega."
+130,1,"»Ne,« je odgovorila Metka, »to bi bilo za račko pretežko, drugega za drugim naju bo.« In dobra račka je res storila tako in ko sta bila srečno na drugem bregu in ko sta še nekaj časa hodila, se jima je zazdel gozd čedalje bolj znan in domač."
+131,1,In nazadnje sta od daleč zagledala hišo svojega očeta.
+132,1,"Začela sta teči, planila sta v sobo in se vrgla očetu okrog vratu."
+133,1,"Odkar je revni drvar pustil svoja otroka v gozdu, ni imel niti trenutka miru in pokoja več."
+134,1,Njegova hudobna žena pa je bila medtem umrla.
+135,1,"Metka je stresla iz svojega predpasnička bisere in dragulje, da so se kar trkljali po izbi."
+136,1,Janko pa
