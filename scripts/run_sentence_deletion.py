@@ -8,8 +8,8 @@ import nltk.data
 from tqdm import tqdm
 from logzero import logger
 
-from transformers import GPT2Tokenizer, GPT2LMHeadModel, AutoTokenizer, AutoModelForCausalLM
-
+from transformers import GPT2Tokenizer, GPT2LMHeadModel, AutoTokenizer, AutoModelForCausalLM, AutoModelForSeq2SeqLM
+from evaluate import load
 
 def sliding_window_coherence_evaluation(model, device, indexed_tokens, sent_index, max_context_len):
     """ Function is intended to be able to measure the coherence of a story longer than the maximum length of the model"""
@@ -175,12 +175,46 @@ def compute_rest_of_story_probability(model, device, indexed_tokens, sent_index,
     return normalized_loss_w_sentence, normalized_loss_wo_sentence
 
 
-def estimate_coherence(args):
+def estimate_coherence_with_bert_score(args):
+    logger.info("Estimating with BERTScore")
+    logger.info("Loading header data ...")
+    df = pd.read_csv('../data/data.csv', index_col=0)
+
+    bertscore = load("bertscore")
+    progressbar = tqdm(total=df.shape[0], desc='Iteration over folktales')
+
+    for i, row in df.iterrows():
+        # Load the sentences data
+        if args.language == "en":
+            title = row['eng_title'].replace(" ", "_")
+        else:
+            title = row['slo_title'].replace(" ", "_")
+
+        if not os.path.isfile(f"../data/labeled/{title}.csv"):
+            continue
+
+        logger.info(title)
+        df_story = pd.read_csv(f"../data/labeled/{title}.csv")
+        sentences = df_story['sentence'].tolist()
+        labels = df_story['label'].tolist()
+
+        progressbar2 = tqdm(total=len(sentences), desc='Iteration over sentences')
+        results = []
+
+
+        for j, sentence in enumerate(sentences[:-1]):
+            # Use BERT-Score to compute the loss
+            with_sent, without_sentence = extract_story_context(sentences, j, 512)
+            predictions = sentence
+
+
+
+def estimate_coherence_with_model(args):
+
     logger.info("Loading data...")
     df = pd.read_csv("../data/data.csv", index_col=0)
 
     # Load the text data for each story
-
 
     logger.info(f"Loading model {args.model}...")
 
@@ -197,6 +231,7 @@ def estimate_coherence(args):
         model.to(device)
     else:
         device = torch.device('cpu')
+    model.eval()
 
     # Set the model in evaluation mode to deactivate the DropOut modules
     # This is IMPORTANT to have reproducible results during evaluation!
@@ -206,7 +241,6 @@ def estimate_coherence(args):
     logger.info("Estimating coherence...")
     progressbar = tqdm(total=df.shape[0], desc="Iteration over folktales")
 
-    nltk.download('punkt')
     for i, row in df.iterrows():
         # Load the sentences data
         if args.language == "en":
@@ -217,7 +251,7 @@ def estimate_coherence(args):
         if not os.path.isfile(f"../data/labeled/{title}.csv"):
             continue
 
-        print(title)
+        logger.info(title)
         df_story = pd.read_csv(f"../data/labeled/{title}.csv")
         sentences = df_story['sentence'].tolist()
         labels = df_story['label'].tolist()
@@ -246,7 +280,7 @@ def estimate_coherence(args):
         results_df = pd.DataFrame(results, columns=["sentence", "with_sentence", "without_sentence", "difference", "label"])
         if args.use_sliding_window:
             title = f"{title}_window"
-        results_df.to_csv(f"{args.output}/{title}.csv", sep=",")
+        results_df.to_csv(f"{args.output}/{title}_{args.model.replace('/', '_')}.csv", sep=",")
         progressbar.update(1)
 
 
@@ -256,8 +290,13 @@ if __name__ == "__main__":
     parser.add_argument("--model", type=str, default="cjvt/gpt-sl-base", help="Model name")
     parser.add_argument("--language", type=str, default="slo", help="Language (slo or eng)")
     parser.add_argument("--contextlen", type=int, default=1024, help="Context length")
-    parser.add_argument("--use_sliding_window", type=bool, default=True, help="Use sliding window")
+    parser.add_argument("--use_sliding_window", type=bool, default=False, help="Use sliding window")
     parser.add_argument("--input", type=str, default="../data/data.csv", help="Path to the data")
     parser.add_argument("--output", type=str, default="../results", help="Path to the output")
 
-    estimate_coherence(parser.parse_args())
+    args = parser.parse_args()
+
+    if 'bert-score' in args.model:
+        estimate_coherence_with_bert_score(args)
+    else:
+        estimate_coherence_with_model(args)

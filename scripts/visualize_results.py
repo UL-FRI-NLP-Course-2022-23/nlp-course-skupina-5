@@ -1,3 +1,4 @@
+import argparse
 import csv
 import numpy as np
 import matplotlib.pyplot as plt
@@ -79,15 +80,20 @@ def get_annotation(file_path):
 
 
 if __name__ == "__main__":
+    parser = argparse.ArgumentParser()
+    parser.add_argument('--input_file', required=True, type=str, help='Input')
+    args = parser.parse_args()
 
     # Fill lists with stories you would like to visualize
     # results = [r"..\results\ANG\the_mouse_the_bird_and_the_sausage_window.csv",
     #            r"..\results\ANG\RUMPELSTILTSKIN_window.csv",
     #            r"..\results\ANG\THE_WOLF_AND_THE_SEVEN_LITTLE_KIDS_window.csv"]
 
-    results = [r"..\results\SLO\misek_pticka_in_klobasa_window.csv",
-               r"..\results\SLO\spicparkeljc_window.csv",
-               r"..\results\SLO\volk_in_sedem_kozlickov_window.csv"]
+    # results = [r"..\results\SLO\misek_pticka_in_klobasa_window.csv",
+    #            r"..\results\SLO\spicparkeljc_window.csv",
+    #            r"..\results\SLO\volk_in_sedem_kozlickov_window.csv"]
 
-    for result in results:
-        visualize(result)
+    visualize(args.input_file)
+
+    # for result in results:
+    #     visualize(result)
