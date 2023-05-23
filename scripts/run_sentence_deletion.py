@@ -8,11 +8,14 @@ import nltk.data
 from tqdm import tqdm
 from logzero import logger
 
-from transformers import GPT2Tokenizer, GPT2LMHeadModel, AutoTokenizer, AutoModelForCausalLM, AutoModelForSeq2SeqLM
-from evaluate import load
+from transformers import AutoModelForCausalLM, AutoTokenizer, T5Tokenizer, T5ForConditionalGeneration, BertTokenizer, BertForNextSentencePrediction
 
-def sliding_window_coherence_evaluation(model, device, indexed_tokens, sent_index, max_context_len):
+
+def sliding_window_coherence_evaluation(model, tokenizer, device, sentences, sent_index, max_context_len):
     """ Function is intended to be able to measure the coherence of a story longer than the maximum length of the model"""
+
+    # Tokenize the story
+    indexed_tokens = [tokenizer.encode(sent) for sent in sentences]
 
     # Create a sliding window of max context len on which we will evaluate the model
     context_before, context_after = extract_story_context(indexed_tokens, sent_index, max_context_len)
@@ -144,7 +147,8 @@ def extract_story_window(indexed_tokens, left_edge, sent_index, max_context_len)
     return context_before, context_after
 
 
-def compute_rest_of_story_probability(model, device, indexed_tokens, sent_index, max_context_len):
+def compute_rest_of_story_probability(model, device, tokenizer, sentences, sent_index, max_context_len):
+    indexed_tokens = [tokenizer.encode(sent) for sent in sentences]
     context_before, context_after = extract_story_context(indexed_tokens, sent_index, max_context_len)
     context_after_len = len(context_after)
 
@@ -175,39 +179,28 @@ def compute_rest_of_story_probability(model, device, indexed_tokens, sent_index,
     return normalized_loss_w_sentence, normalized_loss_wo_sentence
 
 
-def estimate_coherence_with_bert_score(args):
-    logger.info("Estimating with BERTScore")
-    logger.info("Loading header data ...")
-    df = pd.read_csv('../data/data.csv', index_col=0)
+def compute_story_probability_with_t5(model, tokenizer, device, sentences, sent_index, max_context_len):
 
-    bertscore = load("bertscore")
-    progressbar = tqdm(total=df.shape[0], desc='Iteration over folktales')
+    indexed_tokens = [tokenizer(sent)['input_ids'] for sent in sentences]
 
-    for i, row in df.iterrows():
-        # Load the sentences data
-        if args.language == "en":
-            title = row['eng_title'].replace(" ", "_")
-        else:
-            title = row['slo_title'].replace(" ", "_")
+    context_before, context_after = extract_story_context(indexed_tokens, sent_index, max_context_len)
+    context_after_len = len(context_after)
 
-        if not os.path.isfile(f"../data/labeled/{title}.csv"):
-            continue
+    # Add instruction to the beginning of the context
+    instruction = tokenizer('summarize:')['input_ids']
+    context_before = instruction + context_before
 
-        logger.info(title)
-        df_story = pd.read_csv(f"../data/labeled/{title}.csv")
-        sentences = df_story['sentence'].tolist()
-        labels = df_story['label'].tolist()
+    input_tensor_w_sentence = torch.tensor(context_before + indexed_tokens[sent_index] + context_after).unsqueeze(0).to(device)
+    input_tensor_wo_sentence = torch.tensor(context_before + context_after).unsqueeze(0).to(device)
 
-        progressbar2 = tqdm(total=len(sentences), desc='Iteration over sentences')
-        results = []
+    with torch.no_grad():
+        outputs_w_sentence = model(input_tensor_w_sentence, labels=input_tensor_w_sentence)
+        outputs_wo_sentence = model(input_tensor_wo_sentence, labels=input_tensor_wo_sentence)
 
+        loss_w_sentence = outputs_w_sentence[0]
+        loss_wo_sentence = outputs_wo_sentence[0]
 
-        for j, sentence in enumerate(sentences[:-1]):
-            # Use BERT-Score to compute the loss
-            with_sent, without_sentence = extract_story_context(sentences, j, 512)
-            predictions = sentence
-
-
+        return loss_w_sentence, loss_wo_sentence
 
 def estimate_coherence_with_model(args):
 
@@ -219,8 +212,18 @@ def estimate_coherence_with_model(args):
     logger.info(f"Loading model {args.model}...")
 
     try:
-        tokenizer = AutoTokenizer.from_pretrained(args.model)
-        model = AutoModelForCausalLM.from_pretrained(args.model)
+        if 'gpt' in args.model:
+            tokenizer = AutoTokenizer.from_pretrained(args.model)
+            model = AutoModelForCausalLM.from_pretrained(args.model)
+        elif 'bert' in args.model:
+            tokenizer = BertTokenizer.from_pretrained(args.model)
+            model = BertForNextSentencePrediction.from_pretrained(args.model)
+        elif 't5' in args.model:
+            tokenizer = T5Tokenizer.from_pretrained(args.model)
+            model = T5ForConditionalGeneration.from_pretrained(args.model)
+        else:
+            logger.error(f"Model {args.model} not supported")
+            exit(1)
     except Exception as e:
         logger.error(f"Error loading model {args.model}: {e}")
         exit(1)
@@ -256,22 +259,28 @@ def estimate_coherence_with_model(args):
         sentences = df_story['sentence'].tolist()
         labels = df_story['label'].tolist()
 
-        indexed_sentences = [tokenizer.encode(sentence) for sentence in sentences]
-        progressbar2 = tqdm(total=len(indexed_sentences), desc="Iteration over sentences")
+        progressbar2 = tqdm(total=len(sentences), desc="Iteration over sentences")
 
         results = []
-        for j, sentence in enumerate(indexed_sentences[:-1]):
+        with_sentence = 0
+        without_sentence = 0
+        for j, sentence in enumerate(sentences[0:-1]):
             # If last sentence, we use the special token <|endoftext|>
-            if j == len(indexed_sentences) - 2:
-                if args.use_sliding_window:
-                    with_sentence, without_sentence = sliding_window_coherence_evaluation(model, device, indexed_sentences, j, max_content_len)
+            if 'gpt' in args.model:
+                if j == len(sentences) - 2:
+                    if args.use_sliding_window:
+                        with_sentence, without_sentence = sliding_window_coherence_evaluation(model, tokenizer, device, sentences, j, max_content_len)
+                    else:
+                        with_sentence, without_sentence = compute_rest_of_story_probability(model, tokenizer, device, sentences, j, max_content_len)
                 else:
-                    with_sentence, without_sentence = compute_rest_of_story_probability(model, device, indexed_sentences, j, max_content_len)
-            else:
-                if args.use_sliding_window:
-                    with_sentence, without_sentence = sliding_window_coherence_evaluation(model, device, indexed_sentences[:-1], j, max_content_len)
-                else:
-                    with_sentence, without_sentence = compute_rest_of_story_probability(model, device, indexed_sentences[:-1], j, max_content_len)
+                    if args.use_sliding_window:
+                        with_sentence, without_sentence = sliding_window_coherence_evaluation(model, tokenizer, device, sentences[:-1], j, max_content_len)
+                    else:
+                        with_sentence, without_sentence = compute_rest_of_story_probability(model, tokenizer, device, sentences[:-1], j, max_content_len)
+            elif 'bert' in args.model:
+                pass
+            elif 't5' in args.model:
+                with_sentence, without_sentence = compute_story_probability_with_t5(model, tokenizer, device, sentences, j+1, max_content_len)
 
             results.append([sentences[j], with_sentence, without_sentence, without_sentence - with_sentence, labels[j]])
 
@@ -296,7 +305,4 @@ if __name__ == "__main__":
 
     args = parser.parse_args()
 
-    if 'bert-score' in args.model:
-        estimate_coherence_with_bert_score(args)
-    else:
-        estimate_coherence_with_model(args)
+    estimate_coherence_with_model(args)
