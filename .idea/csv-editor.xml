@@ -10,6 +10,20 @@
             </Attribute>
           </value>
         </entry>
+        <entry key="\data\data_eng_all.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\data\data_slo_all.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
         <entry key="\data\eng_raw\grimms_fairytales.csv">
           <value>
             <Attribute>
@@ -59,6 +73,41 @@
             </Attribute>
           </value>
         </entry>
+        <entry key="\data\slo_processed\Bremenski_mestni_godci.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\data\slo_processed\Brihtna_Urska.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\data\slo_processed\Ded_in_vnuk.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\data\slo_processed\Doktor_vseznalec.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\data\slo_processed\Dvanajst_lovcev.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
         <entry key="\data\slo_processed\janko_in_metka.csv">
           <value>
             <Attribute>
@@ -66,14 +115,21 @@
             </Attribute>
           </value>
         </entry>
-        <entry key="\data\slo_processed\volk_in_sedem_kozlickov.csv">
+        <entry key="\results\ANG\RUMPELSTILTSKIN_window.csv">
           <value>
             <Attribute>
               <option name="separator" value="," />
             </Attribute>
           </value>
         </entry>
-        <entry key="\results\data_misek_pticka_in_klobasa.csv">
+        <entry key="\results\SLO\spicparkeljc.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\results\SLO\spicparkeljc_window.csv">
           <value>
             <Attribute>
               <option name="separator" value="," />

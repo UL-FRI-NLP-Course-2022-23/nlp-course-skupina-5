@@ -51,6 +51,10 @@ coverage.xml
 .hypothesis/
 .pytest_cache/
 
+# JetBrains
+.idea
+*.xml
+
 # Translations
 *.mo
 *.pot
