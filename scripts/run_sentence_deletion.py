@@ -180,7 +180,7 @@ def compute_rest_of_story_probability(model, device, indexed_sentences, sent_ind
 
 def compute_story_probability_with_t5(model, tokenizer, device, indexed_sentences, sent_index):
     context_before, context_after = extract_story_context(indexed_sentences, sent_index, 20000)
-
+    context_after_len = len(context_after)
     # Add instruction to the beginning of the context
     instruction = tokenizer('summarize:')['input_ids']
     context_before = instruction + context_before
@@ -206,7 +206,10 @@ def compute_story_probability_with_t5(model, tokenizer, device, indexed_sentence
         loss_w_sentence = loss_fct(shift_logits_w.view(-1, shift_logits_w.size(-1)), shift_labels_w.view(-1))
         loss_wo_sentence = loss_fct(shift_logits_wo.view(-1, shift_logits_wo.size(-1)), shift_labels_wo.view(-1))
 
-        return loss_w_sentence.item(), loss_wo_sentence.item()
+        normalized_loss_w_sentence = loss_w_sentence[-context_after_len:].sum().item() / context_after_len
+        normalized_loss_wo_sentence = loss_wo_sentence[-context_after_len:].sum().item() / context_after_len
+
+        return normalized_loss_w_sentence, normalized_loss_wo_sentence
 
 def compute_story_probability_with_bert(model, device, indexed_sentences, sent_index):
     # We will peform next sentence prediction from the context before to the context after with and without the sentence
@@ -225,8 +228,8 @@ def compute_story_probability_with_bert(model, device, indexed_sentences, sent_i
         outputs_wo_sentence = model(input_tensor_wo_sentence, labels=labels)
 
         # We will take the probability of the next sentence being the sentence  (index 1)
-        loss_w_sentence = outputs_w_sentence.logits[0][1].item()
-        loss_wo_sentence = outputs_wo_sentence.logits[0][1].item()
+        loss_w_sentence = outputs_w_sentence.loss.item()
+        loss_wo_sentence = outputs_wo_sentence.loss.item()
 
         return loss_w_sentence, loss_wo_sentence
 
