@@ -179,18 +179,14 @@ def compute_rest_of_story_probability(model, device, tokenizer, sentences, sent_
     return normalized_loss_w_sentence, normalized_loss_wo_sentence
 
 
-def compute_story_probability_with_t5(model, tokenizer, device, sentences, sent_index, max_context_len):
-
-    indexed_tokens = [tokenizer(sent)['input_ids'] for sent in sentences]
-
-    context_before, context_after = extract_story_context(indexed_tokens, sent_index, max_context_len)
-    context_after_len = len(context_after)
+def compute_story_probability_with_t5(model, tokenizer, device, indexed_sentences, sent_index):
+    context_before, context_after = extract_story_context(indexed_sentences, sent_index, 20000)
 
     # Add instruction to the beginning of the context
     instruction = tokenizer('summarize:')['input_ids']
     context_before = instruction + context_before
 
-    input_tensor_w_sentence = torch.tensor(context_before + indexed_tokens[sent_index] + context_after).unsqueeze(0).to(device)
+    input_tensor_w_sentence = torch.tensor(context_before + indexed_sentences[sent_index] + context_after).unsqueeze(0).to(device)
     input_tensor_wo_sentence = torch.tensor(context_before + context_after).unsqueeze(0).to(device)
 
     with torch.no_grad():
@@ -200,7 +196,13 @@ def compute_story_probability_with_t5(model, tokenizer, device, sentences, sent_
         loss_w_sentence = outputs_w_sentence[0]
         loss_wo_sentence = outputs_wo_sentence[0]
 
-        return loss_w_sentence, loss_wo_sentence
+        return loss_w_sentence.item(), loss_wo_sentence.item()
+
+def compute_story_probability_with_bert(model, tokenizer, device, indexed_sentences, sent_index):
+    context_before, context_after = extract_story_context(indexed_sentences, sent_index, 512)
+
+    # We will peform next sentence prediction from the context before
+    with torch.no_grad():
 
 def estimate_coherence_with_model(args):
 
@@ -259,28 +261,31 @@ def estimate_coherence_with_model(args):
         sentences = df_story['sentence'].tolist()
         labels = df_story['label'].tolist()
 
+        indexed_sentences = [tokenizer.encode(sent) for sent in sentences]
         progressbar2 = tqdm(total=len(sentences), desc="Iteration over sentences")
 
         results = []
         with_sentence = 0
         without_sentence = 0
-        for j, sentence in enumerate(sentences[0:-1]):
+        for j, sentence in enumerate(indexed_sentences[:-1]):
             # If last sentence, we use the special token <|endoftext|>
             if 'gpt' in args.model:
                 if j == len(sentences) - 2:
                     if args.use_sliding_window:
-                        with_sentence, without_sentence = sliding_window_coherence_evaluation(model, tokenizer, device, sentences, j, max_content_len)
+                        with_sentence, without_sentence = sliding_window_coherence_evaluation(model, tokenizer, device, indexed_sentences, j, max_content_len)
                     else:
-                        with_sentence, without_sentence = compute_rest_of_story_probability(model, tokenizer, device, sentences, j, max_content_len)
+                        with_sentence, without_sentence = compute_rest_of_story_probability(model, tokenizer, device, indexed_sentences, j, max_content_len)
                 else:
                     if args.use_sliding_window:
-                        with_sentence, without_sentence = sliding_window_coherence_evaluation(model, tokenizer, device, sentences[:-1], j, max_content_len)
+                        with_sentence, without_sentence = sliding_window_coherence_evaluation(model, tokenizer, device, indexed_sentences[:-1], j, max_content_len)
                     else:
-                        with_sentence, without_sentence = compute_rest_of_story_probability(model, tokenizer, device, sentences[:-1], j, max_content_len)
+                        with_sentence, without_sentence = compute_rest_of_story_probability(model, tokenizer, device, indexed_sentences[:-1], j, max_content_len)
             elif 'bert' in args.model:
+                # Here we will implement a BERT NextSentencePrediction approach to modelling coherence in stories
+
                 pass
             elif 't5' in args.model:
-                with_sentence, without_sentence = compute_story_probability_with_t5(model, tokenizer, device, sentences, j+1, max_content_len)
+                with_sentence, without_sentence = compute_story_probability_with_t5(model, tokenizer, device, indexed_sentences, j+1)
 
             results.append([sentences[j], with_sentence, without_sentence, without_sentence - with_sentence, labels[j]])
 
