@@ -136,6 +136,20 @@
             </Attribute>
           </value>
         </entry>
+        <entry key="\results\Spicparkeljc_EMBEDDIA_crosloengual-bert.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\results\Spicparkeljc_nsp_EMBEDDIA_crosloengual-bert.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
       </map>
     </option>
   </component>
