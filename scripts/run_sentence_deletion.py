@@ -282,11 +282,11 @@ def estimate_coherence_with_model(args):
         else:
             title = row['slo_title'].replace(" ", "_")
 
-        if not os.path.isfile(f"../data/labeled/{title}.csv"):
-            continue
+        # if not os.path.isfile(f"../data/labeled/{title}.csv"):
+        #    continue
 
         logger.info(title)
-        df_story = pd.read_csv(f"../data/labeled/{title}.csv")
+        df_story = pd.read_csv(f"../data/slo_processed/{title}.csv")
         sentences = df_story['sentence'].tolist()
         labels = df_story['label'].tolist()
 
@@ -336,7 +336,7 @@ if __name__ == "__main__":
     parser.add_argument("--use_sliding_window", type=bool, default=False, help="Use sliding window")
     parser.add_argument("--nsp", type=bool, default=False, help="Use next sentence prediction")
     parser.add_argument("--input", type=str, default="../data/data.csv", help="Path to the data")
-    parser.add_argument("--output", type=str, default="../results", help="Path to the output")
+    parser.add_argument("--output", type=str, default="../results/SLO", help="Path to the output")
 
     args = parser.parse_args()
 
