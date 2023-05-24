@@ -1,0 +1,78 @@
+,sentence,with_sentence,without_sentence,difference,label
+0,"Neki kralj je imel hčer, ki je bila tako neizmerno lepa, zraven pa tako ošabna in prevzetna, da ji noben snubač ni bil dovolj dober.",2.8517482645485055,2.9031234169199593,0.05137515237145385,1
+1,"Zavrnila je drugega za drugim, povrhu pa jih je še obsula s posmehom.",2.911029989788641,2.9421472826439317,0.031117292855290746,1
+2,Nekoč je kralj priredil veliko slavje in je povabil nanj vse ženitve željne moške od blizu in daleč.,2.886720827792553,2.9246659948470746,0.037945167054521445,1
+3,"Vse jih je razvrstil po činu in stanu: najprej so prišli kralji, potlej vojvode, knezi, grofi, vitezi, nazadnje plemiški ljudje.",2.8618742006014934,2.9203577632397675,0.058483562638274034,1
+4,"Peljali so kraljično mimo vseh, ta pa je imela za vsakega kakšno pikro besedo.",2.878959456583428,2.918527973361237,0.03956851677780904,1
+5,"Nekdo je bil predebel: »Sod vinski,« je rekla.",2.841850342645568,2.896948044159183,0.05509770151361515,1
+6,"Drugi predolg: »Dolgokrak, omahljiv korak.« Tretji prekratek: »Kratek in rejen, štor zavaljen!« Četrti prebledi »Bledica Smrt!« Peti prerdeč: »Petelin na strehi!« Šesti ni bil dovolj raven: »Kriv ko dren, v zapečku posušen!« Res, prav vsem je imela kaj očitati, posebno pa se je znesla nad nekim dobrim kraljem, ki je stal čisto zgoraj in ki je imel malo krivo raščeno brado.",2.5480634673990448,2.9586819809819036,0.41061851358285884,1
+7,"»Ej,« je vzkliknila in se zasmejala, »ta ima pa brado kakor drozgov kljun.« In od tega časa dalje je dobil ime Drozgobrad ali kratko: kralj Drozd.",2.6438623187185706,2.817479451497396,0.1736171327788254,1
+8,"Stari kralj pa, ki je videl, da njegova hči ne počne drugega, kakor da se posmehuje ljudem in zavrača vse snubače, ki so bili zbrani tam, se je silno razjezil.",2.642984084141107,2.748066089771412,0.10508200563030501,1
+9,"Prisegel je, da bo morala vzeti prvega berača, ki mu pride skozi vrata.",2.6527415873691744,2.7161093857992693,0.06336779843009488,1
+10,"Nekaj dni zatem se je oglasil pod oknom godec in pel pesmico, da bi si prislužil majhno miloščino.",2.6303257766774664,2.7174080430863294,0.08708226640886307,1
+11,"Ko ga je kralj zaslišal, je ukazal, naj ga pokličejo gor.",2.6781704001230735,2.7023445024882276,0.02417410236515405,1
+12,"Godec je vstopil v svoji umazani, razcapani obleki, zapel pred kraljem in njegovo hčerjo ter prosil za nagrado, ko je končal.",2.6406201260492286,2.7148136201225044,0.0741934940732758,1
+13,"»Tvoja pesem mi je tako ugajala, da ti hočem dati svojo hčer za ženo,« je rekel kralj.",2.6359196152797963,2.701083870821221,0.06516425554142469,1
+14,"Kraljična se je zelo ustrašila, kralj pa je dejal: »Prisegel sem, da te bom dal prvemu beraču, in to prisego bom tudi izpolnil.« Vsi izgovori in prošnje niso nič pomagali, poklicali so župnika, da jo je pri priči poročil z godcem.",2.6392083688944328,2.7864872267266283,0.14727885783219552,1
+15,"Ko se je to zgodilo, je kralj rekel: »Ne spodobi se, da bi zdaj kot žena beračeva še dalje ostala pod mojo streho.",2.804637730967926,2.894978428467292,0.09034069749936613,1
+16,Zato lahko odideš s svojim možem.« Berač jo je odvedel za roko in morala je peš hoditi z njim.,2.8751981789283905,2.947009623292004,0.07181144436361375,1
+17,"Ko sta prišla do nekega velikega gozda, je vprašala: »Čigav je ta prelepi gozd?« »Njegov posestnik je kralj Drozd; da si ga vzela, bil bi tvoj.« »o, da, ubožica sem mlada, zavrgla kralja Drozgobrada!« Nato sta prišla na travnik, pa je spet vprašala: »Čigav je krasni travnik ta?« »Kralj Drozd v posesti ga ima, da si ga vzela, bil bi tvoj.« »O, da, ubožica sem mlada zavrgla kralja Drozgobrada!« Potem sta hodila po velikem mestu; spet je vprašala: »Čigavo pa je lepo mesto to?« »To mesto Drozdov grad zovo
+
+da si ga vzela, tvoje bi bilo.« »o, da, ubožica sem mlada, zavrgla kralja Drozgobrada!« »Prav nič mi ne ugaja,« je rekel godec, »da si vedno želiš nekoga drugega za moža.",1.856845659079011,2.882669350535599,1.0258236914565881,1
+18,Mar jaz nisem dovolj dober zate?« Nazadnje sta prišla do čisto majhne hišice.,2.8849009318524095,2.9428304036458335,0.057929471793424,1
+19,"Rekla je: »o, majhna nizka hišica!",2.8845432826450894,2.941903492761037,0.057360210115947385,1
+20,"Čigava je ta kočica?« »To je moja in tvoja hiša, kjer bova stanovala,« je odgovoril godec in vstopil.",2.847248684630102,2.921590501434949,0.07434181680484686,1
+21,"Tudi ona je vstopila, a se je morala pripogniti, da je prišla skozi vrata.",2.8690696022727273,2.9571210148358587,0.08805141256313131,1
+22,»Kje so pa sluge?« je vprašala kraljična.,2.947481670076885,2.9887237548828125,0.041242084805927615,1
+23,»Kakšni sluge?« je odgovoril ubogi prosjak.,2.970466008262029,3.0393468463231645,0.06888083806113565,1
+24,"»Sama boš morala storiti, kar boš hotela imeti storjeno.",2.9789523546439245,3.018549824140936,0.039597469497011595,1
+25,"Daj, kar pr&ej zakuri in pristavi vodo, da mi skuhaš kosilo.",2.8972631589330806,3.0225906526199493,0.12532749368686869,1
+26,"Tako sem utrujen.« Kraljeva hči pa ni znala ne kuriti ne kuhati in prosjak je moral pomagati, da je za silo šlo.",2.8605121550012806,2.9422227202868854,0.08171056528560472,1
+27,"Ko sta použila svojo pičlo večerjico, sta legla spat.",2.85406736343626,2.9122803703187006,0.05821300688244069,1
+28,"Zjutraj je prosjak že navsezgodaj dvignil svojo ženo na noge, ker je morala pospravljati.",2.872382242674799,2.922031701930332,0.04964945925553321,1
+29,"Nekaj dni sta živela tako, kakor je pač šlo.",2.874648987540143,2.909359415529274,0.03471042798913082,1
+30,Pri tem pa sta porabila svojo zalogo.,2.91157666015625,2.938775390625,0.02719873046875021,1
+31,"Zato je rekel mož: »Žena, ne gre več tako, da bi samo jedla in nič ne zaslužila.",2.8787154386898797,2.9735992982057864,0.09488385951590672,1
+32,Košare boš pletla.« Šel je in narezal vrbovih šib ter jih prinesel domov.,2.8320889559659093,2.943164309106692,0.11107535314078287,1
+33,"Začela je plesti, toda trdo vrbovje ji je do krvi ranilo občutljive roke.",2.7984325678661617,2.924694700915404,0.1262621330492424,1
+34,"»Vidim, da ti ne gre,« je rekel mož, »rajši se loti presti, nemara znaš to bolje.« Sedla je h kolovratu in poskusila presti, toda trda nit se ji je kmalu zarezala v mehke prste, da se je pocedila kri iz njih.",2.7138047448244236,2.9330862753046385,0.21928153048021493,1
+35,"»Sama vidiš, da nisi za nobeno rabo, slabo sem jo skupil s teboj,« je rekel mož in dodal: »Poskusil bom začeti še trgovino z lonci in lončeno posodo.",2.8884919550822024,3.034620058063674,0.14612810298147183,1
+36,"Sedela boš na trgu in ponujala blago na prodaj.« »Oh,« je pomislila, »če pridejo na trg ljudje iz dežele mojega očzia in me vidijo, da sedim tam in ponujam na prodaj, kako se mi bojo posmehovali!« Toda nič ni pomagalo, morala se je vdati, če ni hotela od lakote umreti.",2.767205600080819,3.0845431623787714,0.3173375622979524,1
+37,Prvikrat je šlo dobro.,2.94984764084073,2.971653925126356,0.02180628428562592,1
+38,"Ljudje so namreč radi kupovali pri ženi, ki je bila lepa, ter plačevali, kar je zahtevala.",2.907989125192901,2.981386789078575,0.07339766388567392,1
+39,"Res, marsikdo ji je dal denar, lonce pa kar pustil.",3.001155124103999,3.0411234496824697,0.039968325578470854,1
+40,"Tako sta živela s pridobljenim, dokler je trajalo.",2.9701888086330483,3.011675521881288,0.04148671324823949,1
+41,Mož je spet nakupil zalogo nove posode.,2.96688972767178,3.0084369651686105,0.04154723749683065,1
+42,"Sedla je s tem na vogal trga, razpostavila posodo okrog sebe in ponujala na prodaj.",2.8771060805722892,2.9546628898406126,0.07755680926832342,1
+43,"Tedaj pa je naenkrat pridirjal pijan huzar izza vogala in se zaletel naravnost v lonce, da se je vse razletelo na tisoč črepinj.",2.8021417836673925,2.9182559154072747,0.11611413173988216,1
+44,"Žena je zajokala in od strahu ni vedela, kaj bi.",2.944491299715909,2.9648457676911155,0.020354467975206347,1
+45,"»Oh, kaj bo z menosj!«' je zastokala.",2.8814781281629553,2.9344482421875,0.05297011402454466,1
+46,»Kaj poreče moj mož!« Stekla je domov in mu povedala o svoji nesreči.,2.869983833377101,2.918503961643251,0.04852012826615004,1
+47,»Kdo pa tudi seda z lončeno posodo na vogal!« je rekel mož.,2.8040720317178143,2.872943565993014,0.06887153427519976,1
+48,"»Pusti zdaj solze, saj vidim, da nisi za nobeno pravo delo.",2.8058457779341355,2.8660911417895965,0.060245363855460976,1
+49,"Bil sem na gradu našega kralja in vprašal, ali bi potrebovali kakšno kuhinjsko deklo.",2.766648681640625,2.867041015625,0.10039233398437508,1
+50,"Obljubili so mi, da te vzamejo.",2.80915602080676,2.8331032266422196,0.023947205835459506,1
+51,Za plačilo boš imela prosto hrano.« Tako je postala kraljeva hči kuhinjska dekla.,2.761023613199529,2.826447427023405,0.06542381382387585,1
+52,Morala je pomagati kuharju in opravljati najbolj nečedno delo.,2.744596717323783,2.8075864842165315,0.06298976689274838,1
+53,V oba žepa si je pritrdila dva lončka.,2.657482540246212,2.692785767834596,0.035303227588384,1
+54,"V njih je prinašala domov, kar je bilo ostankov.",2.640359882489001,2.68495067651721,0.04459079402820887,1
+55,In s tem sta se hranila.,2.6454011819108203,2.667500733386858,0.022099551476037593,1
+56,"Namerilo se je, da bi morali praznovati svatbo najstarejšega kraljevega sina.",2.605666223905936,2.6646077637701207,0.05894153986418482,1
+57,"Ubogo ženo je gnala radovednost, da je šla, se postavila pred vrata v dvorano in hotela gledati.",2.532783396806498,2.6365092681693634,0.10372587136286526,1
+58,"Ko so zagorele luči in so prihajali gostje, eden lepši od drugega, in je bilo vse polno krasote in sijaja, je s potrtim srcem pomislila na svojo usodo ter preklinjala svojo ošabnost in prevzetnost, ki sta jo ponižali in jo pahnili v tako revščino.",2.3979114093611726,2.625349736846654,0.2274383274854812,1
+59,"Sluge so ji od slastnih jedil, ki so jih nosili v dvorano in spet odnašali in iz katerih se je dvigal prijeten duh k nji, vrgli tu pa tam kak grižljaj, ki ga je spravila v svoj lonček, da bi ga nesla domov.",2.427351925351204,2.697830340184203,0.2704784148329993,1
+60,"Naenkrat je vstopi], kraljevič.",2.688929141465054,2.729429183467742,0.0405000420026882,1
+61,Oblečen je bil v svilo in žamet in okrog vratu je imel zlate verižice.,2.6388682025266683,2.6759708997196388,0.037102697192970435,1
+62,"In ko je zagledal lepo ženo pred vrati, jo je prijel za roko in hotel zaplesati z njo.",2.502965276512391,2.557292793652059,0.05432751713966821,1
+63,Ona pa se je branila in se prestrašila.,2.7190012688184306,2.7458499063830595,0.026848637564628852,1
+64,"Opazila je namreč, da je to kralj Drozgobrad, ki se je nekoč potegoval zanjo in ga je z zasmehom zavrnila.",2.425863968698602,2.64436179713199,0.21849782843338827,1
+65,"Nič ni pomagalo, da se je upirala, kraljevič jo je potegnil v dvorano.",2.784491270286602,2.8175822726929387,0.03309100240633667,1
+66,"Tedaj pa se ji je utrgal trak, s katerim sta bila privezana žepa, in lončka sta padla na tla, da se je juha z jedili razlila po tleh.",2.401909946410124,2.6487719323024277,0.2468619858923038,1
+67,"In ko so ljudje to videli, je nastal splošen krohot in porogljiv smeh, njo pa je bilo tako sram, da bi bila najrajši tisoč klafter pod zemljo.",2.3717682507573343,2.6955912064532845,0.3238229556959502,1
+68,"Skočila je skozi vrata in hotela pobegniti, na stopnicah pa jo je ujel neki moški in jo privedel nazaj; in ko se je ozrla vanj, je bil to spet kralj Drozgobrad.",2.457536507915977,2.6632779355080713,0.20574142759209435,1
+69,"Prijazno ji je dejal: »Nič se ne boj, jaz in tisti godec, ki je stanoval s teboj v borni hišici, sva eno.",2.5010588341152546,3.048424789586018,0.5473659554707635,1
+70,"Zaradi tebe sem se tako prenaredil, in tisti huzar, ki ti je razbil vse lonce, sem bil tudi jaz.",2.3380640665690104,3.3674766540527346,1.029412587483724,1
+71,"To vse se je zgodilo, da bi se upognila tvoja prevzetnost in bi bil kaznovan tvoj napuh, s katerim si me zasramovala.« Tedaj se je žena bridko razjokala in rekla: »Veliko krivico sem storila in nisem vredna, da bi ti bila žena.« 
+
+On pa ji je rekel: »Potolaži se, hudi dnevi so pri kraju, zdaj bova praznovala svojo svatbo.« In so prišle spletične in jo oblekle v najkrasnejša oblačila.",3.58999516413762,3.858548091008113,0.2685529268704929,1
+72,Prišel je tudi oče in veš dvor in želeli so ji srečo s kraljem Drozgobradom.,2.9252784729003904,3.067660903930664,0.1423824310302737,1

@@ -1,0 +1,50 @@
+,sentence,with_sentence,without_sentence,difference,label
+0,"Bil je nekoč mlinar, ki je bil reven, a je imel zalo hčer.",0.39092817902565,0.5590190291404724,0.1680908501148224,1
+1,"Zgodilo se je, da se je nekega dne zapletel s kraljem v pogovor in da bi se pokazal imenitnega, mu je rekel: »Hčer imam, ki zna iz slame presti zlato.« »Oho!« se je začudil kralj.",0.5590190291404724,0.024206912145018578,-0.5348121169954538,1
+2,"»To je pa umetnost, ki mi je všeč!",0.14357441663742065,0.10385771840810776,-0.0397166982293129,1
+3,"Če je tvoja hči res tako spretna, kakor praviš, jo pripelji jutri na moj grad.",0.03658784553408623,0.16229309141635895,0.12570524588227272,1
+4,Preskusil jo bom.« Kmet je privedel dekle na grad.,0.15141135454177856,0.16833758354187012,0.016926229000091553,1
+5,"Tam so jo odpeljali v izbo, ki je bila polna slame.",0.13321512937545776,0.8073183298110962,0.6741032004356384,1
+6,"Kralj ji je dal kolo in vreteno in ji rekel: »Sedi zdaj lepo k delu in če do jutri zjutraj ne spredeš iz te slame zlata, moraš umreti.« Nato je zaklenil izbo, dekle pa je ostalo samo v njej.",0.33189868927001953,0.12066871672868729,-0.21122997254133224,1
+7,Tako je sedela tam uboga mlinarjeva hči in si ni znala pomagati.,0.2600454092025757,0.16433848440647125,-0.09570692479610443,1
+8,"Saj niti pojma ni imela, kako naj bi spredla iz slame zlato.",0.4230199158191681,0.40164893865585327,-0.02137097716331482,1
+9,"Vedno bolj strah jo je postajalo, tako da je začela nazadnje bridko jokati.",0.6360527276992798,0.6827071905136108,0.046654462814331055,1
+10,"Tedaj so se naenkrat odprla vrata in v izbo je stopil čuden majhen možic ter dejal: »Dober večer, mlinarica mlada, kaj pa tako bridko jokaš?« »Oh, oh!« je zajokalo dekle.",0.36369025707244873,0.4133654534816742,0.049675196409225464,1
+11,"»Iz slame bi morala spresti zlato, pa ne znam tega.« »Kaj mi daš, če ti ga jaz spredem?« je vprašal možic.",0.3020031750202179,0.44828760623931885,0.14628443121910095,1
+12,"»Tole svojo ogrlico,« je reklo dekle.",0.4415799081325531,0.3821818232536316,-0.05939808487892151,1
+13,"Možiček je vzel ogrlico, sedel h kolesu in drrr drrr drrr, trikrat potegnil, pa je bil vitel poln.",0.1986236721277237,0.4044036567211151,0.20577998459339142,1
+14,"Nato je nataknil drugega, in drrr drrr drrr, trikrat potegnil, pa je bil tudi drugi vitel poln.",0.39346474409103394,0.3980417251586914,0.004576981067657471,1
+15,"Tako je šlo tja do jutra, in že je bila spredena vsa slama in vsi vitli so bili polni zlata.",0.2864539623260498,0.2736457884311676,-0.012808173894882202,1
+16,Ob sončnem vzhodu je že prišel kralj.,0.3760049045085907,0.4088687002658844,0.0328637957572937,1
+17,"Ko je zagledal zlato, se je močno začudil, srce pa mu je bilo le še pohlepnejše po zlatu.",0.28109216690063477,0.35277292132377625,0.07168075442314148,1
+18,"Dal je odpeljati mlinarjevo hčer v drugo izbo s slamo, ki je bila še veliko večja.",0.45956307649612427,0.4186554253101349,-0.04090765118598938,1
+19,"Ukazal ji je, naj slamo tudi v tej noči sprede v zlato, če ji je življenje drago.",0.25025519728660583,0.17656873166561127,-0.07368646562099457,1
+20,Dekle si ni vedelo pomagati in je bridko jokalo.,0.28013691306114197,0.32693570852279663,0.04679879546165466,1
+21,Tedaj so se spet odprla vrata.,0.19338694214820862,0.25504612922668457,0.06165918707847595,1
+22,"Prišel je mali možic in dejal: »Kaj mi daš, če ti spredem slamo v zlato?« »Tale svoj prstanček s prsta,« je odgovorilo dekle.",0.1856825202703476,0.13732782006263733,-0.048354700207710266,1
+23,"Možic je vzel prstan, pognal je kolovrat in je do jutra spredel vso slamo v bleščeče zlato.",0.13458450138568878,0.1541043519973755,0.019519850611686707,1
+24,Kralj se je ob pogledu nanj nadvse razveselil.,0.17007021605968475,0.19299781322479248,0.022927597165107727,1
+25,Njegovo srce pa še ni bilo sito zlata.,0.2694375216960907,0.24110227823257446,-0.028335243463516235,1
+26,"Velel je odvesti mlinarjevo hčer v še večjo izbo, polno slame.",0.24202488362789154,0.22429388761520386,-0.017730996012687683,1
+27,"»Še tole moraš spresti nocojšnjo noč,« ji je rekel.",0.14428752660751343,0.13908208906650543,-0.005205437541007996,1
+28,"»Če se ti posreči, postaneš moja soproga.« Kaj zato, je pomislil, če je mlinarjeva hči, bogatejše žene zlepa ne dobim na vsem svetu.",0.704629123210907,0.36137163639068604,-0.34325748682022095,1
+29,"Ko je bilo dekle samo, je še tretjič prišel možic in jo vprašal: »Kaj mi daš, če ti še tokrat spredem siamo?« »Ničesar več nimam, kar bi ti lahko dala,« je odgovorilo dekle.",0.5207416415214539,0.5339435338973999,0.013201892375946045,1
+30,"»Pa mi obljubi svojega prvega otroka, ko boš kraljica.« Kdo ve, kaj bo še iz tega, je pomislila mlinarjeva hči, in si tudi iz te stiske ni znala drugače pomagati, kot da je obljubila možicu, kar je zahteval.",0.29709672927856445,0.27019014954566956,-0.026906579732894897,1
+31,In zato ji je še enkrat spredel vso slamo v zlato.,0.5490676164627075,0.3502865433692932,-0.1987810730934143,1
+32,"Zjutraj je prišel kralj in je našel vse tako, kakor je želel.",0.2321641743183136,0.4035494923591614,0.17138531804084778,1
+33,Bil je mož-beseda in se je res oženil z dekletom.,0.7285951972007751,0.8837169408798218,0.15512174367904663,1
+34,In zala mlinarjeva hči je postala kraljica.,0.48453307151794434,0.39032700657844543,-0.0942060649394989,1
+35,Čez leto dni je povila lepega otročička in ni več mislila na tistega tujega možička.,0.6963651180267334,0.5172686576843262,-0.17909646034240723,1
+36,"Ta pa je vstopil in dejal: »Zdaj mi daj, kar si mi obljubila.« Kraljica se je prestrašila in je ponudila možicu bogastvo vse dežele, če ji hoče pustiti otroka.",0.9114291071891785,0.8232014179229736,-0.08822768926620483,1
+37,"Možic pa je dejal: »Ne, živa stvar mi je ljubša kakor vsi zakladi sveta.« Tedaj je začela kraljica tako presunljivo tarnati in jokati, da se je možicu zasmilila: »Tri dni ti dam časa,« ji je rekel, »če zveš moje ime, lahko obdržiš otroka.« Kraljica je vso noč premišljevala o vseh mogočih imenih, ki jih je kdaj slišala.",0.4146551191806793,0.30537572503089905,-0.10927939414978027,1
+38,"Po vsej deželi je razposlala sle, da bi poizvedeli daleč naokrog, kakšna imena še obstajajo.",0.33638203144073486,0.46419599652290344,0.12781396508216858,1
+39,"Ko je možic drugo jutro prišel, je začela z Gašperjem, Mihom in Boltežarjem ter mu imenovala vsa imena po vrsti.",0.11430945247411728,0.1433139592409134,0.029004506766796112,1
+40,"Možic pa je ob vsakem dejal: »Ne, tako mi ni ime.« Drugi dan je poslala sle še dlje v deželo, da bi poizvedeli kako se ljudje imenujejo.",0.21861106157302856,0.45840704441070557,0.239795982837677,1
+41,"In možicu je naštevala najbolj nenavadna in najbolj čudna imena: »Ali se pišeš nemara Rebrce ali Koštrunovo bedrce ali Zadrga?« Možic pa je odgovarjal samo: »Ne, tako mi ni ime.« Tretji dan pa je eden od slov pripovedoval takole: »Za nobeno novo ime nisem več zvedel.",0.2263425886631012,0.11713963001966476,-0.10920295864343643,1
+42,"Pač pa sem prišel na visokem hribu v neko gozdno zakotje, tja, kjer si lisica in zajec voščita lahko noč.",0.19954518973827362,0.1872236728668213,-0.012321516871452332,1
+43,Zagledal sem majhno hišico.,0.7008585333824158,0.6099543571472168,-0.09090417623519897,1
+44,"Pred hišico je gorel ogenj in okrog ognja je plesal prečuden smešen možic, poskakoval na eni nogi in pel: Danes pečem, jutri smodim, pojutrišnjem pa kraljička dobim; 
+
+to je dobro, to je dobro, da nihče ne ve, da mi je Špicparkeljc ime.« Lahko si mislite, kako je bila kraljica vesela, ko je to slišala.",0.2766113877296448,0.3153412938117981,0.03872990608215332,1
+45,"Drugo jutro je prišel možic in vprašal: »No, gospa kraljica, kako mi je ime?« Kraljica pa ga je za šalo najprej vprašala: »Ali si morebiti Urh?« »Nisem.« »Ali pa morda Jur?« »Nak.« »Kaj pa če si nemara Špicparkeljc?« je nazadnje vprašala s posebnim poudarkom.",0.5657657384872437,0.3592732846736908,-0.20649245381355286,1
+46,"Možic je kar pozelenel od jeze: »To ti je povedal sam hudič, to ti je povedal sam hudič!« In od jeze je udaril z levo nogo tako globoko v zemljo, da se je do pol života pogreznil vanjo.",0.311358779668808,0.3443489372730255,0.03299015760421753,1

@@ -1,0 +1,123 @@
+,sentence,with_sentence,without_sentence,difference,label
+0,There was once a man who had a daughter who was called Clever Elsie.,18.829840474821065,19.349249904141104,0.5194094293200386,1
+1,"And
+when she had grown up her father said: ‘We will get her married.’ ‘Yes,’
+said the mother, ‘if only someone would come who would have her.’ At
+length a man came from a distance and wooed her, who was called Hans;
+but he stipulated that Clever Elsie should be really smart.",19.57975809487952,20.901781344126505,1.3220232492469854,1
+2,"‘Oh,’ said
+the father, ‘she has plenty of good sense’; and the mother said: ‘Oh,
+she can see the wind coming up the street, and hear the flies coughing.’
+‘Well,’ said Hans, ‘if she is not really smart, I won’t have her.’ When
+they were sitting at dinner and had eaten, the mother said: ‘Elsie, go
+into the cellar and fetch some beer.’ Then Clever Elsie took the pitcher
+from the wall, went into the cellar, and tapped the lid briskly as she
+went, so that the time might not appear long.",20.238560267857142,20.49561737804878,0.25705711019163857,1
+3,"When she was below she
+fetched herself a chair, and set it before the barrel so that she had
+no need to stoop, and did not hurt her back or do herself any unexpected
+injury.",21.419128166795268,21.089906041023664,-0.32922212577160437,1
+4,"Then she placed the can before her, and turned the tap, and
+while the beer was running she would not let her eyes be idle, but
+looked up at the wall, and after much peering here and there, saw a
+pick-axe exactly above her, which the masons had accidentally left
+there.",17.849503800675677,20.0124291772241,2.162925376548422,1
+5,"Then Clever Elsie began to weep and said: ‘If I get Hans, and we have
+a child, and he grows big, and we send him into the cellar here to draw
+beer, then the pick-axe will fall on his head and kill him.’ Then she
+sat and wept and screamed with all the strength of her body, over the
+misfortune which lay before her.",19.339028367718445,21.00322597466626,1.6641976069478162,1
+6,"Those upstairs waited for the drink,
+but Clever Elsie still did not come.",17.2591796875,17.333059630102042,0.07387994260204067,1
+7,"Then the woman said to the servant:
+‘Just go down into the cellar and see where Elsie is.’ The maid went and
+found her sitting in front of the barrel, screaming loudly.",18.133925525382097,19.621720626364628,1.487795100982531,1
+8,"‘Elsie why
+do you weep?’ asked the maid.",18.663246029713115,18.94980508773053,0.2865590580174171,1
+9,"‘Ah,’ she answered, ‘have I not reason to
+weep?",18.929360634039256,19.37071845945248,0.441357825413224,1
+10,"If I get Hans, and we have a child, and he grows big, and has to
+draw beer here, the pick-axe will perhaps fall on his head, and kill
+him.’ Then said the maid: ‘What a clever Elsie we have!’ and sat down
+beside her and began loudly to weep over the misfortune.",19.187675873815166,21.05386829828199,1.8661924244668242,1
+11,"After a while,
+as the maid did not come back, and those upstairs were thirsty for the
+beer, the man said to the boy: ‘Just go down into the cellar and see
+where Elsie and the girl are.’ The boy went down, and there sat Clever
+Elsie and the girl both weeping together.",18.40427895642202,19.740073107798164,1.3357941513761453,1
+12,"Then he asked: ‘Why are you
+weeping?’ ‘Ah,’ said Elsie, ‘have I not reason to weep?",17.536702473958332,18.878145345052083,1.3414428710937507,1
+13,"If I get Hans,
+and we have a child, and he grows big, and has to draw beer here, the
+pick-axe will fall on his head and kill him.’ Then said the boy: ‘What
+a clever Elsie we have!’ and sat down by her, and likewise began to
+howl loudly.",18.782731042654028,20.990118668542653,2.207387625888625,1
+14,"Upstairs they waited for the boy, but as he still did not
+return, the man said to the woman: ‘Just go down into the cellar and see
+where Elsie is!’ The woman went down, and found all three in the midst
+of their lamentations, and inquired what was the cause; then Elsie told
+her also that her future child was to be killed by the pick-axe, when it
+grew big and had to draw beer, and the pick-axe fell down.",17.32082978805693,20.901159305383665,3.580329517326735,1
+15,"Then said the
+mother likewise: ‘What a clever Elsie we have!’ and sat down and wept
+with them.",17.28270847486413,18.303602666440216,1.0208941915760867,1
+16,"The man upstairs waited a short time, but as his wife did not
+come back and his thirst grew ever greater, he said: ‘I must go into the
+cellar myself and see where Elsie is.’ But when he got into the cellar,
+and they were all sitting together crying, and he heard the reason, and
+that Elsie’s child was the cause, and the Elsie might perhaps bring one
+into the world some day, and that he might be killed by the pick-axe, if
+he should happen to be sitting beneath it, drawing beer just at the very
+time when it fell down, he cried: ‘Oh, what a clever Elsie!’ and sat
+down, and likewise wept with them.",17.43554968121408,21.215103324802442,3.779553643588361,1
+17,"The bridegroom stayed upstairs alone
+for a long time; then as no one would come back he thought: ‘They must be
+waiting for me below: I too must go there and see what they are about.’
+When he got down, the five of them were sitting screaming and lamenting
+quite piteously, each out-doing the other.",17.133777491854264,19.120200496149288,1.9864230042950233,1
+18,"‘What misfortune has happened
+then?’ asked he.",15.912301908663618,16.45758900215955,0.5452870934959329,1
+19,"‘Ah, dear Hans,’ said Elsie, ‘if we marry each other
+and have a child, and he is big, and we perhaps send him here to draw
+something to drink, then the pick-axe which has been left up there might
+dash his brains out if it were to fall down, so have we not reason to
+weep?’ ‘Come,’ said Hans, ‘more understanding than that is not needed
+for my household, as you are such a clever Elsie, I will have you,’ and
+seized her hand, took her upstairs with him, and married her.",17.144109552556817,21.292437385110293,4.148327832553477,1
+20,"After Hans had had her some time, he said: ‘Wife, I am going out to work
+and earn some money for us; go into the field and cut the corn that we
+may have some bread.’ ‘Yes, dear Hans, I will do that.’ After Hans had
+gone away, she cooked herself some good broth and took it into the field
+with her.",17.48344934834123,19.66228987707346,2.178840528732227,1
+21,"When she came to the field she said to herself: ‘What shall I
+do; shall I cut first, or shall I eat first?",17.134896525930852,18.514149767287233,1.3792532413563805,1
+22,"Oh, I will eat first.’ Then
+she drank her cup of broth and when she was fully satisfied, she once
+more said: ‘What shall I do?",17.812068883384146,18.827948742378048,1.0158798589939018,1
+23,"Shall I cut first, or shall I sleep first?",17.69233674823113,18.45284055313974,0.760503804908609,1
+24,I will sleep first.’ Then she lay down among the corn and fell asleep.,17.1995211166318,17.585496208158997,0.38597509152719667,1
+25,"Hans had been at home for a long time, but Elsie did not come; then said
+he: ‘What a clever Elsie I have; she is so industrious that she does not
+even come home to eat.’ But when evening came and she still stayed away,
+Hans went out to see what she had cut, but nothing was cut, and she
+was lying among the corn asleep.",17.898099772135417,19.997523328993054,2.099423556857637,1
+26,"Then Hans hastened home and brought
+a fowler’s net with little bells and hung it round about her, and she
+still went on sleeping.",18.992739011915468,20.110688792715827,1.117949780800359,1
+27,"Then he ran home, shut the house-door, and sat
+down in his chair and worked.",17.22444275770142,18.274446460308056,1.0500037026066344,1
+28,"At length, when it was quite dark, Clever
+Elsie awoke and when she got up there was a jingling all round about
+her, and the bells rang at each step which she took.",19.820819900696534,20.37183793768825,0.5510180369917173,1
+29,"Then she was
+alarmed, and became uncertain whether she really was Clever Elsie or
+not, and said: ‘Is it I, or is it not I?’ But she knew not what answer
+to make to this, and stood for a time in doubt; at length she thought:
+‘I will go home and ask if it be I, or if it be not I, they will be sure
+to know.’ She ran to the door of her own house, but it was shut; then
+she knocked at the window and cried: ‘Hans, is Elsie within?’ ‘Yes,’
+answered Hans, ‘she is within.’ Hereupon she was terrified, and said:
+‘Ah, heavens!",14.108831787109375,19.474513244628906,5.36568145751953,1
+30,"Then it is not I,’ and went to another door; but when the
+people heard the jingling of the bells they would not open it, and she
+could get in nowhere.",14.381812201605904,14.960608588324654,0.57879638671875,1

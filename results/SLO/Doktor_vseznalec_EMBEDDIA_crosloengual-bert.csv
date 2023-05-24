@@ -1,0 +1,30 @@
+,sentence,with_sentence,without_sentence,difference,label
+0,"Bil je nekdaj reven kmet, Rak po imenu.",17.261370960135814,17.383333202339035,0.12196224220322094,1
+1,Nekega dne je z dvema voloma odpeljal drva v mesto in jih prodal nekemu doktorju.,17.516308183429622,17.5595477448792,0.04323956144957819,1
+2,"Doktor je ravno sedel pri kosilu, ko je prišel kmet po denar.",17.5166209216685,17.529491542194382,0.012870620525880838,1
+3,"Kmet je videl, kako doktor lepo je in pije in srce mu je prevzela želja, da bi bil tudi sam doktor.",17.352511746066433,17.462622013403262,0.11011026733682883,1
+4,"Ko je tako še malo počakal, je nazadnje vprašal, ali bi tudi on lahko postal doktor.",17.50319472035452,17.578961883022615,0.07576716266809314,1
+5,»Zakaj pa ne?« je rekel doktor.,17.305345939867426,17.434518525094695,0.12917258522726982,1
+6,»To se kaj kmalu lahko zgodi.« »Kaj pa moram storiti?« je vprašal kmet.,17.4032578125,17.55570703125,0.15244921875000017,1
+7,"»Najprej si kupi abecednik, knjigo, ki ima spredaj petelina naslikanega,« ga je doktor začel poučevati.",17.47351003657876,17.61730886470376,0.143798828125,1
+8,"»Drugič: prodaj voz in oba vola in si z denarjem nakupi oblek in vse drugo, kar je potrebno za doktorsko umetnost; tretjič: naroči si tablo z napisom: ,Jaz sem doktor Vseznalec', ter si jo pribij nad hišna vrata.« Kmet je storil vse, kakor mu je bilo naročeno.",17.579006109022558,17.45571325775376,-0.12329285126879697,1
+9,"Ko je tako nekaj časa doktaril, toda ne preveč, se je zgodilo, da so nekemu bogatemu, visokemu gospodu ukradli denar.",17.59462976665749,17.632486620663546,0.037856854006054874,1
+10,"Ta gospod je zvedel, da živi v tej in tej vasi doktor Vseznalec, ki mora za gotovo vedeti, kam je denar izginil.",17.67455321217811,17.460201934683475,-0.2143512774946359,1
+11,"Zato je dal napreči voz in se odpeljal v tisto vas ter vprašal kmeta, če je on doktor Vseznalec.",17.47500203450521,17.386016845703125,-0.08898518880208428,1
+12,"»Res, to sem jaz,« je rekel krnet.",17.18698750645661,17.064150471332646,-0.12283703512396471,1
+13,"»Pojdite torej z menoj in poiščite ukradeni denar!« 
+
+»Dobro,« je rekel Vseznalec, »a Jera, moja žena, mora tudi z menoj.« Gospod je bil zadovoljen, posadil ju je na voz in vsi trije so se odpeljali.",17.613001272219037,17.426971715524655,-0.1860295566943826,1
+14,"Ko so prišli v plemiški dvorec, je bila miza že pogrnjena in doktor Vseznalec je moral kositi z drugimi vred »Prav, a Jeta, moja žena, tudi,« je rekel in sedel za mizo.",17.49341289813702,17.323152982271633,-0.1702599158653868,1
+15,"Ko je prišel prvi služabnik s skledo dobre jedi, je dregnil krnet svojo ženo in dejal: »Jera, ta je bil prvi!« — misleč pri tem tistega, ki je prinesel prvo jed.",17.410443611692585,17.312126196172247,-0.0983174155203379,1
+16,"Služabnik pa je mislil, .da je hotel reči s tem: »To je bil prvi tat.« In ker je bilo to res, se je ustrašil in je zunaj rekel svojim tovarišem: »Doktor vse ve, slabo jo bomo skupili.",17.873382978909753,17.899908912556054,0.02652593364630107,1
+17,"Dejal je, da sem bil jaz prvi.« Drugi služabnik se kar ni upal noter, a moral je.",18.199775019778482,18.337109787051688,0.13733476727320593,1
+18,"Ko je vstopil s svojo skledo v sobo, je kmet dregnil svojo ženo: »Jera, ta je drugi!« Tudi ta služabnik se je hudo prestrašil in se je potrudil, da je bil čimprej zunaj.",18.30807895574095,18.340297785279976,0.03221882953902622,1
+19,"Tretjemu se ni godilo nič drugače, kajti kmet je rekel svoji ženi: »Jera, ta je tretji!« Četrti je moral prinesti v sobo pokrito skledo in gospod je rekel doktorju, da bi preskusil njegovo umetnost, naj ugane, kaj je v skledi.",17.954878780819953,18.00177617904243,0.04689739822247674,1
+20,V njej so bili raki.,17.598325155614837,17.527044032647357,-0.07128112296748057,1
+21,"Kmet je ogledoval skledo in ni vedel, kako bi si pomagal, zato je zamrmral: »Oh, jaz ubogi Rak!« Ko je gospod to slišal, je kriknil: »Glejte ga, res ve, gotovo tudi ve, kdo ima denar.« Služabnik je kar prebledel od groze in je pomežiknil doktorju, naj stopi malo ven.",17.74798008181014,17.8426513671875,0.09467128537735903,1
+22,"Zunaj so mu vsi štirje priznali, da so ukradli denar, in obljubili, da ga bojo vrnili in mu dali še lepo nagrado povrhu, če jih ne izda, ker bi jim drugače trda predla.",17.682260613692435,17.558262875205592,-0.12399773848684248,1
+23,"Pokazali so mu tudi, kje je denar skrit.",17.597581129807693,17.508751502403847,-0.0888296274038467,1
+24,"Doktor je bil zadovoljen s tem, vrnil se je v sobo, sedel za mizo in rekel: »Gospod, zdaj naj še poiščem v tej moji knjigi, kje tiči denar.« Peti služabnik pa se je medtem splazil v peč, da bi slišal, ali ve doktor še kaj več.",17.633662967891482,17.51170935997596,-0.1219536079155219,1
+25,"Ta pa je sedel, odprl svoj abecednik in listal po njem, da bi poiskal petelina.",18.1105224609375,17.400673828125,-0.7098486328124984,1
+26,"Ko ga pa ni mogel najti, je rekel jezno: »Saj si notri, zato moraš tudi ven.« Tisti v peči pa je mislil, da leti to nanj in je ves prestrašen skočil iz peči ter dejal: »Ta človek vse ve.« Nato je doktor Vseznalec pokazal gospodu, kje je denar, ni pa povedal, kdo ga je ukradel.",18.041329520089285,17.45687720889137,-0.5844523111979143,1

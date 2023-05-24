@@ -1,0 +1,191 @@
+,sentence,with_sentence,without_sentence,difference,label
+0,"Bil je oče, ki je imel dva sinova: starejši je bil pameten in prebrisan ter se je povsod znašel, mlajši pa je bil neumen, ničesar ni razumel in se ni ničesar naučil.",2.7510000519767144,2.8055933441818066,0.054593292205092236,1
+1,"In ko so ga ljudje videli, so crovorili: »S tem bo imel oče še velike križe in težave!« Kadar je bilo treba kaj storiti, je moral to vselej napraviti starejši.",2.7486131237399194,2.8573236937163977,0.10871056997647832,1
+2,"Če pa ga je oče pozno zvečer ali celo ponoči kam poslal in je pot držala čez pokopališče ali pa v kak drug grozljiv kraj, je navadno odgovoril: »Ne, oče, tja pa ne grem.",2.7540093071035554,2.845744733616676,0.09173542651312072,1
+3,Strah me je.« Bal se je.,2.8695859375,2.884296316964286,0.014710379464285772,1
+4,"Ali pa so si zvečer pri ognju pripovedovali zgodbe, pri katerih obliva človeka kurja polt.",2.7410711426924768,2.804474806059719,0.06340366336724212,1
+5,"Tedaj je marsikateri poslušalec vzkliknil: »Ah, kar zona me obliva!« Mlajši sin je sedel v kotu, poslušal in ni mogel razumeti, kaj to pomeni.",2.681548280091162,2.773584769004944,0.09203648891378213,1
+6,»Zmerom govorijo: Strah me je!,2.869483402113394,2.896338258214398,0.02685485610100402,1
+7,Zona me obliva!,2.8700624502388536,2.8865072651273884,0.016444814888534776,1
+8,"Mene pa ni strah in me nič ne obliva; gotovo je to kakšna umetnija, o kateri prav nič ne vem.« Pa mu je oče nekega dne dejal: »Slišiš, ti tam v kotu, velik si že in močan.",2.6940703634044922,2.8191457154492454,0.12507535204475317,1
+9,"Moral se boš česa naučiti, s čimer si boš služil vsakdanji kruh.",2.7593564315580985,2.8015018087037853,0.04214537714568678,1
+10,"Saj vidiš brata, kako se trudi, pri tebi pa je vse bob ob steno.« »Ej, oče,« je odgovoril, »saj bi se rad kaj naučil.",2.8413697198677346,2.9165703081338488,0.0752005882661142,1
+11,"Če bi bilo mogoče, bi se rad naučil, kaj je to strah.",2.820096873509065,2.8467460341125954,0.026649160603530397,1
+12,"Nikakor ne morem in ne morem razumeti tega.« Ko je starejši sin to slišal, se je zasmejal in pomislil: »Križana gora, kakšna prismoda je ta moj brat!",2.8523989003333674,2.957961688212541,0.10556278787917339,1
+13,Živ dan ne bo nič prida iz njega.,2.910565043604651,2.953730890521179,0.04316584691652814,1
+14,"Drevo je treba iipogniti, ko je še mlado.« 
+
+Oče je zavzdihnil in mu odgovoril: »Kaj je strah, se boš že še naučil, a kruha si ne boš služil s tem.« Malo zatem je prišel k očetu vaški cerkovnik na obisk.",2.7868931230980807,2.9868712693117976,0.1999781462137169,1
+15,"Oče mu je potožil, kako njegov mlajši sin ni za nobeno rabo, da ničesar ne ve in se ničesar ne uči.",2.6520127283175943,2.7226892550944335,0.07067652677683922,1
+16,»Pomislite!,2.8226643880208333,2.825033748851103,0.002369360830269507,1
+17,"Ko sem ga vprašal, s čim si bo služil kruh,  , mi je celo rekel, da bi se rad naučil, kaj je to strah.« »No, če je samo to,« je dejal mežnar, »se tega lahko pri meni nauči.",2.57382214811333,2.739615919184388,0.16579377107105797,1
+18,"Pošljite ga k meni, jaz mu že vtepem strah v glavo.« Oče je bil zadovoljen s tem, ker je mislil, da pride fant malo k pameti.",2.698040808776731,2.803573701629328,0.10553289285259693,1
+19,"Cerkovnik ga je torej vzel k sebi, da bi mu zvonil.",2.7440266274736973,2.8024797152899548,0.058453087816257465,1
+20,"Čez nekaj dni ga je zbudil opolnoči, mu velel vstati, iti v zvonik in zvoniti.",2.751887394831731,2.8311285721628288,0.07924117733109792,1
+21,"»Jaz te že naučim, da boš spoznal, kaj je strah,« je pomislil cerkovnik in skrivaj odšel pred njim v zvonik.",2.726154195851293,2.80733862948466,0.08118443363336691,1
+22,"Ko je bil fant zgoraj in se obrnil ter hotel prijeti za vrv, je videl, da stoji na stopnicah nasproti lini neka bela prikazen.",2.6590946609279533,2.8234211908095723,0.164326529881619,1
+23,»Kdo je tam?« je zavpil.,2.8488817780385376,2.8752294246387105,0.026347646600172858,1
+24,"Postava pa ni dala glasu od sebe, ni se premaknila, ni se zganila.",2.77694873046875,2.84402880859375,0.06708007812500005,1
+25,»Odgovori!« je zavpil fant.,2.890864565997904,2.9068150868312377,0.01595052083333348,1
+26,"»Ali pa glej, da izgineš!",2.909561789247411,2.928938946545242,0.019377157297830738,1
+27,"Ponoči nimaš kaj početi tukaj!« Cerkovnik pa se ni ganil, tako da bi fant mislil, da je prikazen.",2.878091792945171,2.9467965016662476,0.06870470872107681,1
+28,Fant je drugič zavpil: »Kaj iščeš tukaj?,2.8868318765470296,2.9283802599009903,0.041548383353960716,1
+29,"Govori, če si pošten človek, ali pa te vržem po stopnicah.« Cerkovnik pa si ni mislil, da bi bilo res lahko kaj hudega.",2.8584803919638357,2.949803013955393,0.09132262199155727,1
+30,"Ni dal glasu od sebe in je stal tam, kakor bi bil iz kamna.",2.8193677925018674,2.882498327004482,0.06313053450261474,1
+31,"Nato je fant še tretjič zaklical in ko je bilo tudi to zaman, se je zaletel in pahnil prikazen po stopnicah, da se je skotalila deset stopnic in obležala v kotu.",2.751566317836934,2.8792398083847734,0.12767349054783939,1
+32,"Ko je odzvonil, je odšel domov in ne da bi komu kaj rekel, legel v posteljo in zaspal.",2.8879347958239205,2.927545631745733,0.03961083592181236,1
+33,"Cerkovnica je dolgo čakala svojega moža, a ko ga ni in ni bilo, jo je prevzel strah.",3.0045632102272726,3.0521928267045455,0.04762961647727293,1
+34,"Zbudila je fanta in vprašala: 
+
+»Ali veš, kje je ostal moj mož?",2.9779261927450857,3.0606219383978073,0.08269574565272153,1
+35,"Odšel je pred teboj v zvonik.« »Ne vem,« je odgovoril fant.",2.978589791225722,3.005445503143675,0.026855711917952885,1
+36,"»A nekdo je stal na stopnicah nasproti lini in ker mi ni dal odgovora in ni maral oditi, sem ga imel za malopridneža in sem ga pahnil po stopnicah.",2.836156178105828,2.968432966673057,0.1322767885672289,1
+37,"Pojdite tja in poglejte, kdo je bil.",3.115880672168355,3.147047442409832,0.03116677024147707,1
+38,"Hudo mi je, če je bil.« Žena je odhitela in našla svojega moža, ki je ležal v kotu in stokal z zlomljeno nogo.",3.0851374813799444,3.134962720271298,0.049825238891353596,1
+39,"Odnesla ga je domov in pohitela z glasnim jokom k fantovemu očetu: »Vaš fant,« je zacvilila, »je povzročil hudo nesrečo.",3.164152996117617,3.259622919583758,0.09546992346614092,1
+40,"Vrgel je mojega moža po stopnicah, da si je zlomil nogo.",3.24417168861829,3.2779325026404074,0.03376081402211728,1
+41,"Spravite nam tega ničvredneža iz hiše!« Oče se je ustrašil, stekel tja in ozmerjal sina: 
+»Kakšne hudobne neumnosti pa so to?",3.219369053112271,3.3214640879582484,0.10209503484597748,1
+42,"Tega te je sam hudobec naučil!« »Poslušaj, oče,« je odgovoril sin, »jaz sem čisto nedolžen.",3.0353834090694303,3.1178436279296875,0.08246021886025723,1
+43,Stal je tam ponoči kakor bi kaj hudega kuhal.,3.115478032178218,3.1537962658570544,0.03831823367883658,1
+44,"Saj nisem vedel, kdo je, trikrat sem ga opomnil, naj spregovori ali pa odide.« »Oh,« je rekel oče, »same nadloge imam s teboj.",2.9331805506937374,3.041496447778768,0.10831589708503042,1
+45,"Pojdi mi izpred oči, ne maram te več videti!« »Prav rad, oče, počakaj samo, da se zdani.",2.975793580334596,3.074812825520833,0.09901924518623728,1
+46,"Grem, da bi se naučil, kaj je strah.",3.164456454190341,3.215318039000741,0.05086158481040037,1
+47,"Tako bom vsaj znal eno umetnijo, s katero se bom preživljal.« »Uči se, kar se hočeš,« je rekel oče, »meni je vseeno.",3.1310862182122974,3.241717998798077,0.11063178058577972,1
+48,"Na petdeset tolarjev, pojdi s tem v daljni svet, a živi duši ne črhni, od kod si in kdo je tvoj oče, ker me mora biti sram zate.« »Prav, oče, kakor želiš.",2.9029946238724227,3.125730911726804,0.2227362878543815,1
+49,"Če nič drugega ne zahtevaš, to si bom že lahko zapomnil.« Ko se je zdanilo, je fant vtaknil svojih petdeset tolarjev v žep in se odpravil na široko deželno cesto.",3.0547105132556354,3.1649039846951843,0.11019347143954894,1
+50,"Tako gredoč je govoril sam pri sebi: »Ko bi le zvedel, kaj je strah!",3.103311765121982,3.1662705726546783,0.06295880753269634,1
+51,"Ko bi me le bilo strah!« 
+
+Pa ga je dohitel človek, ki je slišal, kaj govori fant sam pri sebi.",3.086768857894405,3.1775441323557208,0.09077527446131572,1
+52,"In ko sta hodila kos poti skupaj ter zagledala vislice pred seboj, mu je človek dejal: »Vidiš tistole drevo tam?",2.9247104621467668,3.0427870119176426,0.11807654977087578,1
+53,Sedem jih visi na njem.,3.0484575887364667,3.094974307563361,0.046516718826894454,1
+54,Oženili so se z vrvarjevo hčerjo in se učijo letanja.,2.9472432088947107,3.056134069751123,0.10889086085641209,1
+55,"Sedi podnje in počakaj, da bo noč, pa se boš že naučil, kaj je strah.« »Če ni treba nič drugega,« je menil fant, »je to prav lahko.",2.8803173927571284,3.000262040955957,0.11994464819882866,1
+56,"Če bom res tako hitro spoznal strah, ti dam mojih petdeset tolarjev.",2.8741140765344313,2.951276402273578,0.07716232573914672,1
+57,"Kar vrni se jutri zjutraj.« Nato je šel fant k vislicam, sedel podnje in čakal, da se bo zvečerilo.",2.8454762817877026,2.8943476503194585,0.04887136853175589,1
+58,"In ker ga je zeblo, je zakuril ogenj.",2.848201448955233,2.8929961673797124,0.04479471842447946,1
+59,"Okrog polnoči je zapihal tak mrzel veter, da se kljub ognju ni mogel ogreti.",2.8178173828125,2.86647705078125,0.048659667968749876,1
+60,"In ko je začel veter zibati obešence drugega proti drugemu, da so bingljali sem in tja, je pomislil: »Tebe zebe tukaj pri ognju, kako more zebsti šele te zgoraj, da tako brcajo.« In ker je bil mehkega srca, je pristavil lestev, odvezal drugega za drugim in jih vseh sedem odnesel na tla.",2.580884102063301,2.9242412860576925,0.3433571839943914,1
+61,"Nato je podgrebel ogenj, popihal vanj in jih posadil okrog, da bi se ogreli.",2.7559554624748994,2.834512365869729,0.07855690339482946,1
+62,Oni pa so sedeli in se niso ganili in ogenj je segal po njihovi obleki.,2.749807513878493,2.8013046173278444,0.05149710344935121,1
+63,"Ko je videl to, jim je rekel: »Pazite se, drugače vas obesim 
+nazaj.« Mrtveci pa niso slišali, molčali so in pustili, da so se jim naprej cunje smodile.",2.5272705078125,2.721617771423969,0.1943472636114687,1
+64,"Fant se je razjezil in dejal: »Če nočete paziti, vam ne morem pomagati.",2.7619148909212825,2.7898548605913174,0.02793996967003487,1
+65,"Nočem zgoreti z vami,« in jih obesil nazaj.",2.8118275212009194,2.850631562189364,0.03880404098844448,1
+66,Nato je sedel k svojemu ognju in zaspal.,2.8062976195080447,2.843985922029703,0.03768830252165811,1
+67,"Drugo jutro je prišel tisti človek po petdeset tolarjev in rekel: »Zdaj menda veš, kaj je strah?« »Ne, od kod pa bi vedel?« je odgovoril fant.",2.7312569049873736,2.840172969933712,0.10891606494633832,1
+68,"»Tile tam gori niti ust niso odprli in bili so tako neumni, da so pustili, da so jim zgorele cunje, ki so jih imeli na sebi.« 
+
+Tedaj je človek uvidel, da ta dan ne bo dobil petdeset tolarjev.",2.6246193233497923,2.821055834605639,0.19643651125584682,1
+69,"Odšel je in rekel sam pri sebi : »Ne, na kaj takega pa še nisem naletel.« Tudi fant je šel svojo pot in spet začel govoriti sam pri sebi: »Oh, da bi me bilo strah!",2.7596022809138065,2.8610469630507174,0.10144468213691082,1
+70,"Ko bi me bilo strah!« To je slišal voznik, ki je stopal za njim, pa ga je vprašal: »Kdo pa si?« »Ne vem,« je rekel fant.",2.8708402193509617,2.9479491199076415,0.07710890055667985,1
+71,"Voznik je dalje vprašal: »Od kod si?« »Ne vem.« »Kdo je tvoj oče?« »Tega ne smem povedati.« »A kaj venomer momljaš sam pri sebi?« »Eh,« je zavzdihnil fant, »rad bi doživel, da bi me bilo strah; a nihče me ne more tega naučiti.« »Kar tiho bodi,« je dejal voznik.",2.79148920530914,3.0184969338037635,0.2270077284946237,1
+72,"»Pojdi z menoj, pomagal te bom spraviti pod streho.« Fant je šel z voznikom in zvečer sta prišla do krčme, kjer naj bi prenočila.",2.878632712850765,2.958740234375,0.08010752152423484,1
+73,"Ko sta stopila v izbo, je fant spet na ves glas dejal: »Ko bi me bilo strah!",3.0523659490769908,3.08611322218372,0.0337472731067292,1
+74,"Da bi me bilo strah!« Krčmar, ki je slišal to, se je zasmejal in rekel: »če te to mika, imaš priložnosti dovolj.« »Ah, molči rajši,« se je vmešala krčmarica.",3.013314781347251,3.1740251596537865,0.16071037830653534,1
+75,"»Že marsikateri predrznež je plačal s svojim življenjem; bila bi velika škoda za te lepe oči, če naj ne bi več gledale belega dne.« Fant pa je dejal: »Pa če bi bilo kaj :1;e- tako hudega, spoznati hočem strah, saj sem zato tudi šel na pot.« In ni odnehal, dokler mu ni krčmar povedal, da nedaleč stran stoji zakleti grad, v katerem bo lahko spoznal, kaj je strah, če le hoče tri noči prebedeti v njem.",2.683612654694414,3.2051623859236726,0.5215497312292587,1
+76,"Tistemu, ki bi se mu to posrečilo, je kralj obljubil svojo hčerko za ženo, to pa je najlepša deklica pod soncem.",2.922335661300505,3.0363276317866164,0.11399197048611143,1
+77,"V gradu so skriti tudi veliki 
+
+zakladi, ki jih stražijo hudi duhovi.",2.882543896386523,2.979611077623998,0.09706718123747526,1
+78,Bili bi osvobojeni in reven človek bi pošteno obogatel z njimi.,2.781613536090015,2.869474251431773,0.08786071534175788,1
+79,"A že mnogo jih je odšlo v ta grad, nihče pa še ni prišel ven.",2.7796037529569224,2.820425329930279,0.04082157697335642,1
+80,"Naslednji dan je fant odšel h kralju in mu rekel: »Če mi dovolite, bi rad tri noči stražil v začaranem gradu.« Kralj se je ozrl vanj in ker mu je bil mladenič všeč, je dejal: »Lahko si izbereš tri stvari, seveda ne smejo biti žive, ki jih smeš vzeti s seboj.« »Potem prosim za ogenj, stružnico in rezbarski stol z nožem,« je odgovoril fant.",2.5652669270833335,2.9178847275771105,0.352617800493777,1
+81,"Kralj je ukazal, da so mu vse to še podnevi odnesli v grad.",2.9308323678607215,2.9847576011397794,0.05392523327905785,1
+82,"Ko pa se je približala noč, je fant odšel tja in zakuril velik ogenj v izbi, zraven postavil rezbarski stol z nožem in sedel na stružnico.",2.8144299091736964,2.9349155543040646,0.12048564513036819,1
+83,"»Ah, ko bi me vsaj bilo strah!« in zavzdihnil.",2.9021008227975895,2.9393344522707503,0.03723362947316078,1
+84,»Ampak tega tudi tukaj ne bom spoznal.« Proti polnoči je hotel ogenj malo podkuriti.,2.8685889938872258,2.9459552574538423,0.07736626356661658,1
+85,"Ko je tako pihal vanj, je od nekod iz kota zaslišal neko vreščanje: »Av, mijav, kako je mraz!« »Prismode neumne,« je zaklical fant, »kaj pa se derete?",2.671413453157283,2.849563976949897,0.17815052379261376,1
+86,"Če vas zebe, pridite, sedite k ognju in se ogrejte.« In komaj je spregovoril, sta z velikanskim skokom priskočili dve veliki črni mački, ki sta sedli vsaka na eno stran in ga divje gledali s svojimi ognjenimi očmi.",2.622320810953776,2.808399200439453,0.18607838948567723,1
+87,"Ko sta se malo ogreli, sta dejali: »Prijatelj, ne bi vrgli partijo kar t?« »Zakaj pa ne?« je odgovoril on.",2.7408832750822367,2.892717986936994,0.1518347118547574,1
+88,»Samo svoje tace mi malo pokažita.« Iztegnili sta svoje kremplje.,2.738373720096443,2.806752910117109,0.06837919002066606,1
+89,"»Oho,« je rekel, »kakšne dolge nohte imata, porezati vama jih moram.« S tem ju je zgrabil za vrat, ju dvignil na rezbarski stol ter jima trdo privil šape.",2.6125787125583506,2.7947390227891598,0.18216031023080914,1
+90,"»Po prstih sem vaju spoznal,« je dejal.",2.848928097208498,2.8881136325037056,0.03918553529520752,1
+91,»Zato me je minilo veselje za karte.« Ubil ju je in ju vrgel v vodo.,2.7400911392704135,2.807401595577117,0.06731045630670351,1
+92,"Komaj pa je imel mir pred njima in je hotel spet sesti k svojemu ognju, so začele prihajati iz vseh kotov in koncev črne mačke in črni psi na razbeljenih verigah, prihajalo jih je več in več, da se jim ne bi mogel več skriti.",2.577498083572547,2.8201682582528704,0.24267017468032348,1
+93,"Strahovito so tulili, teptali njegov ogenj, ga razmetavali in ga hoteli pogasiti.",2.869859347601453,2.951120991983968,0.08126164438251493,1
+94,"Za trenutek je to mirno gledal, ko pa mu je začelo presedati, je pograbil rezbarski nož in zavpil: »Zdaj pa od tod, svojat!« in začel sekati po njih.",2.7723555584343114,2.8994980169802296,0.1271424585459182,1
+95,"Kolikor jih ni pobegnilo, jih je pobil in jih vrgel v bajar tam zunaj.",2.7318364756857463,2.804595029903557,0.07275855421781063,1
+96,"Ko se je vrnil, je znova razpihal ogenj ter se skušal ogreti.",2.7890801133517034,2.8209304350889277,0.03185032173722435,1
+97,"In ko je tako sedel, so se mu oči kar same zapirale in začutil je potrebo, da bi zaspal.",2.767875072701836,2.820592745928697,0.05271767322686083,1
+98,Pogledal je okrog sebe in v kotu zagledal veliko posteljo.,2.858742078777336,2.8789994408548707,0.02025736207753459,1
+99,"»To je pa imenitno,« je rekel in legel vanjo.",2.834323647956014,2.860001126056163,0.025677478100148754,1
+100,"Ko je hotel zatisniti oči, se je začela postelja sama od sebe premikati in vozil se je po vsem gradu.",2.793880831810736,2.858457503780242,0.064576671969506,1
+101,"»Lepo, lepo,« se je zasmejal, »le še malo hitreje.« Tedaj pa je začela postelja dirjati, kakor bi bilo šestero konj vpreženih vanjo.",2.764313494572874,2.8876727995325306,0.12335930495965686,1
+102,"Švignila je čez prag in po stopnicah gor in dol, naenkrat pa hop!",2.82648291015625,2.869839111328125,0.04335620117187533,1
+103,hop!,2.878328929227941,2.89544007544424,0.017111146216298945,1
+104,"se je prevrnila in ga pokopala pod seboj, kakor gora.",2.82913492032797,2.851112411045792,0.021977490717822068,1
+105,"Fant je vrgel odeje in blazine s sebe, se zrinil ven in dejal: »Zdaj pa naj se vozi kdo drug.« Legel je k svojemu ognju in spal do belega dne.",2.7215506131531764,2.836911060771004,0.1153604476178276,1
+106,"Zjutraj je prišel kralj in ko je zagledal fanta, kako leži na tleh, je pomislil, da so ga strahovi umorili in da je mrtev.",2.8372802734375,2.9142242679751016,0.07694399453760159,1
+107,"Hudo mu je bilo zanj in je rekel: »Škoda lepega mladeniča.« Fant je slišal te besede, se dvignil in dejal: »Tako daleč pa še nismo.« Kralj se je nemalo začudil in ves vesel vprašal fanta, kako je bilo.",2.7689558480290457,2.9153931170578318,0.14643726902878607,1
+108,"»Čisto dobro,« je odgovoril fant.",2.8731027336045365,2.88988752195821,0.016784788353673363,1
+109,"»Ena noč je minila, tudi drugi dve bosta.« 
+
+Ko je prišel h krčmarju, ga je ta debelo pogledal.",2.8133123224431817,2.9217911537247474,0.10847883128156566,1
+110,"»Mislil sem že,« je rekel, »da te ne bom več videl živega.",2.913799239928464,2.9356584051047943,0.021859165176330464,1
+111,"Si zdaj spoznal, kaj je strah?« »Nisem,« je rekel on, »vse je zaman; ko bi mi le mogel kdo to povedati.« Drugo noč je šel spet v stari grad, sedel k ognju in spet začel svojo staro pesmico: »Ko bi me vsaj bilo strah!« Ko se je bližala polnoč, je zaslišal ropot in neko razgrajanje, sprva tiho, nato pa vedno močneje.",2.725148718341503,3.0026892701525054,0.27754055181100235,1
+112,"Nazadnje je s silovitim kričanjem skozi dimnik priletela polovica človeka, ki je padel predenj.",2.9274491365543587,3.0325519202467435,0.1051027836923848,1
+113,"»Hej ti,« je zaklical, »k temu spada še druga polovica, to je premalo!« Tedaj je spet zaropotalo, zahrumelo je in zatulilo in predenj je padla še druga polovica.",2.871117061168506,2.9986659995829057,0.12754893841439952,1
+114,"»Čakaj,« je rekel, »da ti malo razpiham ogenj.« Ko je storil to in se ozrl okrog sebe, je videl, da sta se oba dela sestavila in na njegovem sedežu je sedel strašanski človek.",2.765442651165418,2.936163279635847,0.1707206284704288,1
+115,"»Tako se pa nisva zmenila,« je rekel mladenič.",2.9014972664015906,2.924355235772863,0.02285796937127227,1
+116,"»Stružnica je moja.« Človek ga je hotel odriniti, fant pa se ni dal.",2.8409594045692232,2.8974716368899402,0.056512232320717004,1
+117,S silo ga je potisnil proč in sedel na svoje mesto.,2.8577897780012376,2.8795255453279704,0.02173576732673288,1
+118,"Nato je padlo skozi dimnik še več mož, drug za drugim.",2.8490447998046875,2.874846927703373,0.025802127898685523,1
+119,S seboj so imeli devet mrtvaških kosti in dve mrtvaški lobanji.,2.768201607631972,2.834863670318725,0.06666206268675268,1
+120,Postavili so kosti in začeli kegljati.,2.775099923959363,2.8191260537611167,0.04402612980175391,1
+121,"Tudi fantu se je zahotelo in je vprašal: »Slišite, me sprejmete medse?« »Že, če imaš denar,« so rekli.",2.718408499652075,2.818417691991397,0.10000919233932182,1
+122,"»Denarja dovolj,« je odgovoril on.",2.737895942914604,2.773904993038366,0.03600905012376199,1
+123,"»A tele vaše krogle niso dovolj gladke in okrogle.« In vzel je mrtvaški lobanji, ju vtaknil v stružnico in ju gladko ostrugal.",2.5995210050805215,2.7668866428617074,0.16736563778118585,1
+124,"»Tako, zdaj boste bolje trkljali,« je dejal.",2.723756341820219,2.777304356791584,0.053548014971364744,1
+125,"»Hejsa, zdaj gre imenitno!« 
+
+Igral je z njimi in izgubil nekaj denarja, ko pa je odbilo dvanajst, mu je vse izginilo izpred oči.",2.610523309688139,2.748732865222393,0.13820955553425396,1
+126,Legel je in mirno zaspal.,2.6663704749381187,2.6778523360148516,0.01148186107673288,1
+127,"Drugo jutro je prišel kralj pogledat, kako in kaj.",2.6718899868502475,2.6912757193688117,0.019385732518564236,1
+128,»Kako ti je bilo tokrat?« je vprašal.,2.669960067295792,2.6922783879950494,0.02231832069925721,1
+129,"»Kegljal sem,« je rekel, »in izgubil nekaj vinarjev.« »Mar te ni bilo nič strah?« »Kje neki!« je rekel fant.",2.5837340567276064,2.694572170736336,0.11083811400872978,1
+130,»Zabavno je bilo.,2.7165340847439237,2.721865699404762,0.005331614660838202,1
+131,"Ko bi le vedel, kaj je groza in strah!« Tretjo noč je spet sedel na stružnico in čemerno zamrrnral.",2.6648314935475708,2.7647848399544532,0.09995334640688247,1
+132,"»Ko bi me vsaj bilo strah!« Ko je bilo že pozno, je prišlo šest velikih mož, ki so prinesli mrtvaško krsto s seboj.",2.643771480397149,2.7387685367871692,0.09499705639002043,1
+133,"»Ha ha, to je pa gotovo moj striček, ki je šele pred nekaj dnevi umr1,« je rekel, pomignil s prstom in vzkliknil: »Le bliže, striček, le bliže!« Možje so postavili krsto na tla, on pa je pristopil in dvignil pokrov: v krsti je ležal mrtev človek.",2.423052926348825,2.714447543152377,0.29139461680355216,1
+134,Fant ga je potipal po obrazu.,2.742719205471838,2.7550753265501484,0.012356121078310522,1
+135,Bil je mrzel kakor led.,2.7411897078804346,2.7641290355576826,0.022939327677248045,1
+136,"»Čakaj,« je rekel, »malo te bom ogrel.« Šel je k ognju, si pogrel roke in mu jih položil na obraz.",2.665668402777778,2.734848484848485,0.06918008207070692,1
+137,Mrlič je ostal mrzel.,2.781659944789616,2.79746276374877,0.015802818959153697,1
+138,"Vzel ga je iz krste, ga posadil k ognju, si ga vzel v naročje in mu drgnil roke, da bi kri spet začela krožiti.",2.676127323065173,2.761917145334776,0.08578982226960319,1
+139,"Ko tudi to ni pomagalo, se je domislil: »Če ležita v postelji dva skupaj, se Ogrejeta.« Odnesel ga je v posteljo, ga pokril in legel zraven njega.",2.686385292084619,2.8137892734857255,0.12740398140110631,1
+140,Čez nekaj časa se je mrtvec ogrel in se začel premikati.,2.7685474214099703,2.788998074001736,0.020450652591765817,1
+141,"In fant mu je rekel: »Vidiš, striček, če te ne bi bil grel...« »Zdaj te bom zadavili« je zavpil mrtvec.",2.740515656693712,2.8434553475215516,0.10293969082783949,1
+142,»Kaj govoriš?« je rekel fant.,2.7718248997995993,2.7879685151553106,0.016143615355711294,1
+143,»Je to tvoja hvaležnost?,2.8082456683168315,2.825269279857673,0.017023611540841532,1
+144,"Pri priči moraš nazaj v svojo krsto.« Vzdignil ga je, ga vrgel vanjo In zaprl pokrov.",2.758670676402163,2.831565074037978,0.07289439763581473,1
+145,Nato je prišlo onih šest mož in so odnesli rakev.,2.8077965163423153,2.883486688731911,0.07569017238959574,1
+146,"»Kar noče in noče me biti strah,« je dejal.",2.842755114572769,2.881190673332911,0.03843555876014193,1
+147,"»Tega se živ dan ne bom naučil.« Ob teh besedah je vstopil možak, ki je bil večji od vseh drugih in grozovit na pogled.",2.7382299855444385,2.862263828206211,0.12403384266177264,1
+148,Bil pa je že star in imel je dolgo belo brado.,2.8137429416769804,2.848663269647277,0.03492032797029676,1
+149,"»O, ti smet!« je zaklical.",2.8205247107645874,2.847426846233652,0.026902135469064614,1
+150,"»Zdajle boš takoj zvedel, kaj je strah, kajti umreti moraš!« »Le ne tako hitro,« se je uprl fant.",2.769570513853093,2.8436256644652063,0.07405515061211343,1
+151,"»Če moram umreti, moram biti tudi zraven!« »Kar zgrabil te bom!« je rekel grdavš.",2.7815258343369678,2.8533601277256593,0.07183429338869152,1
+152,"»Počasi, počasi,« mu je segel v besedo fant.",2.848931376139323,2.873401896158854,0.024470520019530984,1
+153,»Nikar se tako ne usti.,2.9140592876233553,2.9293101692971915,0.015250881673836147,1
+154,"Če si ti močan, sem jaz tudi, če ne še močnejši.« »To bova videla,« je rekel stari.",2.882176927298554,2.9517065631456614,0.06952963584710758,1
+155,"»Če si močnejši od mene, ti bom prizanesel; daj, poskusiva se.« Nato je starec odvedel fanta po mnogih temnih hodnikih do neke kovačnice, vzel sekiro in z enim udarcem zabil nakovalo v zemljo.",2.734532062021335,2.961777568124316,0.22724550610298122,1
+156,"»To znam jaz še bolje,« je rekel fant in šel k drugemu nakovalu, starec pa se je postavil poleg njega, da bi bolje videl.",2.856137737957151,2.952250784661572,0.09611304670442111,1
+157,Njegova dolga bela brada mu ja padala na prsi.,2.937892368861607,2.982021271236359,0.04412890237475198,1
+158,"In fant je pograbil sekiro, napravil z enim udarcem veliko režo v nakovalu ter stisnil starčevo brado vanjo.",2.856251992984694,2.968464754065689,0.1122127610809951,1
+159,"»Zdaj te pa imam,« je zmagoslavno rekel fant.",2.9919922863423585,3.0050278636608048,0.01303557731844629,1
+160,"»Zdaj si ti tisti, ki mora umreti.« Nato je pograbil železni drog in začel udrihati po starcu, dokler ni začel cviliti in ga prositi, naj neha, češ da mu bo dal velike zaklade.",2.8868129619424274,3.014717830167272,0.12790486822484448,1
+161,Fant je potegnil sekiro iz nakovala in ga izpustil.,3.0289693425210675,3.048198571365871,0.01922922884480327,1
+162,Stari ga je spet odvedel nazaj v grad in mu je pokazal v skriti kleti tri zaboje zlata.,2.995285814861919,3.090355309774709,0.09506949491279038,1
+163,"»Od tega zlata,« je dejal, »pripada en del siromakom, drugi del kralju, tretji tebi.« 
+
+Vtem je ura odbila dvanajst, duh je izginil in fant je ostal sam v temi.",2.8788706604863554,3.163242393816021,0.2843717333296656,1
+164,"»Nekako bom že prišel od tod,« je pomislil, se otipaval sem in tja in našel pot nazaj v izbo.",2.850336927973647,2.9602370737624644,0.10990014578881757,1
+165,Tam je ob svojem ognju zaspal.,2.9017085673646155,2.91644287109375,0.014734303729134535,1
+166,"Drugo jutro je prišel kralj in rekel: »Zdaj si nazadnje menda spoznal, kaj je groza in strah?« »Ne,« je odgovoril oni.",2.7944747388553313,2.924798837485024,0.13032409862969274,1
+167,»Kaj je to?,2.9818738664899556,2.966632080078125,-0.015241786411830383,1
+168,"Moj mrtvi stric je bil tu in neki bradat človek je prišel, ki mi je pokazal veliko denarja, tega pa, kaj je strah in groza, mi ni povedal nihče.« Tedaj mu je kralj slovesno dejal: »Osvobodil si ta grad in dobil boš mojo hčer za ženo.« »To vse je zelo lepo,« je rekel mladenič, »toda jaz še vedno ne vem, kaj je strah, da bi se zgrozil.« Prinesli so zlato iz kleti in obhajali svatbo, toda mladi kralj, kakor je že imel rad svojo ženo in bil srečen z njo, je venomer govoril: »Ko bi vsaj vedel, kaj je strah!",1.6845116248497596,2.9747436096618225,1.290231984812063,1
+169,"Ko bi se vsaj zgrozil.« Mladi ženi je to navsezadnje že presedalo, kar ji je njena sobarica priskočila na pomoč: »Pomagala bom; jaz ga že naučim, kaj je to groza.« In šla je k potoku, ki je tekel skozi vrt, ter prinesla poln škaf piškurjev.",1.8175757137345678,3.1643186969521606,1.3467429832175928,1
+170,"Ko je mladi kralj ponoči spal, je žena odgrnila odejo z njega ter zlila cel škaf mrzle vode s piškurji čezenj, tako da so ribice capljale po njem.",2.9045323823627673,3.108000504343133,0.2034681219803658,1
+171,"In kralj se je prebudil in zavpil: »Uh, kako me je zgrozilo, kar zona me obliva, ljuba žena!",2.5933520793914795,2.9200057983398438,0.32665371894836426,1

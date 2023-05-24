@@ -1,0 +1,53 @@
+,sentence,with_sentence,without_sentence,difference,label
+0,"Bil je nekoč kraljevič, ki se je mudil pri svoji nevesti, ki jo je imel močno rad.",0.3749891221523285,0.20449793338775635,-0.17049118876457214,1
+1,"Ko je sedel tako pri nji in bil dobre volje, pa je prišlo poročilo, da mu je oče na smrt obolel in da ga želi videti pred smrtjo.",0.20449793338775635,0.05147281289100647,-0.15302512049674988,1
+2,Kraljevič je dejal svoji ljubljenki: »Kličejo me in zapustiti te moram.,0.04045247286558151,0.13997139036655426,0.09951891750097275,1
+3,Vzemi tu prstan v spomin name.,0.10536699742078781,0.6457188725471497,0.5403518751263618,1
+4,"Ko bom kralj, pridem in te popeljem na svoj dom.« Odjezdil je.",0.2934971749782562,0.09638835489749908,-0.19710882008075714,1
+5,"Ko je prišel k očetu, je bil ta res na smrt bolan in blizu smrti.",0.06745936721563339,0.12663988769054413,0.059180520474910736,1
+6,"»Ljubi moj sin,« mu je rekel, »hotel sem te še enkrat videti pred smrtjo.",0.37394779920578003,0.24566315114498138,-0.12828464806079865,1
+7,"Obljubi mi, da se boš oženil po moji volji.« Imenoval mu je neko kraljično, s katero se še poznala nista, ki naj bi mu postala žena.",0.47198355197906494,0.2752087116241455,-0.19677484035491943,1
+8,"Sin pa je bil tako zmeden in potrt, da ni nič pomislil in dejal: »Naj se zgodi, dragi oče, kakor želite.« Nato je kralj zaprl oči in umrl.",0.49090495705604553,0.37331631779670715,-0.11758863925933838,1
+9,"Ko so oklicali sina za kralja in je minil čas žalovanja, je moral izpolniti obljubo, dano očetu, ter je dal zasnubiti kraljično.",0.455252468585968,0.5985904335975647,0.14333796501159668,1
+10,Obljubili so mu jo.,0.3963688910007477,0.38194355368614197,-0.014425337314605713,1
+11,"To pa je zvedela njegova prva nevesta in ta nezvestoba jo je tako strašno razžalostila, da je skoraj umrla od žalosti.",0.31075558066368103,0.19255277514457703,-0.118202805519104,1
+12,"To videč ji je oče dejal: »Zakaj si tako žalostna, ljuba hčerka moja?",1.034135103225708,0.4993498921394348,-0.5347852110862732,1
+13,"Saj ti dam vse, karkoli si poželiš.« Kraljična je za trenutek pomišljala, nato pa je rekla: »Dragi oče, želim si enajst deklet, ki mi bojo po licu, po postavi in po rasti na las podobne.« 
+
+»Naj se ti izpolni želja, če je mogoče,« je odgovoril kralj.",0.21284279227256775,0.24582761526107788,0.03298482298851013,1
+14,"In dal je po vsem kraljestvu tako dolgo iskati, da so našli enajst devic, ki so bile njegovi hčeri po licu, po postavi in po rasti na las podobne.",0.6165773868560791,0.3318880796432495,-0.2846893072128296,1
+15,"Ko so prišle h kraljični, je ukazala napraviti enajst lovskih oblek, čisto enakih.",0.3969334065914154,0.44751542806625366,0.05058202147483826,1
+16,In dekleta so morala obleči lovske obleke in sama je oblekla dvanajsto.,0.1656094491481781,0.13832342624664307,-0.027286022901535034,1
+17,Nato se je poslovila od očeta.,0.3960977792739868,0.38295334577560425,-0.013144433498382568,1
+18,"Odjahala je s svojim spremstvom in prijahala na dvor svojega prejšnjega ženina, ki ga je tako močno ljubila.",0.5285674333572388,0.49644774198532104,-0.032119691371917725,1
+19,"Vprašala ga je, ali potrebuje kaj lovcev in ali ne bi kar vseh skupaj sprejel v svojo službo.",0.6716471910476685,0.5856867432594299,-0.08596044778823853,1
+20,"Mladi kralj si jo je ogledal, a je ni spoznal.",0.4555259048938751,0.5324082374572754,0.07688233256340027,1
+21,"Ker pa so bili vsi tako zali ljudje, je pristal, češ da jih rad sprejme.",0.32766708731651306,0.3669794201850891,0.03931233286857605,1
+22,Tako je vseh dvanajst prišlo v kraljevo službo.,0.2951078712940216,0.30022478103637695,0.005116909742355347,1
+23,"Kralj pa je imel leva, ki je bil kaj prečudna žival.",0.2072460800409317,0.1902204155921936,-0.017025664448738098,1
+24,"Znano mu je bilo vse, kar je bilo skritega in tajnega.",0.18339906632900238,0.25557518005371094,0.07217611372470856,1
+25,"Zgodilo se je, da je nekega dne lev dejal kralju: »Kralj misli, da ima dvanajst lovcev na dvoru?« »Tako je,« je rekel kralj, »dvanajst lovcev je.« Lev pa je nadaljeval: »Kralj se hudo moti, to je dvanajst deklet.« »Ta je pa bosa,« je vzkliknil kralj, »kako mi moreš dokazati to?« »Kralj naj da posuti svojo predsobo z grahom, pa se bo pr&ej prepričal,« je rekel lev.",0.30540770292282104,0.31630173325538635,0.010894030332565308,1
+26,"»Moški imajo čvrst korak in če stopijo na grah, se grašek niti ne zgane, dekleta pa ca-pljajo in plesaje podrsavajo, grah pod nogami pa se začne kotaliti.« Kralju je bil ta nasvet kar všeč in je dal svojo predsobo posuti z grahom.",0.3085666596889496,0.23207949101924896,-0.07648716866970062,1
+27,"Kralj pa je imel nekega služabnika, ki je bil lovcem naklonjen.",0.31359511613845825,0.3204217255115509,0.006826609373092651,1
+28,"Ko je slišal, kakšen poskus bojo napravili z njimi, 
+
+je prišel k njim in jim vse povedal: »Lev hoče natveziti kralju, da ste vsi sama dekleta.« Lepo se mu je zahvalila kraljična, nato pa rekla svojini družicam: »Potrudite se malo in stopajte krepko po grahu.« Ko je dal kralj drugo jutro poklicati lovce k sebi in so te prišle v predsobo, kjer je bil posut grah, so tako krepko stopale po njem in imele tako trden in močan korak, da se niti grašek ni zakotalil ali premaknil.",0.5178865790367126,0.3725214898586273,-0.14536508917808533,1
+29,"Po njihovem odhodu je rekel kralj levu: »Nalagal si me, saj stopajo kot moški.« »Zvedele so, da jih bo kralj preskušal,« je rekel lev.",0.36857840418815613,0.689357340335846,0.3207789361476898,1
+30,»Potrudile so se.,0.3324776291847229,0.3011813163757324,-0.03129631280899048,1
+31,Kralj naj da postaviti dvanajst kolovratov v predsobo.,0.28079143166542053,0.2089557945728302,-0.07183563709259033,1
+32,"Ko pridejo, se bojo vse veselo ozrle po njih.",0.3513423204421997,0.4597681164741516,0.1084257960319519,1
+33,In tega moški ne stori.« Kralju je bil nasvet všeč in je dal postaviti kolovrate v predsobo.,0.8684854507446289,0.7112376689910889,-0.15724778175354004,1
+34,"Služabnik pa, ki je bil za lovce, je šel in razkril kraljevo namero.",0.7650904059410095,0.7996367812156677,0.0345463752746582,1
+35,"Kraljična je dejala svojim dekletom, ko so bile same: »Potrudite se malo in se nikar ne ozirajte po kolovratih.« Ko je dal kralj naslednje jutro poklicati svojih dvanajst lovcev, so prišle v predsobo in niti z očesom ni nobena trenila proti kolovratom.",0.6263158321380615,0.5980459451675415,-0.02826988697052002,1
+36,"Ves jezen je rekel kralj levu: »Spet si me nalagal, to so moški, ker se niti ozrli niso po kolovratih.« »Zvedele so, da jih kralj preskuša,« je odgovoril lev.",1.031359076499939,1.1586699485778809,0.1273108720779419,1
+37,»Zato so se prisilile.« Kralj pa levu ni več verjel.,0.5441517233848572,0.4610447883605957,-0.08310693502426147,1
+38,Dvanajsterica lovcev je kralja stalno spremljala na lovu.,0.6917824745178223,0.6872227191925049,-0.004559755325317383,1
+39,Kralj jih je imel vedno rajši.,0.9962102174758911,0.8358842134475708,-0.1603260040283203,1
+40,"Zgodilo se je, da so bili nekoč na lovu, ko je prišla vest, da prihaja kraljeva nevesta.",0.6517834663391113,0.6837617754936218,0.0319783091545105,1
+41,"Ko je prva nevesta to slišala, jo je tako silno zabolelo srce, da ji je skoraj počilo.",0.7647432684898376,0.7206536531448364,-0.04408961534500122,1
+42,Omedlela je in se zgrudila na tla.,0.7025236487388611,0.6881380081176758,-0.014385640621185303,1
+43,"Kralj je menil, da se je njegovemu dragemu lovcu kaj pripetilo, skočil je k njemu in mu hotel pomagati ter mu slekel rokavico.",0.7057914137840271,0.6140261888504028,-0.09176522493362427,1
+44,"Tedaj pa je zapazil prstan, ki ga je bil dal svoji prvi nevesti.",0.6335618495941162,0.6960189938545227,0.062457144260406494,1
+45,"In ko jo je pogledal v obraz, jo je spoznal.",0.5386911034584045,0.5093960762023926,-0.029295027256011963,1
+46,"Bil je tako presunjen, da jo je poljubil.",0.567550778388977,0.5206633806228638,-0.04688739776611328,1
+47,"Ko pa je odprla oči, je ginjeno dejal: »Ti si moja in jaz sem tvoj in tega nobena sila in obljuba ne more spremeniti.« Poslal je sla k drugi nevesti in jo prosil, naj se vrne v svojo deželo, ker že ima svojo ljubljeno soprogo in da stara ljubezen nikdar ne zarjavi.",0.5521250367164612,0.6247355341911316,0.07261049747467041,1

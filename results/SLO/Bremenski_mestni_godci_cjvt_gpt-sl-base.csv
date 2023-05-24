@@ -1,0 +1,65 @@
+,sentence,with_sentence,without_sentence,difference,label
+0,"Imel je človek osla, ki je že leta in leta potrpežljivo vlačil vreče žita v mlin.",3.0195919802853397,3.0734524264797702,0.053860446194430533,1
+1,"A moči so mu začele pešati, tako da je bil čedalje manj sposoben za delo.",3.0619310874392895,3.0701986675613497,0.008267580122060192,1
+2,"In je prišlo gospodarju na misel, da bi ga nehal hraniti.",3.0614162911442007,3.0805439565373565,0.0191276653931558,1
+3,"Osel pa je zaduhal, da piha slab veter, pobegnil je in se odpravil v mesto Bremen.",3.018829345703125,3.086121387970753,0.0672920422676282,1
+4,"Upal je, da bo tam lahko dobil službo mestnega godca.",3.0758483151355422,3.102811280633899,0.026962965498356972,1
+5,"Ko je nekaj časa tako koračil, je naletel na lovskega psa, ki je ležal na poti in sopel, kakor kdo, ki se je do smrti utrudil od tekanja.",3.0073029891304346,3.083493021041905,0.07619003191147034,1
+6,"»Kaj pa tako sopeš, Grabavs?« ga vpraša osel.",3.035530010210035,3.103912745223162,0.06838273501312697,1
+7,"»Oh,« odvrne pes.",3.074247978102993,3.0916719391872065,0.017423961084213513,1
+8,"»Star sem in vsak dan slabši, niti za lov nisem več.",3.037831538865546,3.0725549008665967,0.03472336200105053,1
+9,"Ker me je gospodar hotel ubiti, sem jo ucvrl, zdaj pa ne vem, kako naj si zaslužim skorjico kruha?« »Veš kaj?« mu odvrne osel.",2.999987409099843,3.054583701847484,0.05459629274764133,1
+10,"»Jaz sem namenjen v Bremen, da postanem tam mestni godec.",3.0682970010080646,3.1042130796370966,0.03591607862903201,1
+11,"Jaz bom igral lutnjo, ti bi pa udarjal na boben.« Pes je bil zadovoljen in je šel z njim.",3.0736980463562418,3.129350761018426,0.055652714662184355,1
+12,"Ni dolgo trajalo, kar sta srečala mačko, ki je čepela na poti in se nadvse kislo in čemerno držala.",3.054395746887967,3.1419301224282505,0.08753437554028354,1
+13,"»Kaj pa ti gre tako narobe, Čohačka stara?« jo je vprašal osel.",3.078474818638393,3.1394290597098213,0.06095424107142833,1
+14,"»Joj, joj, kdo pa bi bil vesel, če se mu grlo stiska?« je rekla mačka.",3.082760765438988,3.143896920340402,0.061136154901413775,1
+15,"»Ker sem prišla v leta in so se mi zobje skrhali ter rajši za pečjo sedim in predem, kakor pa bi lovila miši, me je hotela gospodinja utopiti.",3.0211252292252815,3.168034495264771,0.1469092660394895,1
+16,"Jaz sem se ji sicer iztrgala, a zdaj mi je potreben dober svet: kam naj grem?« 
+
+»Pojdi z nama v Bremen.",3.0558252794989222,3.1670519598599136,0.11122668036099137,1
+17,"Saj si mojster v nočni muziki tam lahko postaneš mestni godec.« Mački se je zdelo to pametno, pa je šla z njima.",3.0201612758985807,3.1065875042925826,0.08642622839400182,1
+18,"Nato so begunci prišli mimo nekega dvorišča; pred vrati je stal domači petelin in na vse pretege »Kaj pa se dereš, da reže v mozeg in v kosti?« mu je rekel osel.",2.8864574163732395,3.0858962367957745,0.19943882042253502,1
+19,"»Kaj hočeš s tem?« »Prerokoval sem lepo vreme,« je dejal petelin, »ker je jutri praznik in se mora perilo posušiti.",2.9626420364688766,3.062435999573001,0.09979396310412447,1
+20,"Ker pa pridejo jutri gostje, nima gospodinja usmiljenja z menoj in je naročila kuharici, da me bo jutri v juhi pojedla in zato si moram že danes dati odrezati glavo.",2.8746739768197016,3.0530187033822016,0.1783447265625,1
+21,"Zdaj se derem na vse grlo, dokler se še lahko.« »Eh, kaj, Rdečeglavček,« mu reče osel, »pojdi rajši z nami!",2.868647351099182,2.977559282735813,0.10891193163663093,1
+22,"V Bremen smo namenjeni, kaj boljšega kakor smrt povsod lahko najdeš.",2.898653752818136,2.996669119488978,0.09801536667084187,1
+23,"Lep glas imaš in če skupaj zaigramo, bo to odlična muzika.« Petelinu je bil predlog všeč in vsi štirje so odšli na pot.",2.831753270582007,2.939683479450077,0.10793020886807003,1
+24,"Vendar pa v enem dnevu niso mogli priti do mesta Bremen in tako so prišli zvečer v neki gozd, kjer so hoteli prenočiti.",2.8282907377413617,2.9055756359565548,0.07728489821519302,1
+25,"Osel in pes sta legla pod visoko drevo, mačka in petelin pa sta se spravila na veje, a petelin je zletel prav do vrha, kjer je bilo zanj najbolj varno.",2.7957653155542697,2.9367467307259516,0.14098141517168195,1
+26,"Preden je zaspal, se je še enkrat ozrl na vse štiri strani in zazdelo se mu je, da vidi v daljavi majhno iskrico, zaklical je tovarišem, da mora biti nedaleč od tod neka hiša, v kateri se nekaj svetlika.",2.7308155115795336,2.9302499959053985,0.19943448432586486,1
+27,"»Potemtakem se moramo dvigniti,« je rekel osel, »in oditi tja, ker imamo tukaj slabo prenočišče.« Pes je menil, da bi mu malo kosti z mesom ne delo slabo.",2.7912196603888604,2.9578864941606775,0.16666683377181712,1
+28,"Tako so se odpravili na pot proti kraju, od koder je prihajal svetloba.",2.8774451203568714,2.9022848195043105,0.02483969914743911,1
+29,"Videli so, da je luč čedalje večja, dokler niso prišli 
+
+pred dobro razsvetljeno razbojniko hišo.",2.7765715496117616,2.9053853145684827,0.12881376495672114,1
+30,Osel se je kot največji približal oknu in pogledal v hišo.,2.7217636108398438,2.763426749936996,0.041663139097152246,1
+31,"»Kaj pa vidiš, Sivko?« je vprašal petelin.",2.7084332164864184,2.7436277823189137,0.03519456583249525,1
+32,»Kaj vidim?« je odvrnil osel.,2.699439406156062,2.7159570606055863,0.016517654449524244,1
+33,»Lepo pogrnjeno mizo vidim • z dobrimi jedmi in pijačami.,2.6339679328762755,2.7277450872927296,0.09377715441645407,1
+34,"Okrog mize pa sede razbojniki in se mastijo.« »To bi bilo nekaj za nas,« je dejal petelin.",2.7899985371330973,2.8567776699297824,0.06677913279668513,1
+35,"»Saj, saj, oh, če bi bili mi tam notri,« je zavzdihnil osel.",2.81917980683554,2.877388699719959,0.05820889288441933,1
+36,"Nato so se začele živali posvetovati, kaj naj napravijo, da bi pregnale razbojnike iz hiše.",2.8076880997147304,2.8608016018056275,0.05311350209089705,1
+37,Končno so se domislile.,2.8849070988430583,2.9079948440643864,0.02308774522132806,1
+38,"Osel se je moral s prednjimi parklji postaviti na okno, pes skočiti oslu na hrbet, mačka zlesti na psa in nazadnje je zletel petelin kvišku ter sedel mački na glavo.",2.707637770904158,2.916180598685931,0.2085428277817729,1
+39,"Potem so začeli na dano znamenje vsak svojo pesem: osel je rigal, pes lajal, mačka mijavkala in petelin zakikirikal.",2.783570091011598,2.9306824359697163,0.14711234495811842,1
+40,"Nato so planili skozi okno v izbo, da so zažvenketale šipe.",2.8857891569412293,2.947328167197145,0.061539010255915905,1
+41,"Razbojniki so ob strahovitem vrišču planili na noge, ker so mislili, da je prišla neka prikazen, ter so v silnem strahu pobegnili v gozd.",2.839789440131237,2.9512662828092515,0.11147684267801461,1
+42,"Naši štirje prijatelji pa so sedli za mizo, se zadovoljili s tem, kar je ostalo, ter se tako natlačili, kakor da najmanj štiri tedne ne bojo imeli kaj dati v usta.",2.8205319611922555,2.974941353175951,0.15440939198369552,1
+43,"Ko so se naši štirje godci nasitili, so utrnili luč in si poiskali vsak svoje ležišče, kakor se je komu prileglo in mu bilo pogodu.",2.823630777994792,2.9309066772460937,0.10727589925130188,1
+44,"Osel je legel na gnoj, pes za vrata, mačka na ognjišče k toplemu pepelu in petelin na kurjo gredo.",2.7960977359693877,2.9249934674390587,0.12889573146967104,1
+45,"In ker so bili utrujeni od dolge poti, so kmalu tudi zaspali.",2.900780712771241,2.9182045337331908,0.017423820961949943,1
+46,"Ko je minila polnoč in so roparji od daleč videli, da ni več luči v hiši in da je videti vse mirno, je rekel njihov kolovodja: »Ne bi se smeli pustiti tako hitro ugnati v kozji rog.« Poslal je enega razbojnika, naj pogleda in preišče hišo.",2.728973388671875,3.003392725815008,0.27441933714313294,1
+47,Vse je bilo tiho.,2.9921384437061915,3.0037499543662385,0.011611510660046953,1
+48,"Stopil je v kuhinjo, da bi prižgal svečo.",2.9946451307852056,3.027059434335443,0.032414303550237555,1
+49,"In ker je imel žareče, ognjene mačkine oči za tleče oglje, je primaknil k njim žveplenko, da bi jo prižgal.",2.8483262172965116,3.099701231896283,0.2513750145997715,1
+50,"Mačka pa ni 
+
+poznala šale.",2.998457307635613,3.082798911040684,0.08434160340507102,1
+51,Skočila mu je v obraz ter ga začela praskati.,2.7692031558794468,2.8184956788074356,0.0492925229279888,1
+52,"Zelo se je razbojnik prestrašil, stekel je in hotel skozi dvoriščna vrata na dvorišče, pes pa, ki je ležal tam, je skočili in ga ugriznil v nogo.",2.625373135093881,2.861666126411502,0.23629299131762105,1
+53,"In ko je razbojnik oddirjal po dvorišču mimo gnoja, mu je dal še osel pošteno brco z zadnjo nogo.",2.59448824935223,2.855804903423367,0.2613166540711367,1
+54,"Petelin pa, ki ga je ves hrup prebudil iz spanja, se je zdramil, in na vse grlo zapel z grede: »Kikiriki!« Razbojnik je tekel, kolikor so ga nesle noge, k svojemu poglavarju in mu sporočil: »Hu, v tisti hiši gospodari neka grozovita čarovnica.",1.7959385844110285,2.8376257442733617,1.0416871598623332,1
+55,Puhnila je vame in mi s svojimi dolgimi nohti razpraskala ves obraz.,2.295545976240556,2.678141164255666,0.38259518801510994,1
+56,"In pred vrati stoji nekdo z nožem, ki me je usekal v nogo, na dvorišču leži neka črna pošast, ki me je oplazila z lesenim betom, na strehi pa je sedel sodnik in vpil: ,Pripeljite mi lopova!'",3.141247367858887,3.135287284851074,-0.005960083007812589,1
+57,"Zato sem pobegnil.« Od takrat si roparji niso več upali v hišo, štirim bremenskim godcem pa je bilo tako všeč v njej, da niso hoteli več ven.",3.2234461857722354,3.3887965862567606,0.1653504004845252,1

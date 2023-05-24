@@ -1,0 +1,154 @@
+,sentence,with_sentence,without_sentence,difference,label
+0,"There was a man who had three sons, the youngest of whom was called
+Dummling,[*] and was despised, mocked, and sneered at on every occasion.",14.944061250587959,14.985479259760114,0.04141800917215477,1
+1,"It happened that the eldest wanted to go into the forest to hew wood,
+and before he went his mother gave him a beautiful sweet cake and a
+bottle of wine in order that he might not suffer from hunger or thirst.",15.432514836237981,15.173489145132212,-0.25902569110576934,1
+2,"When he entered the forest he met a little grey-haired old man who bade
+him good day, and said: ‘Do give me a piece of cake out of your pocket,
+and let me have a draught of your wine; I am so hungry and thirsty.’ But
+the clever son answered: ‘If I give you my cake and wine, I shall have
+none for myself; be off with you,’ and he left the little man standing
+and went on.",15.127938520728643,14.985340766331658,-0.1425977543969843,1
+3,"But when he began to hew down a tree, it was not long before he made a
+false stroke, and the axe cut him in the arm, so that he had to go home
+and have it bound up.",15.476971648645128,15.41855295726941,-0.0584186913757172,1
+4,And this was the little grey man’s doing.,15.317963044470527,15.37733519170579,0.05937214723526196,1
+5,"After this the second son went into the forest, and his mother gave him,
+like the eldest, a cake and a bottle of wine.",15.612772719816274,15.601581979986877,-0.01119073982939689,1
+6,"The little old grey man
+met him likewise, and asked him for a piece of cake and a drink of wine.",15.604229266826923,15.564129690838675,-0.04009957598824876,1
+7,"But the second son, too, said sensibly enough: ‘What I give you will be
+taken away from myself; be off!’ and he left the little man standing and
+went on.",15.594337637717627,15.6159484664037,0.02161082868607167,1
+8,"His punishment, however, was not delayed; when he had made a
+few blows at the tree he struck himself in the leg, so that he had to be
+carried home.",15.731653450194768,15.64856140442404,-0.08309204577072826,1
+9,"Then Dummling said: ‘Father, do let me go and cut wood.’ The father
+answered: ‘Your brothers have hurt themselves with it, leave it alone,
+you do not understand anything about it.’ But Dummling begged so long
+that at last he said: ‘Just go then, you will get wiser by hurting
+yourself.’ His mother gave him a cake made with water and baked in the
+cinders, and with it a bottle of sour beer.",15.56391007234487,15.52650003729117,-0.037410035053699886,1
+10,"When he came to the forest the little old grey man met him likewise,
+and greeting him, said: ‘Give me a piece of your cake and a drink out
+of your bottle; I am so hungry and thirsty.’ Dummling answered: ‘I have
+only cinder-cake and sour beer; if that pleases you, we will sit
+down and eat.’ So they sat down, and when Dummling pulled out his
+cinder-cake, it was a fine sweet cake, and the sour beer had become good
+wine.",15.832061298076923,15.798801832932693,-0.03325946514422995,1
+11,"So they ate and drank, and after that the little man said: ‘Since
+you have a good heart, and are willing to divide what you have, I will
+give you good luck.",15.771105923949865,15.828233506944445,0.057127582994580095,1
+12,"There stands an old tree, cut it down, and you will
+find something at the roots.’ Then the little man took leave of him.",15.848684904625253,15.862155005064146,0.01347010043889263,1
+13,"Dummling went and cut down the tree, and when it fell there was a goose
+sitting in the roots with feathers of pure gold.",15.811450700431035,15.80819369612069,-0.0032570043103454793,1
+14,"He lifted her up, and
+taking her with him, went to an inn where he thought he would stay the
+night.",15.78442400017618,15.807767904334039,0.023343904157858475,1
+15,"Now the host had three daughters, who saw the goose and were
+curious to know what such a wonderful bird might be, and would have
+liked to have one of its golden feathers.",15.838388784772398,15.83544921875,-0.00293956602239831,1
+16,"The eldest thought: ‘I shall soon find an opportunity of pulling out a
+feather,’ and as soon as Dummling had gone out she seized the goose by
+the wing, but her finger and hand remained sticking fast to it.",15.777594266033026,15.82068152361751,0.04308725758448517,1
+17,"The second came soon afterwards, thinking only of how she might get a
+feather for herself, but she had scarcely touched her sister than she
+was held fast.",15.805185561922189,15.80406906057396,-0.0011165013482283825,1
+18,"At last the third also came with the like intent, and the others
+screamed out: ‘Keep away; for goodness’ sake keep away!’ But she did
+not understand why she was to keep away.",15.677380431425041,15.747927821252059,0.07054738982701814,1
+19,"‘The others are there,’ she
+thought, ‘I may as well be there too,’ and ran to them; but as soon as
+she had touched her sister, she remained sticking fast to her.",15.664139915359208,15.74388096098266,0.07974104562345197,1
+20,"So they
+had to spend the night with the goose.",15.697495208688245,15.738231340502555,0.04073613181430957,1
+21,"The next morning Dummling took the goose under his arm and set out,
+without troubling himself about the three girls who were hanging on to
+it.",15.748268744621342,15.73064355636833,-0.01762518825301207,1
+22,"They were obliged to run after him continually, now left, now right,
+wherever his legs took him.",15.646391039823008,15.666437361725663,0.02004632190265454,1
+23,"In the middle of the fields the parson met them, and when he saw the
+procession he said: ‘For shame, you good-for-nothing girls, why are you
+running across the fields after this young man?",15.663855546357615,15.688061731315043,0.024206184957428434,1
+24,"Is that seemly?’ At the
+same time he seized the youngest by the hand in order to pull her away,
+but as soon as he touched her he likewise stuck fast, and was himself
+obliged to run behind.",15.695518296471173,15.720091560014911,0.024573263543738122,1
+25,"Before long the sexton came by and saw his master, the parson, running
+behind three girls.",15.607880976095618,15.680804127241036,0.07292315114541736,1
+26,He was astonished at this and called out: ‘Hi!,15.598032156950103,15.664814313900203,0.06678215695010081,1
+27,"your reverence, whither away so quickly?",15.661851586762422,15.694839382763975,0.032987796001552994,1
+28,"Do not forget that we have a
+christening today!’ and running after him he took him by the sleeve, but
+was also held fast to it.",15.663651478441455,15.71072838376846,0.047076905327005036,1
+29,"Whilst the five were trotting thus one behind the other, two labourers
+came with their hoes from the fields; the parson called out to them
+and begged that they would set him and the sexton free.",15.843409049855492,15.79754786849711,-0.04586118135838113,1
+30,"But they had
+scarcely touched the sexton when they were held fast, and now there were
+seven of them running behind Dummling and the goose.",15.623610059832757,15.597471525374855,-0.026138534457901486,1
+31,"Soon afterwards he came to a city, where a king ruled who had a daughter
+who was so serious that no one could make her laugh.",15.514016888098803,15.540828499251496,0.02681161115269326,1
+32,"So he had put forth
+a decree that whosoever should be able to make her laugh should marry
+her.",15.54224609375,15.56953125,0.027285156250000497,1
+33,"When Dummling heard this, he went with his goose and all her train
+before the king’s daughter, and as soon as she saw the seven people
+running on and on, one behind the other, she began to laugh quite
+loudly, and as if she would never stop.",15.419819221127248,15.493670578319502,0.07385135719225389,1
+34,"Thereupon Dummling asked to have
+her for his wife; but the king did not like the son-in-law, and made all
+manner of excuses and said he must first produce a man who could drink
+a cellarful of wine.",15.534665752647504,15.546659299357035,0.011993546709531344,1
+35,"Dummling thought of the little grey man, who could
+certainly help him; so he went into the forest, and in the same place
+where he had felled the tree, he saw a man sitting, who had a very
+sorrowful face.",15.32121319731405,15.315166580578513,-0.006046616735536858,1
+36,"Dummling asked him what he was taking to heart so
+sorely, and he answered: ‘I have such a great thirst and cannot quench
+it; cold water I cannot stand, a barrel of wine I have just emptied, but
+that to me is like a drop on a hot stone!’
+
+‘There, I can help you,’ said Dummling, ‘just come with me and you shall
+be satisfied.’
+
+He led him into the king’s cellar, and the man bent over the huge
+barrels, and drank and drank till his loins hurt, and before the day was
+out he had emptied all the barrels.",15.262073681339835,15.366610987230493,0.10453730589065735,1
+37,"Then Dummling asked once more
+for his bride, but the king was vexed that such an ugly fellow, whom
+everyone called Dummling, should take away his daughter, and he made a
+new condition; he must first find a man who could eat a whole mountain
+of bread.",15.380541566006858,15.405713012390898,0.025171446384039342,1
+38,"Dummling did not think long, but went straight into the
+forest, where in the same place there sat a man who was tying up his
+body with a strap, and making an awful face, and saying: ‘I have eaten a
+whole ovenful of rolls, but what good is that when one has such a hunger
+as I?",15.033885542168674,14.736692865210843,-0.297192676957831,1
+39,"My stomach remains empty, and I must tie myself up if I am not to
+die of hunger.’
+
+At this Dummling was glad, and said: ‘Get up and come with me; you shall
+eat yourself full.’ He led him to the king’s palace where all the
+flour in the whole Kingdom was collected, and from it he caused a huge
+mountain of bread to be baked.",14.240979243259805,14.556331380208333,0.31535213694852793,1
+40,"The man from the forest stood before it,
+began to eat, and by the end of one day the whole mountain had vanished.",14.710785192087156,14.93372477960149,0.2229395875143343,1
+41,"Then Dummling for the third time asked for his bride; but the king again
+sought a way out, and ordered a ship which could sail on land and on
+water.",14.916270497081044,14.55189463856456,-0.3643758585164836,1
+42,"‘As soon as you come sailing back in it,’ said he, ‘you shall
+have my daughter for wife.’
+
+Dummling went straight into the forest, and there sat the little grey
+man to whom he had given his cake.",13.890107125946969,14.015518959122474,0.1254118331755052,1
+43,"When he heard what Dummling wanted,
+he said: ‘Since you have given me to eat and to drink, I will give you
+the ship; and I do all this because you once were kind to me.’ Then he
+gave him the ship which could sail on land and water, and when the king
+saw that, he could no longer prevent him from having his daughter.",15.895964189009232,15.871859463778408,-0.024104725230824187,1
+44,"The
+wedding was celebrated, and after the king’s death, Dummling inherited
+his kingdom and lived for a long time contentedly with his wife.",14.566990443638392,14.416935511997767,-0.150054931640625,1

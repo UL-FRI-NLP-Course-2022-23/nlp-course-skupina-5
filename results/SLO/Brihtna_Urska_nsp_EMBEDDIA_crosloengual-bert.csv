@@ -1,0 +1,47 @@
+,sentence,with_sentence,without_sentence,difference,label
+0,"Bil je človek, ki je imel hčer, ki so ji rekli Brihtna Urška.",0.6181977391242981,0.5237230062484741,-0.09447473287582397,1
+1,"Ko je odrasla, je rekel oče: »Omožimo jo.« »Saj,« je rekla mati, »ko bi le prišel kdo, ki bi jo hotel vzeti.« Nazadnje je od daleč prišel nekdo, Janez po imenu, in jo zasnubil, a s pogojem, da je Brihtna Urška tudi resnično pametna.",0.5237230062484741,0.12836162745952606,-0.39536137878894806,1
+2,"»O,« je rekel oče, »ta ima soli v glavi.« Mati pa je dostavila: »Ah, ta vidi, kako veter teče po cesti, sliši, kako muhe kašljajo.« »No,« je rekel Janez, »če ni zares pametna, je rajši ne vzamem.« Ko so potem sedli za mizo in jedli, je rekla mati: »Stopi, Urška, v klet in prinesi piva.« Brihtna Urška je vzela vrč s stene, šla v klet in med potjo neutrudno klepala s pokrovom, da bi ji hitreje minil čas.",0.06784317642450333,0.10278070718050003,0.034937530755996704,1
+3,"Ko je bila spodaj, je prinesla pručko in jo postavila pred sod, da se ji ne bi bilo treba upogibati, pri čemer bi jo lahko začel boleti križ in bi se ji celo poškodoval.",0.0676603689789772,0.15811215341091156,0.09045178443193436,1
+4,Nato je postavila vrč predse in odprla pivo.,0.37233856320381165,0.34355443716049194,-0.028784126043319702,1
+5,"Medtem ko je pivo teklo, je ogledovala stene od tal do vrha, da ni pustila svojih oči brez dela.",0.17584359645843506,0.18984384834766388,0.01400025188922882,1
+6,"Po dolgem ogledovanju sem in tja je zagledala ravno nad seboj kljuko v stropu, ki so jo nepazljivi zidarji pozabili tam.",0.1888594776391983,0.1835932433605194,-0.005266234278678894,1
+7,"Pametna Urška je začela jokati, govoreč: »Če vzamem Janeza in dobiva otroka in bo ta velik in pošljeva otroka v klet točit pivo, mu lahko pade kljuka na glavo in ga ubije.« 
+
+Tako je sedela in jokala in na vse pretege vreščala zaradi nesreče, ki bi se mogla zgoditi.",0.07746483385562897,0.09619683027267456,0.018731996417045593,1
+8,"Tisti zgoraj so čakali pijače, Brihtne Urške pa le ni bilo od nikoder.",0.09956913441419601,0.15874570608139038,0.059176571667194366,1
+9,"Zato je gospodinja ukazala dekli: »Pojdi no v klet in poglej, kje tiči Urška.« Dekla je šla in jo našla, kako sedi pred sodom in se na ves glas dere.",0.16203877329826355,0.07051963359117508,-0.09151913970708847,1
+10,"»Zakaj pa jokaš, Urška?« jo vpraša dekla.",0.0742902085185051,0.12144172936677933,0.04715152084827423,1
+11,"»Jojmene,« je odgovorila, »kako bi ne jokala?",0.27648019790649414,0.29866865277290344,0.022188454866409302,1
+12,"Če vzamem Janeza in dobiva otroka in bo ta velik in bo moral točiti pivo, mu nemara pade kljuka na glavo in ga ubije.« Nato reče dekla: »Kako je pametna naša Urška!« sede zraven nje in začne tudi sama jokati zaradi nesreče.",0.32561570405960083,0.24198323488235474,-0.0836324691772461,1
+13,"Čez nekaj časa, ko dekle ni bilo nazaj in so bili zgoraj žejni in željni pijače, je gospodar rekel hlapcu: »Stopi no še ti v klet in poglej, kje sta ostali Urška in dekla.« Hlapec je šel in tam sta sedeli Brihtna Urška in dekla ter skupaj jokali.",0.266224205493927,0.20236119627952576,-0.06386300921440125,1
+14,»Zakaj pa jokata?« je vprašal.,0.389333039522171,0.3653378188610077,-0.02399522066116333,1
+15,"»Jojmene,« je rekla Urška, »kaj bi ne jokala?",0.5345682501792908,0.21985627710819244,-0.3147119730710983,1
+16,"Če vzamem Janeza in dobiva otroka in bo ta velik in bo tu natakal pijačo, mu pade kljuka na glavo in ga ubije.« Nato reče hlapec: »Kako je brihtna naša Urška!« in sede zraven nje ter začne tudi sam na ves glas jokati.",0.4648438096046448,0.5992587208747864,0.1344149112701416,1
+17,"Zgoraj so čakali hlapca, ko pa ga ni bilo od nikoder, je rekel gospodar ženi: »Stopi no v klet in poglej, kje je ostala Urška.« Gospodinja je odšla in našla vse tri, kako tarnajo, in je vprašala zakaj.",0.9340630769729614,0.7176509499549866,-0.21641212701797485,1
+18,"In Urška je povedala, kako bo njenega otroka, ko bo velik in bo prišel pivo točit, ubila kljuka, ko bo padla s stene.",0.7486125230789185,0.6590327024459839,-0.08957982063293457,1
+19,Nato reče tudi mati: »Kako je brihtna naša Urška!« in sede in začne z drugimi vred jokati.,0.6181784868240356,0.453977108001709,-0.16420137882232666,1
+20,"Gospodar je čakal, ko pa še žene ni bilo od nikoder in je bila njegova žeja čedalje hujša, je dejal: »Zdaj moram pa sam v klet pogledat, kje je ostala Urška.« Ko pa pride v klet in so vsi štirje sedeli in jokali in ko je zvedel, da je tega kriv Urškin otrok, ki ga bo morebiti kdaj rodila in ga bo morda kljuka ubila, če bo ravno tisti čas padla s stene, ko bo točil pivo, je vzkliknil: »Kako brihtna Urška!« sedel k njim in začel tudi sam jokati.",0.7669881582260132,0.3719094693660736,-0.3950786888599396,1
+21,"Ženin je dolgo časa ostal sam; ko pa ni hotelo biti nikogar od nikoder, je pomislil: »Gotovo me spodaj čakajo, pa pojdem še jaz dol, da vidim, kaj nameravajo.« Ko pride dol, vidi, da sedi vsa peterica in se dere in stoka tako pretresljivo, eden huje kakor drugi.",0.5557265281677246,0.442853718996048,-0.11287280917167664,1
+22,»Kakšna nesreča pa se vam je zgodila?« jih pobara ženin.,0.5957683324813843,0.450289249420166,-0.14547908306121826,1
+23,"»Oh, dragi Janez,« odgovori Urška, »če se midva vzameva in dobiva otroka in bo velik in ga morebiti pošljeva sem dol točit pijačo, mu lahko tale kljuka, ki je obtičala tamle gori, razbije glavo, če bo padla na tla, da bo pri priči mrtev.",0.15759265422821045,0.296837717294693,0.13924506306648254,1
+24,"Kako ne bi jokali?« »No,« ji je rekel Janez, »več pameti za moje gospodinjstvo ni treba; ker si tako brihtna, Urška, te vzamem za ženo.« Prijel jo je za roko in jo vzel s seboj ter napravil svatbo, ko se je oženil z njo.",0.28997543454170227,0.19475911557674408,-0.09521631896495819,1
+25,"Ko sta bila že nekaj časa mož in žena, je rekel Janez: »Žena, z doma moram na delo, da kaj zaslužim, ti pa pojdi na polje in požanji žito, da bomo imeli kruha.« »Saj, ljubi Janez, storila bom to.« Ko je Janez odšel, si je Urška skuhala lonec tečnega močnika in ga vzela s seboj na polje.",0.22161832451820374,0.14909297227859497,-0.07252535223960876,1
+26,"Ko pa pride na njivo, reče sama pri 
+
+sebi »Kaj naj storim?",0.15808874368667603,0.07125812768936157,-0.08683061599731445,1
+27,Ali naj prej žanjem ali fužinam?,0.18243731558322906,0.6753813028335571,0.49294398725032806,1
+28,"Hej, najprej bom južinala.« Pojedla je svoj lonec močnika.",0.5782291889190674,0.18886806070804596,-0.3893611282110214,1
+29,Bila je pošteno sita; in se je vprašala: »Kaj naj storim?,0.48010098934173584,0.32019180059432983,-0.159909188747406,1
+30,Ali naj prej požanjem ali se prej naspim?,0.701962947845459,0.6351906657218933,-0.06677228212356567,1
+31,"Hej, najprej bom spala.« Janez je bil že dolgo doma, Urška pa kar ni hotela priti in je pomislil: »Kako brihtno Urško sem dobil, tako je pridna, da še domov ne pride, da bi večerjala.« Ko pa je le ni bilo od nikoder in se je že zvečerilo, je odšel na polje gledat, koliko je požela; videl je, da ni nič požetega in da leži v žitu in spi.",0.6110672950744629,0.27372410893440247,-0.3373431861400604,1
+32,"Janez se je podvizal domov, vzel ptičjo mrežo z majhnimi kraguljčki, šel spet na njivo in vanjo zavil ženo, ki je še zmerom spala.",0.5100497603416443,0.6303045153617859,0.1202547550201416,1
+33,"Nato je pohitel domov, zaklenil hišna vrata in sedel na svoj stol ter začel delati.",0.35883864760398865,0.18183431029319763,-0.17700433731079102,1
+34,"Naposled, ko se je že čisto stemnilo, se je Brihtna Urška zbudila.",0.35807904601097107,0.315342515707016,-0.04273653030395508,1
+35,"Ko je vstala, je vse rožljalo okrog nje in zvončki so ji zvončkljali pri vsakem koraku, ki ga je napravila.",0.37715086340904236,0.35628294944763184,-0.020867913961410522,1
+36,"Prestrašila se je in se zmedla, da ni vedela, ali je resnično prava Brihtna Urška ali ne, in se vprašala: »Ali sem ali nisem?« Ne vedoč, kaj naj si odgovori na to, je za nekaj časa neodločno obstala.",0.3035736680030823,0.42636990547180176,0.12279623746871948,1
+37,"Nazadnje je pomislila, da bi šla domov in vprašala: »Ali sem ali nisem.« Doma bojo že vedeli.",0.2971060276031494,0.24290287494659424,-0.054203152656555176,1
+38,Stekla je proti hišnim durim.,0.3013041019439697,0.25654828548431396,-0.04475581645965576,1
+39,Ta pa so bila zaklenjena.,0.45678412914276123,0.5094919800758362,0.05270785093307495,1
+40,"Potrkala je na okno in zaklicala: »Janez, je Urška doma?« »Je,« je odgovoril Janez, »v hiši je.« »Moj bog, potlej to nisem jaz,« je rekla vsa prestrašena ter odšla pred druga vrata.",0.4158545732498169,0.3362181782722473,-0.07963639497756958,1
+41,"Ko pa so ljudje slišali zvončkljanje norčevskih kraguljčkov, ji niso hoteli odpreti in Brihtna Urška ni mogla nikjer najti strehe.",0.39536869525909424,0.41083067655563354,0.015461981296539307,1

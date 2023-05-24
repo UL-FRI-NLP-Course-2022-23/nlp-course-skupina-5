@@ -1,0 +1,160 @@
+,sentence,with_sentence,without_sentence,difference,label
+0,"A great king of a land far away in the East had a daughter who was very
+beautiful, but so proud, and haughty, and conceited, that none of the
+princes who came to ask her in marriage was good enough for her, and she
+only made sport of them.",3.755782089393344,4.003651616958202,0.24786952756485858,1
+1,"Once upon a time the king held a great feast, and asked thither all
+her suitors; and they all sat in a row, ranged according to their
+rank--kings, and princes, and dukes, and earls, and counts, and barons,
+and knights.",3.770553451400619,4.0019943649704395,0.23144091356982033,1
+2,"Then the princess came in, and as she passed by them she
+had something spiteful to say to every one.",3.7333939268187066,3.8166329117349886,0.08323898491628201,1
+3,"The first was too fat: ‘He’s
+as round as a tub,’ said she.",3.683958364298454,3.8192494286935195,0.13529106439506533,1
+4,"The next was too tall: ‘What a maypole!’
+said she.",3.7302889356426165,3.8222162583295036,0.09192732268688708,1
+5,The next was too short: ‘What a dumpling!’ said she.,3.729014217779503,3.756177516013199,0.027163298233695787,1
+6,"The
+fourth was too pale, and she called him ‘Wallface.’ The fifth was too
+red, so she called him ‘Coxcomb.’ The sixth was not straight enough;
+so she said he was like a green stick, that had been laid to dry over
+a baker’s oven.",3.6091893061730507,3.905938061089261,0.29674875491621044,1
+7,"And thus she had some joke to crack upon every one: but
+she laughed more than all at a good king who was there.",3.5610132773604195,3.7121297258401493,0.15111644847972983,1
+8,"‘Look at
+him,’ said she; ‘his beard is like an old mop; he shall be called
+Grisly-beard.’ So the king got the nickname of Grisly-beard.",3.41183190843079,3.6482012228000382,0.23636931436924824,1
+9,"But the old king was very angry when he saw how his daughter behaved,
+and how she ill-treated all his guests; and he vowed that, willing or
+unwilling, she should marry the first man, be he prince or beggar, that
+came to the door.",3.444472689808849,3.7713908297089778,0.32691813990012886,1
+10,"Two days after there came by a travelling fiddler, who began to play
+under the window and beg alms; and when the king heard him, he said,
+‘Let him come in.’ So they brought in a dirty-looking fellow; and when
+he had sung before the king and the princess, he begged a boon.",3.185098492217899,3.6341398365302773,0.4490413443123784,1
+11,"Then the
+king said, ‘You have sung so well, that I will give you my daughter for
+your wife.’ The princess begged and prayed; but the king said, ‘I have
+sworn to give you to the first comer, and I will keep my word.’ So words
+and tears were of no avail; the parson was sent for, and she was married
+to the fiddler.",2.7737491352254318,3.3845686778651456,0.6108195426397138,1
+12,"When this was over the king said, ‘Now get ready to
+go--you must not stay here--you must travel on with your husband.’
+
+Then the fiddler went his way, and took her with him, and they soon came
+to a great wood.",2.8961068326410864,3.2712477028118405,0.37514087017075415,1
+13,"‘Pray,’ said she, ‘whose is this wood?’ ‘It belongs
+to King Grisly-beard,’ answered he; ‘hadst thou taken him, all had been
+thine.’ ‘Ah!",2.9227603960640822,3.286715093041271,0.36395469697718896,1
+14,"unlucky wretch that I am!’ sighed she; ‘would that I had
+married King Grisly-beard!’ Next they came to some fine meadows.",3.2679328293096823,3.5702574683017416,0.3023246389920593,1
+15,"‘Whose
+are these beautiful green meadows?’ said she.",3.5181327009487724,3.6071579193543335,0.0890252184055611,1
+16,"‘They belong to King
+Grisly-beard, hadst thou taken him, they had all been thine.’ ‘Ah!",3.4349682815675813,3.5113756133288874,0.0764073317613061,1
+17,"unlucky wretch that I am!’ said she; ‘would that I had married King
+Grisly-beard!’
+
+Then they came to a great city.",3.541959971005155,3.629014225596005,0.08705425459085037,1
+18,‘Whose is this noble city?’ said she.,3.7635331364520583,3.8062964749623496,0.04276333851029124,1
+19,"‘It belongs to King Grisly-beard; hadst thou taken him, it had all been
+thine.’ ‘Ah!",3.8769698942550503,3.8647288312815657,-0.012241062973484595,1
+20,"wretch that I am!’ sighed she; ‘why did I not marry King
+Grisly-beard?’ ‘That is no business of mine,’ said the fiddler: ‘why
+should you wish for another husband?",3.83694445344917,4.0433706703027745,0.2064262168536044,1
+21,"Am not I good enough for you?’
+
+At last they came to a small cottage.",4.244290827749248,4.305997248403056,0.061706420653807825,1
+22,"‘What a paltry place!’ said she;
+‘to whom does that little dirty hole belong?’ Then the fiddler said,
+‘That is your and my house, where we are to live.’ ‘Where are your
+servants?’ cried she.",3.9816107229024422,4.323590446920956,0.3419797240185134,1
+23,"‘What do we want with servants?’ said he; ‘you
+must do for yourself whatever is to be done.",4.295875703757591,4.437740186930668,0.14186448317307665,1
+24,"Now make the fire, and put
+on water and cook my supper, for I am very tired.’ But the princess knew
+nothing of making fires and cooking, and the fiddler was forced to help
+her.",4.196780100984984,4.549175035292608,0.3523949343076236,1
+25,"When they had eaten a very scanty meal they went to bed; but the
+fiddler called her up very early in the morning to clean the house.",4.22951715075409,4.41023113976227,0.18071398900818014,1
+26,"Thus
+they lived for two days: and when they had eaten up all there was in the
+cottage, the man said, ‘Wife, we can’t go on thus, spending money and
+earning nothing.",4.041872639301395,4.434649002453512,0.3927763631521177,1
+27,"You must learn to weave baskets.’ Then he went out and
+cut willows, and brought them home, and she began to weave; but it made
+her fingers very sore.",4.059651526626276,4.325239656409439,0.26558812978316304,1
+28,"‘I see this work won’t do,’ said he: ‘try and
+spin; perhaps you will do that better.’ So she sat down and tried to
+spin; but the threads cut her tender fingers till the blood ran.",3.9003431110895446,4.32762863127588,0.4272855201863357,1
+29,"‘See
+now,’ said the fiddler, ‘you are good for nothing; you can do no work:
+what a bargain I have got!",4.24314100198922,4.418662570585216,0.17552156859599588,1
+30,"However, I’ll try and set up a trade in pots
+and pans, and you shall stand in the market and sell them.’ ‘Alas!’
+sighed she, ‘if any of my father’s court should pass by and see me
+standing in the market, how they will laugh at me!’
+
+But her husband did not care for that, and said she must work, if she
+did not wish to die of hunger.",3.688318684895833,4.432752278645833,0.7444335937500002,1
+31,"At first the trade went well; for many
+people, seeing such a beautiful woman, went to buy her wares, and paid
+their money without thinking of taking away the goods.",4.166358017339939,4.454548657425051,0.2881906400851122,1
+32,"They lived on
+this as long as it lasted; and then her husband bought a fresh lot of
+ware, and she sat herself down with it in the corner of the market; but
+a drunken soldier soon came by, and rode his horse against her stall,
+and broke all her goods into a thousand pieces.",3.8413309518914476,4.342618215460527,0.501287263569079,1
+33,"Then she began to cry,
+and knew not what to do.",4.164713541666667,4.226142362418424,0.061428820751756597,1
+34,‘Ah!,4.292437215489666,4.28657928226501,-0.005857933224655554,1
+35,"what will become of me?’ said she; ‘what
+will my husband say?’ So she ran home and told him all.",4.133994160393471,4.262039493452682,0.12804533305921062,1
+36,"‘Who would
+have thought you would have been so silly,’ said he, ‘as to put an
+earthenware stall in the corner of the market, where everybody passes?",4.076853017337987,4.311525438652664,0.23467242131467714,1
+37,"but let us have no more crying; I see you are not fit for this sort of
+work, so I have been to the king’s palace, and asked if they did not
+want a kitchen-maid; and they say they will take you, and there you will
+have plenty to eat.’
+
+Thus the princess became a kitchen-maid, and helped the cook to do all
+the dirtiest work; but she was allowed to carry home some of the meat
+that was left, and on this they lived.",3.49505175341357,4.358191687781532,0.863139934367962,1
+38,"She had not been there long before she heard that the king’s eldest son
+was passing by, going to be married; and she went to one of the windows
+and looked out.",4.096687417546174,4.393790131823054,0.29710271427688006,1
+39,"Everything was ready, and all the pomp and brightness of
+the court was there.",4.317450186619065,4.455951815189169,0.13850162857010417,1
+40,"Then she bitterly grieved for the pride and folly
+which had brought her so low.",4.3025453382151255,4.4632342586696705,0.16068892045454497,1
+41,"And the servants gave her some of the rich
+meats, which she put into her basket to take home.",4.255904134114584,4.439468587239583,0.18356445312499936,1
+42,"All on a sudden, as she was going out, in came the king’s son in golden
+clothes; and when he saw a beautiful woman at the door, he took her
+by the hand, and said she should be his partner in the dance; but she
+trembled for fear, for she saw that it was King Grisly-beard, who was
+making sport of her.",3.310056342453253,4.491904336898053,1.1818479944448002,1
+43,"However, he kept fast hold, and led her in; and the
+cover of the basket came off, so that the meats in it fell about.",4.168377065403576,4.73269539083389,0.5643183254303139,1
+44,"Then
+everybody laughed and jeered at her; and she was so abashed, that she
+wished herself a thousand feet deep in the earth.",3.9861548639112905,4.538575793850806,0.5524209299395157,1
+45,"She sprang to the
+door to run away; but on the steps King Grisly-beard overtook her, and
+brought her back and said, ‘Fear me not!",3.746386315211777,4.577714399857954,0.8313280846461772,1
+46,"I am the fiddler who has lived
+with you in the hut.",4.367835617065429,4.9038337707519535,0.5359981536865241,1
+47,I brought you there because I really loved you.,4.676017761230469,5.074742794036865,0.3987250328063965,1
+48,"I
+am also the soldier that overset your stall.",4.236217922634548,5.276562160915798,1.04034423828125,1
+49,"I have done all this only
+to cure you of your silly pride, and to show you the folly of your
+ill-treatment of me.",2.471996028248857,4.839157848823361,2.367161820574504,1
+50,"Now all is over: you have learnt wisdom, and it is
+time to hold our marriage feast.’
+
+Then the chamberlains came and brought her the most beautiful robes; and
+her father and his whole court were there already, and welcomed her home
+on her marriage.",5.426269955105251,5.5047149658203125,0.07844501071506116,1
+51,Joy was in every face and every heart.,1.872518327501085,5.3657726711697045,3.493254343668619,1

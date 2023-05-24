@@ -1,0 +1,47 @@
+,sentence,with_sentence,without_sentence,difference,label
+0,"Neki ovčarski pes ni imel dobrega gospodarja, ampak tako slabega, da je stradal pri njem.",45.59084338090551,45.21018905839895,-0.3806543225065582,1
+1,"Ko ni mogel več vzdržati, je odšel ves žalosten po svetu.",45.201381370752834,44.9514802631579,-0.2499011075949369,1
+2,"Na cesti ga je srečal vrabec in ga vprašal: »Kaj pa ti je, bratec kosmati, da si tako žalosten?« »Lačen sem,« je rekel pes, »in nimam kaj jesti.« »Pojdi z menoj, brate, v mesto, pa se boš nasitil,« je dejal vrabec.",44.605871212121215,45.31986005892256,0.7139888468013424,1
+3,"Tako sta šla skupaj v mesto in ko sta prišla pred mesnico, je vrabec dejal psu: »Ostani tukaj, odkljuval ti bom kos mesa.« In zletel je na mizo, pogledal okrog sebe, ali ga kdo vidi ter začel kljuvati kos mesa in ga vleči sem in tja, dokler ni kos, ki je ležal na robu, zdrsnil in padel na tla.",45.68028889388489,45.765681205035975,0.08539231115108237,1
+4,"Pes ga je pograbil, stekel v kot in ga požrl.",45.64050201461769,45.5290714017991,-0.11143061281858735,1
+5,"»Pojdiva zdaj v drugo mesnico,« je rekel vrabec, »poskrbel ti bom še en kos, da se boš do sitega najedel.« Ko je pes pogoltnil tudi drugi kos, ga je vrabec vprašal: »Bratec, si zdaj sit?« »Mesa sem sit,« je odgovoril pes, »a kruha še nisem dobil.« »Tudi kruha dobiš, kar z menoj pojdi.« Vrabec ga je odvedel v pekarno in je začel kljuvati tam, dokler se ni skotalilo nekaj hlebčkov na tla.",44.587987895256916,45.23363080533597,0.6456429100790544,1
+6,"In ko je pes želel še več, ga je povedel še v drugo pekarno in mu priskrbel še kruh.",45.829624895659435,45.74423192299666,-0.08539297266277401,1
+7,"Ko je pes požrl, ga je vprašal: »Bratec kosmatin, si zdaj sit?« »Sem,« je odgovoril pes, »zdaj pa pojdiva malo iz mesta.« 
+
+In odšla sta iz mesta na glavno cesto.",45.845308503836314,45.896759111253196,0.05145060741688212,1
+8,"Bilo pa je zelo vroče in ko sta prehodila košček poti, je pes dejal: »Truden sem in rad bi malo zaspal.« »No, kar zaspi, jaz pa sedem ta čas na vejico.« Pes je legel sredi ceste in trdno zaspal.",45.74097353628673,46.09771538290294,0.35674184661620956,1
+9,"Ko pa je ležal tam in spal, je pripeljal po cesti voznik z vozom, v katerega so bili vpreženi trije konji.",46.227846244131456,46.007199970657275,-0.22064627347418053,1
+10,Na vozu sta bila dva soda vina.,46.14628368692661,46.06975344036697,-0.07653024655963492,1
+11,"Ko je vrabec videl, da se voznik noče umakniti in da vozi kar po kolovozu, kjer je ležal pes, mu je vzkliknil: »Nikar tega, voznik, nesrečnega te bom storil!« »Ti me že ne boš storil nesrečnega,« je zagodrnjal voznik predse, počil z bičem in pognal voz čez psa, da ga je povozil.",45.338353413654616,45.6416250941265,0.30327168047188735,1
+12,"»Povozil si mi brata kosmatina,« je zavpil tedaj vrabec, »to boš plačal z vozom in s konji.« »Saj, z vozom in s konji,« je posmehljivo rekel voznik, »kje bi mi mogel ti škodovati.« Voznik je peljal dalje, vrabec pa je zlezel pod ponjavo na vozu ter začel kljuvati čep na sodu in je kljuval tako dolgo, da ga je prekljuval in je steklo vse vino iz soda, ne da bi bil voznik kaj opazil.",45.902737878363226,46.10755763032511,0.2048197519618853,1
+13,"Ko pa je le pogledal nazaj, je videl, da kaplja z voza; pregledal je sode in — eden je bil prazen.",46.071305534638554,46.136153990963855,0.06484845632530067,1
+14,"»o, jaz nesrečnež!« je zatarnal.",46.3269140625,45.7619775390625,-0.5649365234375026,1
+15,»Nisi še zadosti nesrečen!« je odgovoril vrabec in poletel konju na glavo ter mu izkljuval oči.,46.22781488549618,46.54116968829516,0.3133548027989832,1
+16,"Ko voznik to vidi, potegne sekiro, da bi zadel vrabca z njo, vrabec pa je odletel v zrak in voznik je zadel svojega konja po glavi, da se je mrtev zgrudil.",46.37771024967149,46.394228400131404,0.016518150459916114,1
+17,"»Oj, jaz nesrečnež!« je zastokal voznik.",45.67852271735335,45.633268047311454,-0.0452546700418992,1
+18,"»Ne, nisi še zadosti nesrečen!« je dejal vrabec.",45.33187522289586,45.33891037357347,0.007035150677609181,1
+19,"In ko je voznik z dvema konjema peljal dalje, je vrabec zlezel pod ponjavo in izkljuval čep še pri drugem sodu, da je vse izteklo iz njega.",45.746014030612244,45.846585732507286,0.10057170189504205,1
+20,"Ko voznik to opazi, znova zastoka: »Joj, jaz nesrečnež!« »Nisi še zadosti nesrečen!« mu odgovori vrabec, sede drugemu konju na glavo in mu izkljuje oči.",45.382355964589784,45.55527404218266,0.17291807759287536,1
+21,"Voznik skoči k njemu in zamahne s sekiro po njem, vrabec pa sfrči kvišku in voznik zadene konja in ga ubije.",45.98657752902156,45.988932291666664,0.002354762645104813,1
+22,"»Joj, jaz nesrečnež!« »Nisi še zadosti nesrečen,« reče vrabec, sede še tretjemu konju na glavo in začne kljuvati oči.",45.42747946979718,45.516265707671955,0.08878623787477835,1
+23,"Voznik pa je kakor slep od jeze zamahnil proti vrabcu, ne da bi pazil, a ga ni zadel, marveč je ubil še svojega tretjega konja.",45.81661184210526,45.86487458881579,0.04826274671052744,1
+24,"»Jojmene, kako sem nesrečen!« zakriči voznik.",45.801860194052416,45.66861454133065,-0.1332456527217687,1
+25,"»Ne, nisi še zadosti nesrečen, onesrečil te bom šele doma,« zagrozi vrabec in odleti.",45.80172329781705,46.10269945426195,0.3009761564449036,1
+26,Voznik je moral pustiti voz na cesti in hud in jezen oditi domov.,46.10354573926212,46.16090480451542,0.05735906525330137,1
+27,"»Ah,« je rekel svoji ženi, »glej kakšna nesreča me je doletela!",44.68117686929224,45.81000285388128,1.1288259845890423,1
+28,"Vino mi je izteklo iz sodov in vsi trije konji so mrtvi.« »Oh, mož,« je rekla žena možu, »kakšen hudoben ptič je prišel v hišo!",44.553000074582336,44.992112917661096,0.4391128430787603,1
+29,"Zbral je vse ptice sveta in so se vrgli gori na našo pšenico in bojo vso pozobali.« Voznik je odšel na podstrešje, tam pa je sedelo na tisoče in tisoče ptic in pozobale so vso pšenico; med njimi je bil tudi vrabec.",45.14322229551451,45.42735817941953,0.2841358839050159,1
+30,"»Joj, kako sem nesrečen!« je ves potrt zavzdihnil voznik.",45.40601501464844,45.185848999023435,-0.22016601562500426,1
+31,"»Ne, nisi še zadosti nesrečen, še s svojim življenjem boš plačal,« je vzkliknil vrabec in odfrčal.",45.33402994791667,45.67125651041667,0.3372265624999997,1
+32,Tako je voznik izgubil vse svoje imetje.,46.56210280485474,46.39760428612385,-0.1644985187308876,1
+33,"Žalosten je odšel v hišo, sedel za peč in bil hud in razkačen.",45.7603619990458,45.80021842199427,0.0398564229484748,1
+34,"Pred oknom pa je sedel vrabec in mu vreščal: »Plačal boš s svojim življenjem!« Voznik je pograbil sekiro in jo zalučal v vrabca; sekira je razbila šipe v oknih, ptice pa ni zadela.",45.80470357510288,45.90348910108025,0.09878552597736956,1
+35,"Vrabec je priletel nato v izbo, sedel na peč in vreščal: »Plačal boš s svojim življenjem!« 
+
+Voznik pa, ves besen in slep od togote, je razbil peč in tako še vse drugo, kamor koli je sedel vrabec, iz kraja v kraj, vse svoje pohištvo, zrcalo, klopi, mizo in nazadnje še stene svoje hiše, njega pa ni mogel zadeti.",44.77593111242138,45.066885318396224,0.2909542059748418,1
+36,Nazadnje ga le pograbi z roko.,45.16040505573248,45.27614948248408,0.11574442675159702,1
+37,»Ali naj ga ubijem?« vpraša njegova žena.,45.001152609481295,44.972051711309526,-0.02910089817176953,1
+38,"»Ne,« vzklikne on, »to bi bila premila kazen.",43.22434692382812,43.39496765136719,0.17062072753906676,1
+39,"Hujše smrti naj umre, požrl ga bom!« Vzel je ptiča in ga pogoltnil.",42.96345138549805,43.051639556884766,0.08818817138671875,1
+40,"Vrabec pa mu začne frfotati v želodcu, prifrfota kvišku, vozniku v usta.",43.59633178710938,44.17613220214844,0.5798004150390597,1
+41,"Tam pokuka z glavo ven in zakliče: »Pa boš vendarle plačal z življenjem!« Voznik da sekiro svoji ženi in ji reče: »Ubij mi vrabca v ustih!« Žena udari, udarec pa je zgrešil in zadel voznika naravnost na glavo, da se je mrtev zgrudil na tla.",44.9959716796875,45.6578114827474,0.6618398030598982,1

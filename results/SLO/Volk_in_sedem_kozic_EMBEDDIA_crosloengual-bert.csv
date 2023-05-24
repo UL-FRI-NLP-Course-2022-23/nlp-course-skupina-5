@@ -1,0 +1,54 @@
+,sentence,with_sentence,without_sentence,difference,label
+0,Bila je nekoč stara koza.,17.679013067614772,17.702906686626747,0.023893619011975176,1
+1,"Imela je sedem mladih kozic, ki jih je imela rada, kakor ima rada mati svoje otroke.",17.715756978948743,17.887926173509413,0.17216919456067004,1
+2,"Nekega dne je nameravala iti v gozd po malo krme in je sklicala vseh sedem kozic ter jim dejala: »Dragi otroci, jaz moram v gozd.",17.901418874929618,17.9801465283643,0.07872765343468302,1
+3,Pazite se volka.,17.739393132938797,17.64509057448037,-0.09430255845842694,1
+4,"Če pride, vas bo vse požrl s kožo in kostmi.",17.79591951438849,18.01035226506295,0.2144327506744581,1
+5,"Ta malopridnež se večkrat pretvarja, toda po njegovem raskavem glasu in po njegovih črnih šapah ga boste pr&ej spoznali.« »Dragi mati,« so rekle kozice, »saj bomo lepo pazile, brez skrbi greš lahko z doma.« Stara je zameketala in se mirno odpravila na pot.",17.70459696155248,17.712469251093296,0.007872289540816979,1
+6,"Ni dolgo trajalo, ko je že nekdo potrkal na hišna vrata in zaklical: »Odprite, ljubi otroci, vaša mamica je prišla in je vsakemu nekaj prinesla.« Kozice pa so spoznale po raskavem glasu, da je volk.",17.698514597039473,17.63774842379386,-0.0607661732456144,1
+7,"»Ne bomo ti odprle!« so odgovorile, »ti nisi naša mati, ta ima mil in ljubek glas, tvoj glas pa je osoren.",17.9299576951581,18.01286900938735,0.08291131422924991,1
+8,"Ti si volk.« Nato je volk odšel h kramarju in si kupil velik kos krede, ter ga pogoltnil, da mu je glas mileje zvenel.",17.74844996675532,17.74061876662234,-0.007831200132979887,1
+9,"Zatem se je vrnil, potrkal na hišne duri in zaklical: »Odprite, ljubi otroci, vaša mati se je vrnila in je vsakemu nekaj prinesla.« Toda volk je položil svojo črno šapo na okno in ko so otroci to opazili, so rekli: »Ne bomo odprli!",18.057121242642935,17.767998528587444,-0.28912271405549106,1
+10,Naša mati nima tako črnih nog kakor ti.,17.291119140625,17.40555078125,0.11443164062499989,1
+11,"Ti si volk.« 
+
+Nato je stekel volk k peku in zavzdihnil: »Udaril sem se v nogo, namaži mi jo s testom.« In ko mu je pek namazal nogo, je volk stekel k mlinarju in mu dejal: »Nasuj mi bele moke na sapo.« Mlinar je pomislil: »Tale volk bi rad nekoga preslepil,« in se je uprl.",17.86048494664634,17.36815810785061,-0.49232683879573,1
+12,"Volk pa mu je zagrozil, da ga bo raztrgal, če ne stori tega.",16.795930325255103,17.092924904336734,0.2969945790816304,1
+13,Mlinar se je prestrašil in mu natresel bele moke na šapo.,17.252643522669057,17.530671666880124,0.27802814421106703,1
+14,"Saj, taki so ljudje!",17.271569970119522,17.294383014815736,0.022813044696214035,1
+15,"Zdaj je šel malopridnež tretjič k hišnim vratom, potrkal in nežno dejal: »Odprite, otročički!",17.491916688550422,17.501011439732142,0.00909475118172054,1
+16,"Vaša mamica je prišla domov in je vsakemu nekaj prinesla iz gozda.« Kozice so zaklicale: »Pokaži nam najprej svojo šapo, da bomo vedele, če si res naša draga mamica.« Volk je položil šapo na okno in ko so videle, da je bela, so mislile, da je vse res, kar je dejal, in so odprle vrata.",17.467661202236375,17.466413886626185,-0.0012473156101897587,1
+17,In kdo je vstopil?,16.995938740079364,17.204630533854168,0.20869179377480407,1
+18,Volk!,17.016234853316327,17.096940768494896,0.0807059151785694,1
+19,Hudo so se prestrašile in so se hotele poskriti.,17.262658843360995,17.227587688018673,-0.03507115534232241,1
+20,"Ena je skočila pod mizo, druga v posteljo, tretja v peč, četrta v kuhinjo, peta v omaro, šesta pod umivalnik, sedma v omarico stenske ure.",17.214639756944443,17.063993055555557,-0.15064670138888658,1
+21,"Volk pa jih je našel, vse, in jih brez pomisleka drugo za drugo požrl; edino najmlajše, tiste v novi omarici, ni našel.",17.006108777276403,17.02276506095097,0.016656283674567618,1
+22,"Ko si je volk potešil svojo lakoto, je odšel, legel na travo pod drevo in zaspal.",16.906793212890626,16.99720662434896,0.09041341145833215,1
+23,Kmalu zatem se vrne stara koza iz gozda.,17.131908574380166,17.164457967458677,0.03254939307851146,1
+24,"Ah, kakšna slika se je prikazala njenim.",16.947568082616396,17.12962582236842,0.18205773975202533,1
+25,očem!,17.00276823966734,17.10481902091734,0.10205078125,1
+26,"Hišne duri nastežaj odprte, miza, stoli in klopi prevrnjeni, skleda za umivanje je bila iv črepinjah, odeja in blazine so bile vse razmetane.",16.975624150815218,16.88209069293478,-0.09353345788043654,1
+27,"Začela je iskati svoje otroke, a nikjer jih ni bilo.",16.543135480182926,16.599078418762705,0.05594293857977917,1
+28,"Klicala jih je po vrsti z imeni, a nobena se ji ni oglasila.",16.828101084183672,17.065720663265306,0.23761957908163467,1
+29,"Nazadnje šele, ko je poklicala najmlajšo, je zaklical droben glasek: »Mamica, tukaj sem, v omarici za uro.« 
+
+Rešila je kozico iz omarice in ta ji je povedala, da je prišel volk in vse druge požrl.",16.965524318998895,17.137002860550332,0.17147854155143705,1
+30,"Lahko si mislite, kako se je koza jokala zaradi svojih ubogih otrok.",16.68909837372449,16.770497847576532,0.08139947385204138,1
+31,svoji veliki žalosti je naposled odšla iz hiše in najmlajša kozica je stekla za njo.,16.842993265365664,16.84108673982106,-0.001906525544605131,1
+32,"Na travniku je zagledala volka, ki je ležal pod drevesom in smrčal, da so se kar veje tresle.",16.830462700497787,16.706964273368364,-0.12349842712942305,1
+33,"Začela ga je z vseh strani ogledovati in je videla, da se mu v napihnjenem trebuhu nekaj giblje in cepeta.",16.392012965425533,16.398997465093085,0.006984499667552768,1
+34,"»Mili bog,« je pomislila, »kaj če so moji ubogi otroci, ki jih je požrl, še pri življenju?« Pri priči je morala mlada kozica steči domov in prinesti škarje, šivanko in sukanec.",16.739657717053166,16.718115897200228,-0.02154181985293846,1
+35,"Potem je stara zverini razparala polni trebuh in komaj je zarezala, že je pokukala iz njega glava mlade kozice.",16.44042762724156,16.46107862770306,0.02065100046149837,1
+36,"Ko je dalje rezala, je poskakalo iz njega vseh šestero kozic in bile so še vse žive in nepoškodovane.",16.73833912816541,16.89666748046875,0.15832835230333941,1
+37,Zver jih je namreč v svoji požrešnosti kar cele pogoltnila.,16.708245974170918,16.883529974489797,0.1752840003188787,1
+38,To vam je bilo veselje!,16.857331452546298,17.03128616898148,0.17395471643518334,1
+39,Objemale so svojo drago mamico in poskakovale kakor krojaček na svatbi.,17.189532081117022,17.30965342420213,0.12012134308510625,1
+40,"Mati je dejala: »Pojdite zdaj in prinesite nekaj velikih kamnov, da bomo z njimi tej hudobni živali napolnile trebuh, dokler še spi in smrči.« In vseh sedem kozic je hitro privleklo kamenje, ki so ga stlačile volku v trebuh, kolikor ga je le šlo vanj.",17.60873936760355,17.337278106508876,-0.27146126109467517,1
+41,"Nato ga je stara spet hitro zašila, da ni ničesar opazil in se niti zganil ni.",17.46346201795213,17.351560768506207,-0.11190124944592128,1
+42,"Ko se je volk končno naspal, se je skobacal na noge in ker ga je kamenje v želodcu tako hudo žejalo, je hotel piti iz bliž-njega vodnjaka.",17.66954118114407,17.68580756753178,0.016266386387709275,1
+43,"Ko pa je začel stopati in se premikati, se je zadevalo kamenje v njegovem trebuhu in trkalo drug ob dru-gega.",17.58198306435033,17.359214381167764,-0.22276868318256504,1
+44,In volk je jezno zarenčal: »Kaj tako se po trebuhu mi z ropotom kotali?,17.18220555505087,17.014392941497093,-0.16781261355377808,1
+45,"Šest kozličev sem požrl, zdaj kot kamen so težki.« 
+
+Ko je prišel do vodnjaka in se nagnil nad vodo, da bi pil, so ga težki kamni potegnili vanjo.",15.278684616088867,16.90764045715332,1.6289558410644531,1
+46,Štrbunknil je v vodnjak in klavrno utonil.,16.782304763793945,17.01439666748047,0.23209190368652344,1

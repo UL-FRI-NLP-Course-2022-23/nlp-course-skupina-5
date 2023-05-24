@@ -1,0 +1,77 @@
+,sentence,with_sentence,without_sentence,difference,label
+0,"There was once upon a time a poor peasant called Crabb, who drove with
+two oxen a load of wood to the town, and sold it to a doctor for two
+talers.",16.99074978298611,17.503681932759083,0.512932149772972,1
+1,"When the money was being counted out to him, it so happened that
+the doctor was sitting at table, and when the peasant saw how well he
+ate and drank, his heart desired what he saw, and would willingly
+have been a doctor too.",18.03769110720694,18.624948601973685,0.5872574947667459,1
+2,"So he remained standing a while, and at length
+inquired if he too could not be a doctor.",17.821319110576923,18.228468048878206,0.4071489383012832,1
+3,"‘Oh, yes,’ said the doctor,
+‘that is soon managed.’ ‘What must I do?’ asked the peasant.",17.13026361880095,17.48783542798913,0.35757180918817966,1
+4,"‘In the
+first place buy yourself an A B C book of the kind which has a cock on
+the frontispiece; in the second, turn your cart and your two oxen into
+money, and get yourself some clothes, and whatsoever else pertains to
+medicine; thirdly, have a sign painted for yourself with the words: “I
+am Doctor Knowall,” and have that nailed up above your house-door.’ The
+peasant did everything that he had been told to do.",17.273569666353385,19.20598309739192,1.9324134310385332,1
+5,"When he had doctored
+people awhile, but not long, a rich and great lord had some money
+stolen.",18.863254353151483,19.68714206501589,0.8238877118644083,1
+6,"Then he was told about Doctor Knowall who lived in such and such
+a village, and must know what had become of the money.",17.39172623005319,18.532081117021278,1.1403548869680868,1
+7,"So the lord had
+the horses harnessed to his carriage, drove out to the village, and
+asked Crabb if he were Doctor Knowall.",16.638976784252183,17.54865434804858,0.9096775637963965,1
+8,"Yes, he was, he said.",16.336576171875,16.463751953125,0.12717578125000273,1
+9,"Then he was
+to go with him and bring back the stolen money.",16.91702677408854,17.83939208984375,0.9223653157552079,1
+10,"‘Oh, yes, but Grete, my
+wife, must go too.’ The lord was willing, and let both of them have a
+seat in the carriage, and they all drove away together.",16.658583481424355,17.738476143374463,1.0798926619501081,1
+11,"When they came
+to the nobleman’s castle, the table was spread, and Crabb was told to
+sit down and eat.",17.279401358911546,17.553470934851696,0.2740695759401497,1
+12,"‘Yes, but my wife, Grete, too,’ said he, and he seated
+himself with her at the table.",17.63039650205034,18.432307869061084,0.8019113670107458,1
+13,"And when the first servant came with a
+dish of delicate fare, the peasant nudged his wife, and said: ‘Grete,
+that was the first,’ meaning that was the servant who brought the first
+dish.",16.947341319254914,18.21809753684498,1.2707562175900655,1
+14,"The servant, however, thought he intended by that to say: ‘That is
+the first thief,’ and as he actually was so, he was terrified, and said
+to his comrade outside: ‘The doctor knows all: we shall fare ill, he
+said I was the first.’ The second did not want to go in at all, but was
+forced.",16.642552051729368,18.21173036445692,1.5691783127275514,1
+15,"So when he went in with his dish, the peasant nudged his wife,
+and said: ‘Grete, that is the second.’ This servant was equally alarmed,
+and he got out as fast as he could.",17.11358757738797,18.16850309551887,1.0549155181308976,1
+16,"The third fared no better, for the
+peasant again said: ‘Grete, that is the third.’ The fourth had to carry
+in a dish that was covered, and the lord told the doctor that he was to
+show his skill, and guess what was beneath the cover.",17.238741066423767,18.397920753923767,1.1591796875,1
+17,"Actually, there
+were crabs.",17.19687979561942,17.338602338518417,0.14172254289899655,1
+18,"The doctor looked at the dish, had no idea what to say, and
+cried: ‘Ah, poor Crabb.’ When the lord heard that, he cried: ‘There!",17.239180009443682,18.22820575420673,0.9890257447630475,1
+19,"he
+knows it; he must also know who has the money!’
+
+On this the servants looked terribly uneasy, and made a sign to the
+doctor that they wished him to step outside for a moment.",16.77869511993838,17.635718117297536,0.8570229973591559,1
+20,"When therefore
+he went out, all four of them confessed to him that they had stolen
+the money, and said that they would willingly restore it and give him a
+heavy sum into the bargain, if he would not denounce them, for if he
+did they would be hanged.",14.920887451171875,16.67787353515625,1.7569860839843763,1
+21,"They led him to the spot where the money was
+concealed.",15.125250651041666,14.822200520833333,-0.3030501302083337,1
+22,"With this the doctor was satisfied, and returned to the hall,
+sat down to the table, and said: ‘My lord, now will I search in my book
+where the gold is hidden.’ The fifth servant, however, crept into the
+stove to hear if the doctor knew still more.",14.034307207380023,14.828606741768974,0.7942995343889514,1
+23,"But the doctor sat still
+and opened his A B C book, turned the pages backwards and forwards, and
+looked for the cock.",15.85445077078683,16.087866646902903,0.23341587611607295,1

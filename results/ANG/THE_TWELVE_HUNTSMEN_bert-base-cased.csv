@@ -1,0 +1,103 @@
+,sentence,with_sentence,without_sentence,difference,label
+0,There was once a king’s son who had a bride whom he loved very much.,18.290336893801868,18.45581966415975,0.16548277035788317,1
+1,"And
+when he was sitting beside her and very happy, news came that his father
+lay sick unto death, and desired to see him once again before his end.",18.66801120923913,19.395089924199084,0.7270787149599549,1
+2,"Then he said to his beloved: ‘I must now go and leave you, I give you
+a ring as a remembrance of me.",18.6428005895882,19.20300863390771,0.5602080443195092,1
+3,"When I am king, I will return and fetch
+you.’ So he rode away, and when he reached his father, the latter was
+dangerously ill, and near his death.",18.62002817107909,19.455748366286862,0.8357201952077737,1
+4,"He said to him: ‘Dear son, I wished
+to see you once again before my end, promise me to marry as I wish,’ and
+he named a certain king’s daughter who was to be his wife.",18.724645813899254,19.903259095149252,1.1786132812499979,1
+5,"The son was
+in such trouble that he did not think what he was doing, and said: ‘Yes,
+dear father, your will shall be done,’ and thereupon the king shut his
+eyes, and died.",18.409754435221355,20.03112114800347,1.621366712782116,1
+6,"When therefore the son had been proclaimed king, and the time of
+mourning was over, he was forced to keep the promise which he had given
+his father, and caused the king’s daughter to be asked in marriage, and
+she was promised to him.",17.991683077221076,19.79451833677686,1.8028352595557848,1
+7,"His first betrothed heard of this, and fretted
+so much about his faithfulness that she nearly died.",16.941304704784294,18.301749170353983,1.3604444655696888,1
+8,"Then her father
+said to her: ‘Dearest child, why are you so sad?",17.158828125,18.216848958333333,1.0580208333333339,1
+9,"You shall have
+whatsoever you will.’ She thought for a moment and said: ‘Dear father,
+I wish for eleven girls exactly like myself in face, figure, and size.’
+The father said: ‘If it be possible, your desire shall be fulfilled,’
+and he caused a search to be made in his whole kingdom, until eleven
+young maidens were found who exactly resembled his daughter in face,
+figure, and size.",17.521284298780486,20.228396532012194,2.707112233231708,1
+10,"When they came to the king’s daughter, she had twelve suits of
+huntsmen’s clothes made, all alike, and the eleven maidens had to put
+on the huntsmen’s clothes, and she herself put on the twelfth suit.",18.57139706941244,19.00436527937788,0.4329682099654377,1
+11,"Thereupon she took her leave of her father, and rode away with them,
+and rode to the court of her former betrothed, whom she loved so dearly.",17.121002857819263,19.070955086580085,1.9499522287608215,1
+12,"Then she asked if he required any huntsmen, and if he would take all of
+them into his service.",17.455034859572784,17.72996192642405,0.2749270668512658,1
+13,"The king looked at her and did not know her, but
+as they were such handsome fellows, he said: ‘Yes,’ and that he would
+willingly take them, and now they were the king’s twelve huntsmen.",17.411312463148583,18.620818515993513,1.2095060528449295,1
+14,"The king, however, had a lion which was a wondrous animal, for he knew
+all concealed and secret things.",17.754781637105857,18.906381967905407,1.1516003307995497,1
+15,"It came to pass that one evening he
+said to the king: ‘You think you have twelve huntsmen?’ ‘Yes,’ said the
+king, ‘they are twelve huntsmen.’ The lion continued: ‘You are mistaken,
+they are twelve girls.’ The king said: ‘That cannot be true!",17.630593956063645,19.69471670728211,2.0641227512184663,1
+16,"How
+will you prove that to me?’ ‘Oh, just let some peas be strewn in the
+ante-chamber,’ answered the lion, ‘and then you will soon see.",17.120393955213135,18.02450744347638,0.9041134882632456,1
+17,"Men have
+a firm step, and when they walk over peas none of them stir, but girls
+trip and skip, and drag their feet, and the peas roll about.’ The king
+was well pleased with the counsel, and caused the peas to be strewn.",18.321177455357144,19.60073939732143,1.2795619419642854,1
+18,"There was, however, a servant of the king’s who favoured the huntsmen,
+and when he heard that they were going to be put to this test he went to
+them and repeated everything, and said: ‘The lion wants to make the king
+believe that you are girls.’ Then the king’s daughter thanked him, and
+said to her maidens: ‘Show some strength, and step firmly on the peas.’
+So next morning when the king had the twelve huntsmen called before
+him, and they came into the ante-chamber where the peas were lying, they
+stepped so firmly on them, and had such a strong, sure walk, that not
+one of the peas either rolled or stirred.",19.436587246981535,21.995534723455254,2.558947476473719,1
+19,"Then they went away again,
+and the king said to the lion: ‘You have lied to me, they walk just like
+men.’ The lion said: ‘They have been informed that they were going to
+be put to the test, and have assumed some strength.",18.96927780877976,20.413878813244047,1.4446010044642854,1
+20,"Just let twelve
+spinning-wheels be brought into the ante-chamber, and they will go to
+them and be pleased with them, and that is what no man would do.’
+The king liked the advice, and had the spinning-wheels placed in the
+ante-chamber.",19.975979339454977,21.86572959863744,1.8897502591824633,1
+21,"But the servant, who was well disposed to the huntsmen, went to them,
+and disclosed the project.",18.64305795116342,19.42975514069264,0.786697189529221,1
+22,"So when they were alone the king’s daughter
+said to her eleven girls: ‘Show some constraint, and do not look round
+at the spinning-wheels.’ And next morning when the king had his twelve
+huntsmen summoned, they went through the ante-chamber, and never once
+looked at the spinning-wheels.",18.491855658373787,19.999400314775485,1.5075446564016985,1
+23,"Then the king again said to the lion:
+‘You have deceived me, they are men, for they have not looked at the
+spinning-wheels.’ The lion replied: ‘They have restrained themselves.’
+The king, however, would no longer believe the lion.",17.816897061204664,19.4648918191386,1.6479947579339367,1
+24,"The twelve huntsmen always followed the king to the chase, and his
+liking for them continually increased.",17.60366641773897,18.877944048713236,1.2742776309742645,1
+25,"Now it came to pass that
+once when they were out hunting, news came that the king’s bride was
+approaching.",17.004900096792035,18.91634402654867,1.9114439297566364,1
+26,"When the true bride heard that, it hurt her so much that
+her heart was almost broken, and she fell fainting to the ground.",16.488599755298132,18.20825756555316,1.719657810255029,1
+27,"The
+king thought something had happened to his dear huntsman, ran up to him,
+wanted to help him, and drew his glove off.",15.624312551398026,18.677044784813596,3.05273223341557,1
+28,"Then he saw the ring which
+he had given to his first bride, and when he looked in her face he
+recognized her.",17.923842818648726,17.159047444661457,-0.764795373987269,1
+29,"Then his heart was so touched that he kissed her, and
+when she opened her eyes he said: ‘You are mine, and I am yours, and
+no one in the world can alter that.’ He sent a messenger to the other
+bride, and entreated her to return to her own kingdom, for he had a wife
+already, and someone who had just found an old key did not require a new
+one.",13.949534449084052,15.192427010371768,1.2428925612877162,1

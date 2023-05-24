@@ -1,0 +1,130 @@
+,sentence,with_sentence,without_sentence,difference,label
+0,"A shepherd’s dog had a master who took no care of him, but often let him
+suffer the greatest hunger.",1.9165749549865723,1.8851044178009033,-0.031470537185668945,1
+1,"At last he could bear it no longer; so he
+took to his heels, and off he ran in a very sad and sorrowful mood.",1.8851044178009033,0.0799279659986496,-1.8051764518022537,1
+2,"On the road he met a sparrow that said to him, ‘Why are you so sad,
+my friend?’ ‘Because,’ said the dog, ‘I am very very hungry, and have
+nothing to eat.’ ‘If that be all,’ answered the sparrow, ‘come with me
+into the next town, and I will soon find you plenty of food.’ So on they
+went together into the town: and as they passed by a butcher’s shop,
+the sparrow said to the dog, ‘Stand there a little while till I peck you
+down a piece of meat.’ So the sparrow perched upon the shelf: and having
+first looked carefully about her to see if anyone was watching her, she
+pecked and scratched at a steak that lay upon the edge of the shelf,
+till at last down it fell.",0.05161694437265396,1.4691039323806763,1.4174869880080223,1
+3,"Then the dog snapped it up, and scrambled
+away with it into a corner, where he soon ate it all up.",0.708703339099884,0.040901947766542435,-0.6678013913333416,1
+4,"‘Well,’ said
+the sparrow, ‘you shall have some more if you will; so come with me to
+the next shop, and I will peck you down another steak.’ When the dog had
+eaten this too, the sparrow said to him, ‘Well, my good friend, have you
+had enough now?’ ‘I have had plenty of meat,’ answered he, ‘but I should
+like to have a piece of bread to eat after it.’ ‘Come with me then,’
+said the sparrow, ‘and you shall soon have that too.’ So she took him
+to a baker’s shop, and pecked at two rolls that lay in the window, till
+they fell down: and as the dog still wished for more, she took him to
+another shop and pecked down some more for him.",0.040901947766542435,0.27391159534454346,0.23300964757800102,1
+5,"When that was eaten, the
+sparrow asked him whether he had had enough now.",0.049415603280067444,0.5277374386787415,0.478321835398674,1
+6,"‘Yes,’ said he; ‘and
+now let us take a walk a little way out of the town.’ So they both went
+out upon the high road; but as the weather was warm, they had not gone
+far before the dog said, ‘I am very much tired--I should like to take a
+nap.’ ‘Very well,’ answered the sparrow, ‘do so, and in the meantime
+I will perch upon that bush.’ So the dog stretched himself out on the
+road, and fell fast asleep.",0.12485163658857346,0.024209123104810715,-0.10064251348376274,1
+7,"Whilst he slept, there came by a carter with
+a cart drawn by three horses, and loaded with two casks of wine.",0.0459216944873333,0.03173376992344856,-0.014187924563884735,1
+8,"The
+sparrow, seeing that the carter did not turn out of the way, but would
+go on in the track in which the dog lay, so as to drive over him, called
+out, ‘Stop!",0.06788706034421921,0.09543633460998535,0.027549274265766144,1
+9,stop!,0.19094181060791016,0.180718332529068,-0.010223478078842163,1
+10,"Mr Carter, or it shall be the worse for you.’ But the
+carter, grumbling to himself, ‘You make it the worse for me, indeed!",0.08294631540775299,0.04277275875210762,-0.04017355665564537,1
+11,"what can you do?’ cracked his whip, and drove his cart over the poor
+dog, so that the wheels crushed him to death.",0.05035847797989845,0.04466469958424568,-0.005693778395652771,1
+12,"‘There,’ cried the
+sparrow, ‘thou cruel villain, thou hast killed my friend the dog.",0.0932626947760582,0.11109218746423721,0.017829492688179016,1
+13,"Now
+mind what I say.",0.12552081048488617,0.07993423938751221,-0.04558657109737396,1
+14,"This deed of thine shall cost thee all thou art worth.’
+‘Do your worst, and welcome,’ said the brute, ‘what harm can you do me?’
+and passed on.",0.07643277943134308,0.11055172979831696,0.03411895036697388,1
+15,"But the sparrow crept under the tilt of the cart, and
+pecked at the bung of one of the casks till she loosened it; and then
+all the wine ran out, without the carter seeing it.",0.15867817401885986,0.15240246057510376,-0.0062757134437561035,1
+16,"At last he looked
+round, and saw that the cart was dripping, and the cask quite empty.",0.13266249001026154,0.0964805856347084,-0.03618190437555313,1
+17,‘What an unlucky wretch I am!’ cried he.,0.08491779863834381,0.10070738941431046,0.015789590775966644,1
+18,"‘Not wretch enough yet!’ said
+the sparrow, as she alighted upon the head of one of the horses, and
+pecked at him till he reared up and kicked.",0.06459098309278488,0.0867176353931427,0.02212665230035782,1
+19,"When the carter saw this,
+he drew out his hatchet and aimed a blow at the sparrow, meaning to kill
+her; but she flew away, and the blow fell upon the poor horse’s head
+with such force, that he fell down dead.",0.11698533594608307,0.09262417256832123,-0.02436116337776184,1
+20,"‘Unlucky wretch that I am!’
+cried he.",0.056659359484910965,0.04785178601741791,-0.008807573467493057,1
+21,‘Not wretch enough yet!’ said the sparrow.,0.04015339910984039,0.057843320071697235,0.017689920961856842,1
+22,"And as the carter
+went on with the other two horses, she again crept under the tilt of the
+cart, and pecked out the bung of the second cask, so that all the wine
+ran out.",0.037175294011831284,0.04345303773880005,0.006277743726968765,1
+23,"When the carter saw this, he again cried out, ‘Miserable wretch
+that I am!’ But the sparrow answered, ‘Not wretch enough yet!’ and
+perched on the head of the second horse, and pecked at him too.",0.03174751251935959,0.030968038365244865,-0.0007794741541147232,1
+24,"The
+carter ran up and struck at her again with his hatchet; but away she
+flew, and the blow fell upon the second horse and killed him on the
+spot.",0.03608319163322449,0.04559794068336487,0.00951474905014038,1
+25,‘Unlucky wretch that I am!’ said he.,0.03958076238632202,0.04130581021308899,0.0017250478267669678,1
+26,"‘Not wretch enough yet!’ said
+the sparrow; and perching upon the third horse, she began to peck him
+too.",0.04178771376609802,0.05842459946870804,0.016636885702610016,1
+27,"The carter was mad with fury; and without looking about him, or
+caring what he was about, struck again at the sparrow; but killed his
+third horse as he done the other two.",0.055223822593688965,0.05154108628630638,-0.0036827363073825836,1
+28,‘Alas!,0.050259627401828766,0.044997189193964005,-0.005262438207864761,1
+29,"miserable wretch that I
+am!’ cried he.",0.05461708828806877,0.11292031407356262,0.05830322578549385,1
+30,"‘Not wretch enough yet!’ answered the sparrow as she flew
+away; ‘now will I plague and punish thee at thy own house.’ The
+carter was forced at last to leave his cart behind him, and to go home
+overflowing with rage and vexation.",0.0757320299744606,0.07895507663488388,0.003223046660423279,1
+31,"‘Alas!’ said he to his wife, ‘what
+ill luck has befallen me!--my wine is all spilt, and my horses all three
+dead.’ ‘Alas!",0.09084071964025497,0.15881772339344025,0.06797700375318527,1
+32,"husband,’ replied she, ‘and a wicked bird has come into
+the house, and has brought with her all the birds in the world, I am
+sure, and they have fallen upon our corn in the loft, and are eating it
+up at such a rate!’ Away ran the husband upstairs, and saw thousands of
+birds sitting upon the floor eating up his corn, with the sparrow in the
+midst of them.",0.11234952509403229,0.07959786802530289,-0.0327516570687294,1
+33,"‘Unlucky wretch that I am!’ cried the carter; for he saw
+that the corn was almost all gone.",0.08698004484176636,0.06374756991863251,-0.02323247492313385,1
+34,"‘Not wretch enough yet!’ said the
+sparrow; ‘thy cruelty shall cost thee thy life yet!’ and away she flew.",0.06677013635635376,0.20717021822929382,0.14040008187294006,1
+35,"The carter seeing that he had thus lost all that he had, went down
+into his kitchen; and was still not sorry for what he had done, but sat
+himself angrily and sulkily in the chimney corner.",0.06738046556711197,0.05666667968034744,-0.010713785886764526,1
+36,"But the sparrow sat
+on the outside of the window, and cried ‘Carter!",0.0314510203897953,0.038696933537721634,0.007245913147926331,1
+37,"thy cruelty shall cost
+thee thy life!’ With that he jumped up in a rage, seized his hatchet,
+and threw it at the sparrow; but it missed her, and only broke the
+window.",0.03649279847741127,0.032287370413541794,-0.004205428063869476,1
+38,"The sparrow now hopped in, perched upon the window-seat, and
+cried, ‘Carter!",0.04196273908019066,0.181779146194458,0.13981640711426735,1
+39,"it shall cost thee thy life!’ Then he became mad and
+blind with rage, and struck the window-seat with such force that he
+cleft it in two: and as the sparrow flew from place to place, the carter
+and his wife were so furious, that they broke all their furniture,
+glasses, chairs, benches, the table, and at last the walls, without
+touching the bird at all.",0.3692639172077179,0.27324092388153076,-0.09602299332618713,1
+40,"In the end, however, they caught her: and the
+wife said, ‘Shall I kill her at once?’ ‘No,’ cried he, ‘that is letting
+her off too easily: she shall die a much more cruel death; I will eat
+her.’ But the sparrow began to flutter about, and stretch out her neck
+and cried, ‘Carter!",1.2967424392700195,2.390089988708496,1.0933475494384766,1

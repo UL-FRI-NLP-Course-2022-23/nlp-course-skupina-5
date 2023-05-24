@@ -1,0 +1,90 @@
+,sentence,with_sentence,without_sentence,difference,label
+0,"Bil je človek, ki je imel tri sinove.",42.46125793457031,42.57757568359375,0.1163177490234375,1
+1,Najmlajšemu izmed njih so rekli Tepček.,42.3670148268664,42.51169572691552,0.14468090004911716,1
+2,Vsi v hiši so ga zaničevali in zasmehovali ter ga ob vsaki priložnosti zapostavljali.,43.03291059070687,42.92413031389026,-0.10878027681660996,1
+3,"Zgodilo se je, da je hotel iti najstarejši sin v gozd sekat drva.",42.4189755556943,42.48139360639361,0.06241805069930706,1
+4,"Pred odhodom mu je mati dala kos lepega slastnega kolača iz jajc in masla ter steklenico vina, da ne bi bil lačen in žejen.",43.02632662107396,42.774260701621074,-0.2520659194528889,1
+5,"Ko je prišel v gozd, je srečal starega sivega možička, ki mu je voščil dober dan in dejal: »Daj mi košček kolača iz svojega žepa in dovoli mi požirek vina.",42.16413551401869,42.25385351765317,0.08971800363448068,1
+6,"Tako hudo sem lačen in žejen.« »Če ti dam kolača in vina, mi samemu ne ostane nič.",42.85883422915574,43.02556371263765,0.16672948348190886,1
+7,"Pojdi svojo pot!« je rekel pametni sin, pustil moža na poti in šel dalje.",42.62776882970245,43.17532462141339,0.5475557917109413,1
+8,"Ko se je nato lotil drevesa, ni dolgo trajalo, da je sekira zgrešila in ga zadela v roko, tako da je moral oditi domov in si obvezati rano.",42.99777933811586,43.090061586356256,0.09228224824039444,1
+9,Nato je šel drugi sin v gozd.,42.65373425520263,42.667553737677984,0.013819482475355471,1
+10,"Mati mu je dala, kakor najstarejšemu sinu, jajčni kolač in steklenico vina.",43.08241607044579,42.98128783709411,-0.10112823335168031,1
+11,"Ta je prav tako srečal starega sivega možička, ki ga je poprosil za košček kolača in požirek vina.",42.567081701175155,42.60087611919418,0.03379441801902772,1
+12,"Toda tudi drugi sin je rekel kar pametno: »Kar dam tebi, bom sam pogrešal, pojdi svojo pot!« Pustil je možička na poti in odšel.",42.75126137009664,42.99841884593519,0.24715747583854863,1
+13,Kazen pa ni izostala.,43.07962254618938,43.2293230369515,0.14970049076212177,1
+14,"Ko je nekajkrat zasekal v deblo, se je usekal v nogo, da so ga morali prenesti domov.",43.09278874056878,43.10393390887986,0.011145168311081477,1
+15,"Tedaj je dejal Tepček: »Oče, Pustite mene v gozd sekat drva.« »Tvoja dva brata sta se že poškodovala, nik vtikaj v to, saj ne znaš,« je odgovoril oče.",42.111876493428916,42.79438284050179,0.6825063470728736,1
+16,"ar se še ti ne Tepček pa je le prosil in prosil, da je oče nazadnje dejal: »Fa pojdi, nesreča te bo že spametovala.« Mati mu je dala kos v pepelu pečenega kolača iz vode in moke in steklenico kislega piva.",46.62386592741935,44.43276500465261,-2.1911009227667435,1
+17,"Ko je prišel v gozd, je srečal starega sivega možička, ki ga je pozdravil in mu je rekel: »Daj mi košček svojega kolača in požirek iz steklenice, tako zelo sem lačen in žejen.« »Toda jaz imam samo pepelnat kolač in kislo pivo, če ti je to prav, lahko sedeva in pojeva,« je odgovoril Tepček.",47.21675607865535,47.6118635770235,0.39510749836814796,1
+18,"Pa sta sedla in glej, ko je Tepček vzel v roke svoj pepelnati kolač, je bil to slasten jajčni kolač, kislo pivo pa dobro vino.",43.596795462156734,43.44821144507703,-0.14858401707970614,1
+19,"Najedla sta se in napila, nato pa je rekel možiček: »Ker imaš dobro srce in rad deliš z drugimi, kar imaš, ti bom daroval srečo.",42.67581082243634,42.97548176187199,0.29967093943565004,1
+20,Glej tamle ono staro drevo.,43.54308894230769,43.434101835664336,-0.10898710664335454,1
+21,Posekaj ga in pod njegovimi koreninami boš nekaj našel.« Rekel je sivček in izginil.,43.13952542223786,43.068960019352566,-0.07056540288529334,1
+22,Tepček je šel in posekal drevo.,42.993359375,43.055516183035714,0.06215680803571644,1
+23,"Ko je padlo, pa je sedela med koreninami goska, ki je imela perje iz suhega zlata.",43.220035209683225,43.241405687545,0.021370477861772486,1
+24,"Dvignil jo je, jo vzel s seboj ter šel v krčmo, kjer je hotel prenočiti.",43.05064102564103,43.05197172619047,0.001330700549445396,1
+25,"Krčmar je imel tri hčere, ki so videle gosko in bile radovedne, kakšna ptica je to.",42.690189549180324,42.89943589325633,0.20924634407600706,1
+26,Vsaka bi hotela imeti kakšno njeno zlato pero.,41.99446886882129,42.11569926330799,0.12123039448669459,1
+27,"Najstarejša hči je pomislila: »Se bo že našla priložnost, da izpulim goski kakšno pero.« In ko je Tepček stopil malo ven, je prijela gosko za perut, prsti in roka pa so se ji še isti trenutek prilepili nanjo.",41.96470270800628,43.050747522566716,1.086044814560438,1
+28,"Kmalu zatem je prišla druga hči, ki tudi ni imela druge misli, kakor da bi si izpulila kakšno zlato pero.",42.218812550040035,42.34840372297838,0.12959117293834765,1
+29,"Komaj pa se je dotaknila sestre, je bila prilepljena k njej.",42.970562704248366,43.05455984477124,0.08399714052287521,1
+30,Nazadnje je prišla še tretja hči z istim namenom.,43.208243868998345,43.1536113410596,-0.05463252793874318,1
+31,Onidve sta zavpili: »Ne dotikaj se!,42.876729584377614,42.98735771720969,0.11062813283207618,1
+32,"Ne, ne, nikar se ne dotikaj!« Ona pa ni razumela, zakaj se ne bi dotaknila in je mislila: »Če sta se onidve lahko dotaknili, se tudi jaz lahko!« Priskočila je in toliko da se je dotaknila sestre, je že obvisela na njej.",42.67453152316433,42.86108910620629,0.18655758304196013,1
+33,Tako so morale vse tri sestre prebiti noč pri goski.,43.192970840767174,43.14885216882248,-0.044118671944694654,1
+34,"Drugo jutro je vzel Tepček gosko pod pazduho, odšel in se ni menil za tri dekleta, ki so bile prilepljene zraven.",42.93101683348499,42.887227024567785,-0.04378980891720374,1
+35,"Morale so lepo tekati za njim, zdaj levo, zdaj desno, kamor so njega noge nosile.",42.827457636954506,42.98065372562674,0.15319608867223167,1
+36,Sredi polja jih je srečal župnik.,43.247754091555976,43.21247183349146,-0.03528225806451246,1
+37,"Ko je videl sprevod, je dejal: »Sram vas bodi, dekline grde, da se ženete po polju za mladim fantom.",42.67112915863066,42.95601042671167,0.28488126808100844,1
+38,Ali se to spodobi?« S temi besedami je prijel najmlajšo za roko in jo hotel potegniti nazaj.,43.135237068965516,43.24973060344828,0.11449353448276156,1
+39,"Ko pa se je je dotaknil, je še sam obvisel na njej in moral je teči v sprevodu.",43.063349697885194,43.110264035750255,0.046914337865061384,1
+40,Kmalu zatem je prišel po poti cerkovnik.,43.13968072055785,43.05953399405992,-0.08014672649792942,1
+41,"Videl je gospoda župnika, ki je stopal dekletom za krilom: »Ej, ej, gospod župnik, kam pa tako naglo?",42.4219491693038,43.133241033755276,0.711291864451475,1
+42,"Ne pozabite, da imate danes še opravke!« je vzkliknil začudeno.",45.375658783783784,45.254700168918916,-0.12095861486486825,1
+43,Pohitel je k njemu in ga prijel za rokav.,43.902958941354626,43.79813119493392,-0.10482774642070325,1
+44,"Ko pa se ga je dotaknil, je tudi sam obvisel na njem.",43.004762653803134,42.932741715604024,-0.07202093819910971,1
+45,"Ko je vseh petero tako dirjalo drug za drugim, sta prišla s polja dva kmeta s svojimi motikami.",42.73184061431015,42.91287325399088,0.1810326396807298,1
+46,"Župnik ju je poprosil, naj osvobodita njega in cerkovnika.",41.46257885856807,42.98117022447183,1.5185913659037595,1
+47,"Komaj pa sta se dotaknila cerkovnika, sta obvisela.",43.30579552283654,43.31256573016827,0.006770207331726397,1
+48,"Tako jih je bilo zdaj sedem, ki so tekli za Tepčkom z gosko.",42.8416960995086,43.02189227579853,0.18019617628992535,1
+49,Tako je prišel kmalu zatem Tepček z vsem spremstvom v neko mesto.,42.83496339735516,42.936540656486144,0.10157725913098403,1
+50,"Tam je vladal kralj, ki je imel tako resno hčerko, da je nihče na svetu ni mogel pripraviti, da bi se zasmejala.",42.742085774739586,42.748006184895836,0.00592041015625,1
+51,"Zato je izdal zakon, da jo bo tisti, ki jo pripravi do smeha, dobil za ženo.",42.69433332637032,42.63260099849599,-0.06173232787433136,1
+52,Tepček je to slišal in odšel s svojo gosko in njenimi priveski pred kraljevo hčer.,42.32479367262724,42.54093771492435,0.2161440422971097,1
+53,"Ko je kraljična zagledala ta smešni sprevod, se je začela ves glas smejati, da kar ni mogla nehati.",42.439158472521555,42.49709837464081,0.057939902119251485,1
+54,Tepček jo je zato zahteval za nevesto.,42.94464030188331,43.00394663958641,0.05930633770309868,1
+55,"Kralju pa ta zet ni bil všeč, zato se je izmikal in izmikal.",42.70067551691729,42.66606555451128,-0.03460996240601588,1
+56,"Dejal je, da mu mora poprej pripeljati še človeka, ki bi mogel izpiti polno klet vina.",42.875236191860466,42.803112887596896,-0.07212330426357028,1
+57,Tepček je pomislil na sivega možička.,42.51450445713141,42.69280536358173,0.1783009064503247,1
+58,Ta edini bi mu lahko pomagal.,42.888374590834694,42.86994936579378,-0.018425225040914484,1
+59,"Šel je v gozd in na mestu, kjer je posekal drevo, je zagledal moža, ki je imel hudo žalosten obraz.",42.46225602377946,42.557442918771045,0.09518689499158484,1
+60,"Tepček ga je vprašal, kaj si tako žene k srcu.",42.56217730978261,42.64928668478261,0.08710937499999716,1
+61,»Tako zelo sem žejen in se ne morem napiti.,42.75380161830357,42.855092075892856,0.10129045758928612,1
+62,Mrzle vode ne prenašam.,42.855504521520146,42.85486778846154,-0.0006367330586058983,1
+63,"Izpraznil sem sicer sod vina, a kaj je kapljica na razbeljeni kamen?« je odgovoril mož.",43.398328386871505,42.741125465549345,-0.6572029213221597,1
+64,"»Potlej ti jaz lahko pomagam,« je rekel Tepček.",41.63400036549707,42.43635401437622,0.8023536488791478,1
+65,"»Pojdi z menoj, do sitega se boš napil.« Odpeljal ga je nato v kraljevo klet.",42.84801064768145,43.059999527469756,0.21198887978830783,1
+66,"Mož se je lotil ogromnih sodov in pil je in pil, da ga je v bokih bolelo.",42.95999618497877,43.107492369957534,0.14749618497876327,1
+67,"A še preden je minil dan, je izpil vso klet.",43.038553370786516,42.95500351123596,-0.08354985955055838,1
+68,Tepček je spet zahteval svojo nevesto.,42.94167814675174,43.027103574535964,0.08542542778422302,1
+69,"Kralj pa je bil jezen, da bi takle navaden fantin, ki mu ves svet ne pravi drugače kakor Tepček, odpeljal njegovo hčerko.",42.690455824209245,42.98207021745742,0.2916143932481745,1
+70,"Zato je postavil nove pogoje: poprej mora poiskati še človeka, ki bo mogel pojesti celo goro kruha.",43.154719716494846,43.24134685083763,0.08662713434278402,1
+71,Tepček ni dolgo pomišljal in je šel precej v gozd.,43.20371467298497,43.44756179559426,0.24384712260928865,1
+72,"Tu je na istem mestu sedel mož, ki se je z jermenom prepasoval čez pas ter imel hudo čemeren obraz.",43.06876603739003,43.41066887371701,0.34190283632698026,1
+73,"»Pojedel sem že celo krušno peč ovsenjaka, a kaj zaleže to, če ima človek tako lakoto kakor jaz.",43.12887181991186,43.42183743990385,0.292965619991989,1
+74,"Želodec mi je čisto prazen in z jermenom si moram zadrgniti pas, da ne umrjem od lakote,« je rekel možak.",42.404982546542556,43.39594068594858,0.9909581394060254,1
+75,"Tepček se je zelo razveselil in rekel: »Vstani in pojdi z menoj, do sitega se boš najedel.« 
+
+Povedel ga je na kraljevi dvor.",43.268748385847104,43.45951704545455,0.19076865960744271,1
+76,Kralj pa je dal medtem navoziti moke iz vsega kraljestva in dal speči iz nje velikansko goro kruha.,42.930111123002284,43.31397153253425,0.38386040953196243,1
+77,Mož iz gozda se je postavil pred to goro in začel jesti.,43.859540264423075,43.903505608974356,0.04396534455128176,1
+78,Jedel je in v enem dnevu je gora izginila.,43.673844311118785,43.630902537983424,-0.04294177313536096,1
+79,"Tepček je v tretje zahteval svojo nevesto, kralj pa se je še enkrat skušal izviti.",43.34953714404586,43.3602417714497,0.010704627403839595,1
+80,"Zahteval je ladjo, ki bi mogla voziti po kopnem in po vodi.",43.57521192070578,43.60903287096088,0.033820950255098126,1
+81,"»Ko boš prijadral s to ladjo,« je rekel, »boš precej dobil mojo hčer za ženo.« Tepček je odšel naravnost v gozd.",42.546891141528924,42.80747191373967,0.26058077221074427,1
+82,"Tam je sedel tisti stari, sivi možiček, kateremu je bil dal svoj kolač.",42.402303479381445,42.34397148840206,-0.05833199097938291,1
+83,"»Jedel in pil sem zate,« je rekel, »in dal ti bom tudi ladjo.",43.47161627435065,43.661614752435064,0.18999847808441217,1
+84,"Vse to pa zato, ker si pokazal, da imaš blago srce.« Dal mu je tudi ladjo, ki je vozila po kopnem in po vodi.",43.975845661569146,43.838846409574465,-0.13699925199468055,1
+85,"Ko je kralj to videl, mu ni mogel več odreči hčere.",44.1170263671875,43.93560546875,-0.18142089843750142,1
+86,Obhajali so svatbo.,44.82426961263021,44.19158935546875,-0.6326802571614607,1

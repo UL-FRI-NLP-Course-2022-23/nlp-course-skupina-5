@@ -1,0 +1,145 @@
+,sentence,with_sentence,without_sentence,difference,label
+0,Na robu nekega velikega gozda je živel reven drvar s svojo ženo in z dvema otrokoma.,41.923769434282725,42.1226401228116,0.1988706885288778,1
+1,Fantku je bilo ime Janko in dekletcu Metka.,42.08156529164477,42.46463642932212,0.3830711376773479,1
+2,"Drvarjeva družina že tako ni imela kdo ve kaj jesti, ko pa je nastopilo nerodovitno leto, ni mogel drvar zaslužiti niti vsakdanjega kruha.",42.468390472097326,42.49965286961121,0.03126239751388482,1
+3,"Ko je tako ponoči premišljeval v svoji postelji in se od skrbi premetaval, je vzdihnil in dejal svoji ženi: »Kaj bo z nami?",41.540229789220916,41.702124466382074,0.16189467716115757,1
+4,"Kako naj preživiva svoja uboga otroka, ko še zase nimava ničesar več?« »Veš kaj, mož,« je odgovorila žena, »jutri navsezgodaj od- peljiva otroka v gozd v najgostejšo goščo.",41.44103502969762,42.38968007559395,0.9486450458963276,1
+5,"Tam zakuriva ogenj in dajva vsakemu še košček kruha, nato pa se odpraviva na svoje delo in ju pustiva sama.",42.93401314895352,42.81500577602609,-0.11900737292742747,1
+6,"Tako ne bosta več našla poti domov in se jih bova odkrižala.« »Ne, žena,« je rekel mož, »tega ne bom storil.",44.99659916392544,44.956483004385966,-0.04011615953947256,1
+7,"Srce mi ne da, da bi puščal otroka sama v gozdu.",42.643891535487434,42.38050607566971,-0.26338545981772654,1
+8,"Saj pridejo divje zveri in ju raztrgajo.« »O, ti bedak,« je rekla na to žena, »po tvojem naj potemtakem vsi štirje od lakote umremo.",42.35149074589479,42.33883158224325,-0.012659163651541405,1
+9,"Ostane nam samo to, da izoblaš deske za mrtvaške krste.« In mu ni dala miru, dokler ni pristal.",42.458307050742924,42.4306227221755,-0.027684328567424643,1
+10,»Uboga otroka pa se mi vseeno smilita!« je dejal mož.,42.50681440785755,42.46621060627473,-0.04060380158281873,1
+11,"Tudi lačna otroka nista mogla zaspati in sta slišala, kaj je mačeha rekla očetu.",42.28708996023857,42.35769312695257,0.07060316671400102,1
+12,"Metka je bridko zajokala in rekla Janku: »To je najin konec!«
+»Tiho, Metka,« je rekel Janko, »nič ne skrbi, jaz si bom že kaj izmislil za naju.« In ko sta stara dva zaspala, je vstal, oblekel svoj suknjič, odprl zunanja vrata in se splazil ven.",42.24644515380151,42.36300239408009,0.11655724027858128,1
+13,"Mesec je jasno svetil in belo kamenje, ki je ležalo pred kočo, je sijalo kakor sami srebrniki.",42.63890967153284,42.62601733576642,-0.012892335766423457,1
+14,Janko se je sklonil in si vse žepe natlačil s kamenčki.,42.50269840394233,42.44649621212121,-0.05620219182112152,1
+15,"Nato je šel nazaj v hišo in dejal Metki: »Nič ne skrbi, draga sestrica, kar mirno zaspi, vse bo še dobro.« In je legel nazaj v svojo posteljo.",42.367398523300686,42.46683919560701,0.09944067230632214,1
+16,"Zgodaj zjutraj, še preden je vzšlo sonce, je že prišla mačeha in zbudila otroka: »Vstanita, lenuha, v gozd grerilo po drva.« Nato je dala vsakemu košček kruha in rekla: »Tu imata nekaj za kosilo, a ne pojejta takoj, ker ne dobita nič drugega.« Metka je dala kruh pod prepasnik, ker je imel Janko vse žepe natlačene s kamenčki.",42.38984231826512,42.349763286499694,-0.04007903176542271,1
+17,Nato so se vsi štirje odpravili na pot proti gozdu.,42.61873267097967,42.59422173444239,-0.02451093653727554,1
+18,"Ko so že nekaj časa hodili, se je Janko ustavil in se oziral nazaj proti hiši.",42.55224277210884,42.55028602350031,-0.001956748608527903,1
+19,Tako se je ustavljal in oziral venomer.,42.52808027380212,42.56161519912881,0.03353492532669122,1
+20,"»Kaj pa se kar naprej ustavljaš in zijaš nazaj, Janko?",42.493078334895344,42.63112113402062,0.13804279912527306,1
+21,"Pazi in ne pozabi na svoje noge,« je rekel oče.",42.78519550879397,42.719692211055275,-0.06550329773869379,1
+22,"»Oh, oče,« je dejal deček, »po svoji beli mucki se oziram.",42.38342862776025,42.45082807570978,0.06739944794952635,1
+23,"Ta sedi na strehi in se poslavlja od mene.« »Bedak,« je rekla mati, »to ni tvoja bela mačka, to je jutranje sonce, ki sije na dimnik.« Janko pa se ni oziral po mački, temveč je vsakič vrgel na pot po en svetal kamenček iz žepa.",45.190312600450014,45.02884924461588,-0.16146335583413673,1
+24,"Ko so prišli v sredo gozda, je dejal oče: »Naberita drv, otroka, zakuril bom ogenj, da vaju ne bo zeblo.« Janko in Metka sta nanosila celo goro dračja.",42.257940196959794,42.254226769369076,-0.0037134275907177994,1
+25,"Prižgali so ga in ko je ogenj visoko vzplapolal, je rekla ženska: »Zdaj pa lezita k ognju, otroka, in se odpočijta, midva z očetom greva v gozd sekat les.",42.369632633587784,42.41653615582476,0.04690352223697403,1
+26,"Ko opraviva, se vrneva po vaju.«
+ Janko in Metka sta sedela ob ognju in ko je bilo poldne, sta pojedla vsak svoj košček kruha.",42.610317435315864,42.568900159610216,-0.04141727570564768,1
+27,"Ves čas sta slišala udarce sekire in bilo je, kakor da seka oče nekje v bližini.",42.56681764307484,42.50875169319336,-0.05806594988148106,1
+28,"To pa ni bila sekira, marveč veja, ki jo je oče privezal ob trhlo drevo in je v vetru udarjala sem in tja.",42.571088398972606,42.534487371575345,-0.036601027397260566,1
+29,"Otroka sta tako dolgo sedela ob ognju, da so se jima od utrujenosti začele zapirati oči.",42.41485749396344,42.42206364263539,0.007206148671954793,1
+30,Trdno sta zaspala.,42.592134837560806,42.58629039263377,-0.005844444927035397,1
+31,"Ko sta se zbudila, je bila že črna noč.",42.56590419278997,42.524664750957854,-0.04123944183211847,1
+32,"Metka je začela jokati in je rekla : »Kako prideva zdaj iz tega gozda?« »Samo majceno počakaj,« jo je tolažil Janko.",42.42290715038651,42.48404559030218,0.06113843991567336,1
+33,"»Ko vzide mesec, bova že našla pot.« Ko se je prikazala luna na nebu, je Janko prijel sestrico za roko in šel za kamenčki, ki so se iskrili kakor novo kovani srebrniki in jima kazali pot.",42.46336129953588,42.472236478043556,0.008875178507672388,1
+34,Hodila sta vso noč in prišla šele v svitu naslednjega dne spet do domače hiše.,42.536084565452576,42.51166944644789,-0.024415119004686403,1
+35,"Potrkala sta na vrata in ko je ženska odprla in videla, da sta onadva, je rekla: »Otroka malopridna, kaj pa sta tako dolgo spala v hosti.",42.191346416849015,42.46040185083881,0.2690554339897915,1
+36,"Z očetom sva že mislila, da se nočeta vrniti.« Oče pa se ju je razveselil, kajti v srcu ga je grizlo, da ju je bil pustil tako sama.",43.03905093021103,42.976030289707516,-0.06302064050351674,1
+37,"Minilo je nekaj časa, pa je spet iz vseh kotov pritisnilo pomanjkanje.",42.4863076887145,42.449510696935725,-0.036796991778771826,1
+38,"In otroka sta slišala, kako je mačeha rekla ponoči očetu v postelji : »Spet nam je pošel ves živež, samo pol hlebca kruha še imamo, potlej bo pesmi konec.",44.71750307299546,44.83162939674735,0.11412632375188991,1
+39,Otroka morata z doma.,42.5243812117737,42.49771538130734,-0.026665830466363616,1
+40,"Odvedla ju bova še globlje v gozd, da ne bosta našla več poti iz njega.",42.40563613932541,42.4910346397087,0.08539850038329178,1
+41,"Drugače ni rešitve za naju.« Drvarju je bilo težko pri srcu in pomislil je: »Bolje bi bilo, da bi zadnji grižljaj delil s svojima otrokoma.«
+ Toda pri ženski je bilo bob ob steno vse, kar je dejal.",42.49144794507207,42.40173354109856,-0.0897144039735096,1
+42,Oštevala ga je in ga obsipala z očitki.,42.45521818360914,42.41635576733648,-0.038862416272657185,1
+43,"In ko je drvar že enkrat pristal, je moral še drugič.",42.511068740095084,42.456526718502374,-0.05454202159270949,1
+44,Otroka pa sta bila budna in sta slišala ves ta pomenek.,42.37601509565564,42.432791948983656,0.056776853328017296,1
+45,"Ko sta stara dva zaspala, je Janko spet vstal, hotel ven po kamenčke kakor zadnjikrat, toda ženska je zaklenila vrata in Janko ni mogel iz hiše.",42.54862580612656,42.50783769145506,-0.0407881146714999,1
+46,"Vseeno pa je pomiril sestrico, ki je jokala: »Nič ne jokaj, Metka, kar mirno spi.",42.269663207163205,42.4496654965405,0.1800022893772919,1
+47,Vse bo še dobro.« Navsezgodaj je prišla mačeha in vrgla otroka iz postelje.,42.684997684232194,42.616293356319474,-0.06870432791271952,1
+48,"Dobila sta vsak svoj košček kruha, ki pa je bil še manjši kakor zadnjikrat.",42.44632475083056,42.443249065614616,-0.0030756852159470327,1
+49,"Na poti proti gozdu je Janko drobil kruh v žepu, se večkrat ustavil in vrgel drobtinico na pot.",42.47292931142738,42.47152312683131,-0.001406184596071114,1
+50,"»Kaj pa se ustavljaš, Janko, in gledaš nazaj?« je rekel oče.",42.403230708245246,42.486231501057084,0.0830007928118377,1
+51,"»Pojdi svojo pot.« »Po svojem golobčku se oziram, ki sedi na strehi in se hoče posloviti od mene,« je odgovoril Janko.",42.4036793059126,42.562868198371895,0.1591888924592979,1
+52,"»Bedak,« je rekla ženska, »to ni tvoj golob, to je jutranje sonce, ki sije na dimnik.« Janko pa je polagoma zmetal vse drobtinice na pot.",42.55706877729258,42.48180949781659,-0.07525927947598632,1
+53,"Mačeha je odvedla otroka še globlje v gozd, v tako goščo, kakršne še živ dan nista videla.",42.38271256065285,42.37156760035289,-0.011144960299958484,1
+54,"Tam so spet zakurili velik ogenj in mačeha je rekla: »Kar lepo sedita tukaj, otroka, in če bosta trudna, lahko malo zaspita.",42.36060117713004,42.44414237668161,0.08354119955156847,1
+55,"Z očetom greva v gozd sekat les, in zvečer, ko opraviva svoje delo, prideva po vaju.« Opoldne je Metka delila svoj košček kruha z Jankom, ki je svojega raztrosil po poti.",42.46440018315018,42.4353751717033,-0.029025011446883298,1
+56,Nato sta zaspala.,42.43638134267841,42.40760397358665,-0.0287773690917561,1
+57,"Minil je že večer, k ubogima otrokoma pa ni bilo žive duše.",42.510651428903344,42.43400760920074,-0.07664381970260337,1
+58,"Prebudila sta se šele v črni noči in Janko je miril svojo sestrico in ji rekel: »Kar počakaj, Metka, da je miril svojo sestrico in ji rekel: »Kar počakaj, Metka, da
+vzide mesec.",44.44260945657333,44.69859397247271,0.2559845158993781,1
+59,"Potlej bova lahko videla drobtinice, ki sem jih natrosil, da nama pokažejo pot domov.« Ko je vzšla luna, sta se odpravila, a nobene drobtinice ni bilo več na poti, kajti tisoč in tisoč ptic, ki so letale po gozdu in po polju, jih je pozobalo.",42.590887463163064,42.5547450577112,-0.0361424054518622,1
+60,"»Tudi tako bova našla pot,« je rekel Janko Metki.",42.34210587686567,42.34172108208955,-0.0003847947761244086,1
+61,A nista je našla.,42.41938564629258,42.38603378632264,-0.03335185996994028,1
+62,"Hodila sta vso noč in še cel dan od jutra do večera, a nista prišla iz gozda.",42.39364792713568,42.348563128140704,-0.04508479899497786,1
+63,"Bila sta zelo lačna, ker nista imela nič ,drugega kakor nekaj jagod, ki sta jih nabrala.",42.23067705688167,42.321784535297105,0.09110747841543798,1
+64,"Bila sta tudi že tako utrujena, da ju noge niso hotele več nositi.",42.41139805169753,42.41687564300412,0.00547759130658676,1
+65,Tako sta legla pod neko drevo in zaspala.,42.42076356438214,42.399759865005194,-0.021003699376947793,1
+66,"To je bilo že tretje jutro, odkar sta odšla iz hiše svojega očeta.",42.35290540099268,42.35574222831766,0.0028368273249768095,1
+67,"Vzela sta spet pot pod noge, a sta zašla še globlje v gozd.",42.3702499341412,42.38328997629083,0.01304004214963328,1
+68,"Čutila sta, da bosta omagala in umrla, če ne pride kmalu kakšna pomoč.",42.382338763297874,42.367549035904254,-0.0147897273936195,1
+69,"Ko je bilo okrog poldne, sta zagledala lepo, snežno belo ptico, ki je sedela na veji in tako prelepo gostolela, da sta se ustavila in ji prisluhnila.",42.292326163419915,42.31374289772727,0.021416734307358354,1
+70,"Ko je utihnila, je razpela krila in poletavala pred njima.",42.41160579301814,42.36916746838922,-0.04243832462891817,1
+71,"Otroka sta šla za ptico, dokler nista prišla do neke hišice, kjer je ptica sedla na streho.",42.24860320655191,42.26447112715158,0.015867920599667684,1
+72,"Ko pa sta prišla čisto blizu, sta opazila, da je hišica iz kruha sezidana in s štrukeljčki pokrita; okenca pa so bila iz svetlega sladkorčka.",42.24153608905275,42.243104792966534,0.0015687039137830538,1
+73,"»Tega se pa kar lotiva,« je rekel Janko Metki.",42.30435878962536,42.268299711815565,-0.03605907780979578,1
+74,»Privoščiva si pošteno južino.,42.24790030541012,42.24279195753345,-0.00510834787667136,1
+75,"Jaz bom pojedel košček strehe, ti, Metka, pa vzemi košček okna, da se boš posladkala.« Janko je segel z roko in odlomil košček strehe, da bi videl, kako tekne.",42.074019262173394,42.039832615795724,-0.03418664637766966,1
+76,Metka pa se je lotila šipe in začela hrustati.,42.09512341962673,42.140653220951236,0.04552980132450557,1
+77,"Tedaj se je oglasil tenek glas iz sobe: »Hrst, brst, kateri miško kruši, hrusta mojo hiško«
+ Otroka pa sta odgovorila »Vetrc, vetrc iz neba okrog hišice pihlja,« in sta jedla dalje ter se nista dala motiti.",42.14289455307262,42.03400450031037,-0.1088900527622556,1
+78,"Janko, ki mu je streha prav dobro teknila, jo je iztrgal velik kos in Metka je potegnila ven celo okroglo šipo, sedla na tla in si privoščila.",42.28954020700637,42.34968650477707,0.06014629777070013,1
+79,"Tedaj pa so se nenadoma odprla vrata in ven je prišantala kakor zemlja stara ženska, ki se je opirala na bergle.",42.20845999513619,42.2681329036965,0.05967290856030871,1
+80,"Janko in Metka sta se tako prestrašila, da jima je popadalo na tla vse, kar sta držala v rokah.",42.270922835426305,42.25453104345671,-0.01639179196959617,1
+81,"Starka pa je zmajevala z glavo in govorila: »Ejej, ljuba otroka moja, kdo pa vaju je pripeljal sem?",44.20031713587323,44.34725851314902,0.1469413772757946,1
+82,Stopita no v hišo in ostanita pri meni.,42.508362865120276,42.02395296391752,-0.48440990120275274,1
+83,Nič hudega se vama ne bo zgodilo.« a se vama ne bo zgodilo.« Prijela ju je za roko in ju odpeljala v hišico.,44.67888454861111,44.677880859375,-0.0010036892361071637,1
+84,"Tam so jima pripravili dobro kosilo, mleko in cvrtnjak s sladkorjem, jabolka in orehe.",41.84100095233877,41.82729447200567,-0.013706480333098625,1
+85,Nato so belo postlali dve lepi posteljici in Janko in in orehe.,41.85341993876081,41.964770578170025,0.11135063940921697,1
+86,Nato so belo postlali dve lepi posteljici in Janko in Metka sta legla in sladko zaspala.,42.05377509124087,42.17084283759124,0.1170677463503651,1
+87,Starka pa se je samo delala dobro.,42.07240202451709,42.118760447622584,0.046358423105495206,1
+88,"Bila je hudobna čarovnica, ki je prežala na otroke in je svojo kruhasto hišico sezidala samo zato, da bi jih privabila.",42.04707562311178,42.01384889539275,-0.03322672771903257,1
+89,"Ko je prišel kak otrok v njeno samo zato, da bi jih privabila.",42.00149409562212,41.980150729646695,-0.021343365975425854,1
+90,"Ko je prišel kak otrok v njeno oblast, ga je ubila, skuhala in ga požrla.",41.99546449416342,41.98897130350195,-0.006493190661473136,1
+91,Čarovnice imajo rdeče oči in ne morejo videti daleč.,41.61098636678543,41.956861144101346,0.3458747773159132,1
+92,"Imajo pa tenek voh kakor živali in zaduhajo, če pridejo ljudje v bližino.",42.1208375,42.0457875,-0.0750499999999974,1
+93,"Ko sta se Janko in Metka bližala njeni hišici, se je ženska zlobno zasmejala in posmehljivo dejala: »Ta dva sta mi padla v kremplje.",41.773613745898274,41.87235631152584,0.09874256562756756,1
+94,"Ne bosta mi popihala.« Zgodaj zjutraj, ko sta otroka še spala, je že vstala in ko ju je videla, kako milo spita s svojimi polnimi rdečimi lički, je zamrmrala predse: »To bo slasten prigrizek!«
+ Zgrabila je Janka s svojimi koščenimi rokami ga odnesla v majhen hlev in ga zaprla za zamrežena vrata.",41.76961698858648,41.79596274143986,0.02634575285338059,1
+95,"Ni mu pomagalo, da je kričal in vpil na vse grlo.",42.054947448291365,42.00864152428058,-0.046305924010788146,1
+96,"Nato je stopila k Metki in jo stresla, da se je zdramila.",41.89865154109589,41.90752354452055,0.008872003424663433,1
+97,"Zaklicala ji je: »Vstani, zaspanka, nanosi vode in skuhaj svojemu bratu kaj dobrega.",42.027296599350045,41.92352527274838,-0.10377132660166666,1
+98,"Zaprt je v hlevu, da se bo zredil.",41.99005749523356,41.96676522283127,-0.02329227240228704,1
+99,"Ko bo lepo rejen, ga bom pojedla.« Metka je bridko zajokala, a bilo je vse zaman, morala je storiti, kar je zahtevala hudobna čarovnica.",41.834202238258314,41.83424810420744,4.586594912581177e-05,1
+100,"Tako so ubogemu Janku kuhali najboljše jedi, Metka pa je dobivala samo ostanke.",41.716384242957744,41.78748270875251,0.07109846579476908,1
+101,"Vsako jutro je odšantala starka k hlevčku in zaklicala: »Janček, pomoli ven svoj prst, da bom potipala, ali boš kmalu rejen.« Janko pa ji je pomolil koščico in starka, ki je imela brljave oči, tega ni mogla videti in je mislila, da so Jankovi prsti, ter se čudila, da se kar nič ne zredi.",40.95202987030905,41.621887072295806,0.6698572019867584,1
+102,"Ko so minili štirje tedni in je Janko ostal še kar suh, jo je premagala nepotrpežljivost in ni marala več čakati.",44.534752766742336,44.55457221906924,0.019819452326906628,1
+103,"Metka,« je zaklicala deklici, »skoči hitro in nanosi vodo.",41.824314805327866,41.79541129976581,-0.028903505562055898,1
+104,"Naj bo Janko debel ali suh, jutri ga bom zaklala in ga skuhala.« Oh, kako je jokala uboga deklica, ko je morala nositi vodo!",41.60505531478102,41.70692670316302,0.10187138838200127,1
+105,Kako so ji tekle solze po licih!,41.78834782268171,41.817820919486216,0.029473096804508714,1
+106,"»Bolje bi bilo, da bi naju požrle divje zveri v gozdu.",41.76096926620076,41.747066589898346,-0.013902676302414818,1
+107,Tako bi vsaj skupaj umrla!« je tarnala.,41.64667765299479,41.65263875325521,0.005961100260421404,1
+108,"»Nikar se ne cmeri,« jo je osorno zavrnila starka, »to vse ti ne bo prav nič pomagalo.« Metka je morala zgodaj zjutraj obesiti kotel z vodo in zakuriti ogenj.",41.62371834498636,41.64996163028649,0.026243285300132868,1
+109,"»A najprej moramo speči kruh,« je rekla starka.",41.74732990506329,41.7122643064346,-0.035065598628690964,1
+110,"»Krušno peč sem že zakurila in tudi testo zamesila!«
+Pahnila je ubogo Metko pred peč, iz katere so že švigali plameni.",41.625587363138685,41.66558508211679,0.03999771897810689,1
+111,"»Zlezi vanjo,« je rekla čarovnica, »in poglej, ali je dovolj zakurjeno, da lahko damo kruh vanjo.« In če bi jo bila Metka poslušala, bi čarovnica zaprla v jo peč, da bi se Metka spekla v nji.",41.035828125,41.07748125,0.041653124999996294,1
+112,In potem bi o bila pojedla.,41.74602907698676,41.75895721233444,0.012928135347678449,1
+113,"Metka pa je uganila, kaj stara namerava in je rekla: »Ne vem, kako naj to storim.",41.73025210084034,41.828883272058825,0.09863117121848575,1
+114,"Kako pa pridem vanjo?« »Gos neumna, saj je odprtina dovolj velika, vidiš, še jaz bi lahko zlezla vanjo,« je rekla stara, se primajala in vtaknila glavo v peč.",44.34225436373874,44.01064541103604,-0.33160895270270174,1
+115,"Metka pa jo je krepko sunila, da je zdrsnila vanjo.",41.546726473384034,41.63884268060836,0.09211620722432912,1
+116,Zaprla je železna vrata za njo.,41.87261795343137,41.84068627450981,-0.03193167892156623,1
+117,"Oh, kako grozansko je zavreščala stara!",41.512583761272545,41.68630620616233,0.1737224448897834,1
+118,A nič ni pomagalo.,41.91102206829897,41.88258698453608,-0.028435083762886393,1
+119,Čarovnica je morala zgoreti.,41.550618149791234,41.64812760960334,0.0975094598121089,1
+120,"Metka je jadrno stekla naravnost k Janku, odprla njegov hlevček in zaklicala: »Janko, rešena sva, stara čarovnica je mrtva!« Janko je skočil ven kakor ptička iz kletke, če ji odpreš vratca.",43.23488087697072,43.8296118384009,0.5947309614301801,1
+121,Kako sta se veselila!,42.114636671686746,42.142008659638556,0.02737198795180973,1
+122,"Vrgla sta se drug drugemu okoli vratu, poskakovala in se poljubljala!",41.884784773284316,41.9997989430147,0.11501416973038658,1
+123,"In ker se jima ni bilo treba ničesar več bati, sta šla v čarovničino hišo.",42.296573746786635,42.2325172718509,-0.06405647493573241,1
+124,Tam pa so bili po vseh kotih zabojčki z biseri in dragulji.,42.17645692567567,42.17396537162162,-0.0024915540540533243,1
+125,"»Ti so pa veliko boljši kakor kamenčki,« je rekel Janko in si jih natlačil v žepe, kolikor je mogel.",41.977332589285716,42.00138392857143,0.02405133928571246,1
+126,"»Tudi jaz bi rada kaj prinesla domov,« je rekla Metka ter si z njimi napolnila svoj predpasniček.",41.87435098020186,41.89558969817546,0.02123871797360266,1
+127,"»Zdaj pa jo pobrišiva od tod,« je dejal Janko, »da prideva iz tega čarovniškega gozda.« a nekaj Ko sta hodila ur, sta prišla do velike vode.",42.023083324163736,42.07773643816021,0.05465311399647277,1
+128,"»Saj ne moreva čez videti.« ,« je dejal Janko, »ne brvi ne mostu ni videti.«
+ »Tudi nobene barčice ni na vodi,« mu je odgovorila Metka »tamle pa plava bela račka.",41.76840027377137,41.93116486378205,0.16276459001068133,1
+129,"Če jo poprosim, nama bo gotovo Pomagala čez vodo.« Vzkliknila je: »Račka, ljuba račka ti, ker ni mostička ne brvi, midva prosiva lepo, da naju prepelješ čez vodo.« In račka je res priplavala in Janko ji je sedel na hrbet in rekel sestrici, naj sede zraven njega.",41.51229208669355,41.689276713709674,0.17698462701612527,1
+130,"»Ne,« je odgovorila Metka, »to bi bilo za račko pretežko, drugega za drugim naju bo.« In dobra račka je res storila tako in ko sta bila srečno na drugem bregu in ko sta še nekaj časa hodila, se jima je zazdel gozd čedalje bolj znan in domač.",41.66897837320963,41.7680918375651,0.09911346435546875,1
+131,In nazadnje sta od daleč zagledala hišo svojega očeta.,41.696579200634055,41.74915081521739,0.0525716145833357,1
+132,"Začela sta teči, planila sta v sobo in se vrgla očetu okrog vratu.",41.80392509594298,42.03332305372807,0.2293979577850891,1
+133,"Odkar je revni drvar pustil svoja otroka v gozdu, ni imel niti trenutka miru in pokoja več.",42.27525570518092,42.4475675884046,0.17231188322368496,1
+134,Njegova hudobna žena pa je bila medtem umrla.,39.94619547526042,39.63443196614583,-0.3117635091145843,1
+135,"Metka je stresla iz svojega predpasnička bisere in dragulje, da so se kar trkljali po izbi.",35.222513834635414,35.99340311686198,0.7708892822265625,1

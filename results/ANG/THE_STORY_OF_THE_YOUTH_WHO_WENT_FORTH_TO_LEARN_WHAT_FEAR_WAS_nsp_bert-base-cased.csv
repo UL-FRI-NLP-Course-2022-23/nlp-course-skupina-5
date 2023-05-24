@@ -1,0 +1,412 @@
+,sentence,with_sentence,without_sentence,difference,label
+0,"A certain father had two sons, the elder of who was smart and sensible,
+and could do everything, but the younger was stupid and could neither
+learn nor understand anything, and when people saw him they said:
+‘There’s a fellow who will give his father some trouble!’ When anything
+had to be done, it was always the elder who was forced to do it; but
+if his father bade him fetch anything when it was late, or in the
+night-time, and the way led through the churchyard, or any other dismal
+place, he answered: ‘Oh, no father, I’ll not go there, it makes me
+shudder!’ for he was afraid.",2.063783645629883,1.7135884761810303,-0.35019516944885254,1
+1,"Or when stories were told by the fire at
+night which made the flesh creep, the listeners sometimes said: ‘Oh,
+it makes us shudder!’ The younger sat in a corner and listened with
+the rest of them, and could not imagine what they could mean.",1.7135884761810303,2.0635013580322266,0.3499128818511963,1
+2,"‘They are
+always saying: “It makes me shudder, it makes me shudder!” It does not
+make me shudder,’ thought he.",1.3331019878387451,0.08885961771011353,-1.2442423701286316,1
+3,"‘That, too, must be an art of which I
+understand nothing!’
+
+Now it came to pass that his father said to him one day: ‘Hearken to me,
+you fellow in the corner there, you are growing tall and strong, and you
+too must learn something by which you can earn your bread.",0.10411299020051956,0.09849462658166885,-0.005618363618850708,1
+4,"Look how your
+brother works, but you do not even earn your salt.’ ‘Well, father,’ he
+replied, ‘I am quite willing to learn something--indeed, if it could but
+be managed, I should like to learn how to shudder.",0.13901394605636597,0.09349646419286728,-0.04551748186349869,1
+5,"I don’t understand
+that at all yet.’ The elder brother smiled when he heard that, and
+thought to himself: ‘Goodness, what a blockhead that brother of mine is!",0.1436411291360855,0.17381981015205383,0.030178681015968323,1
+6,He will never be good for anything as long as he lives!,0.11271648854017258,1.451995611190796,1.3392791226506233,1
+7,"He who wants to
+be a sickle must bend himself betimes.’
+
+The father sighed, and answered him: ‘You shall soon learn what it is to
+shudder, but you will not earn your bread by that.’
+
+Soon after this the sexton came to the house on a visit, and the father
+bewailed his trouble, and told him how his younger son was so backward
+in every respect that he knew nothing and learnt nothing.",0.9969182014465332,0.10971812158823013,-0.8872000798583031,1
+8,"‘Just think,’
+said he, ‘when I asked him how he was going to earn his bread, he
+actually wanted to learn to shudder.’ ‘If that be all,’ replied the
+sexton, ‘he can learn that with me.",0.11591293662786484,0.09869509935379028,-0.017217837274074554,1
+9,"Send him to me, and I will soon
+polish him.’ The father was glad to do it, for he thought: ‘It will
+train the boy a little.’ The sexton therefore took him into his house,
+and he had to ring the church bell.",0.08638451993465424,0.046422433108091354,-0.03996208682656288,1
+10,"After a day or two, the sexton awoke
+him at midnight, and bade him arise and go up into the church tower and
+ring the bell.",0.07310662418603897,0.18648119270801544,0.11337456852197647,1
+11,"‘You shall soon learn what shuddering is,’ thought he,
+and secretly went there before him; and when the boy was at the top of
+the tower and turned round, and was just going to take hold of the bell
+rope, he saw a white figure standing on the stairs opposite the sounding
+hole.",0.18187059462070465,0.07946564257144928,-0.10240495204925537,1
+12,"‘Who is there?’ cried he, but the figure made no reply, and did
+not move or stir.",0.09673352539539337,0.10172547399997711,0.00499194860458374,1
+13,"‘Give an answer,’ cried the boy, ‘or take yourself
+off, you have no business here at night.’
+
+The sexton, however, remained standing motionless that the boy might
+think he was a ghost.",0.09751054644584656,0.43830588459968567,0.3407953381538391,1
+14,"The boy cried a second time: ‘What do you want
+here?--speak if you are an honest fellow, or I will throw you down the
+steps!’ The sexton thought: ‘He can’t mean to be as bad as his words,’
+uttered no sound and stood as if he were made of stone.",0.13036014139652252,0.038566071540117264,-0.09179406985640526,1
+15,"Then the boy
+called to him for the third time, and as that was also to no purpose,
+he ran against him and pushed the ghost down the stairs, so that it fell
+down the ten steps and remained lying there in a corner.",0.05536290258169174,0.07215191423892975,0.016789011657238007,1
+16,"Thereupon he
+rang the bell, went home, and without saying a word went to bed, and
+fell asleep.",0.10102596133947372,0.11436059325933456,0.01333463191986084,1
+17,"The sexton’s wife waited a long time for her husband, but
+he did not come back.",0.10790884494781494,0.17348602414131165,0.0655771791934967,1
+18,"At length she became uneasy, and wakened the boy,
+and asked: ‘Do you know where my husband is?",0.25100451707839966,0.4016392230987549,0.15063470602035522,1
+19,"He climbed up the tower
+before you did.’ ‘No, I don’t know,’ replied the boy, ‘but someone was
+standing by the sounding hole on the other side of the steps, and as he
+would neither give an answer nor go away, I took him for a scoundrel,
+and threw him downstairs.",0.3743317425251007,0.7555904388427734,0.38125869631767273,1
+20,Just go there and you will see if it was he.,0.2979161739349365,0.4842572808265686,0.18634110689163208,1
+21,"I should be sorry if it were.’ The woman ran away and found her husband,
+who was lying moaning in the corner, and had broken his leg.",0.2797505557537079,0.14594228565692902,-0.13380827009677887,1
+22,"She carried him down, and then with loud screams she hastened to the
+boy’s father, ‘Your boy,’ cried she, ‘has been the cause of a great
+misfortune!",0.1431722193956375,0.16235075891017914,0.019178539514541626,1
+23,"He has thrown my husband down the steps so that he broke his
+leg.",0.3676399290561676,0.4582611918449402,0.09062126278877258,1
+24,"Take the good-for-nothing fellow out of our house.’ The father was
+terrified, and ran thither and scolded the boy.",0.1955588161945343,0.41063937544822693,0.21508055925369263,1
+25,"‘What wicked tricks
+are these?’ said he.",0.35459205508232117,0.3354405164718628,-0.019151538610458374,1
+26,"‘The devil must have put them into your head.’
+‘Father,’ he replied, ‘do listen to me.",0.2700918912887573,0.26656073331832886,-0.003531157970428467,1
+27,I am quite innocent.,0.6856741309165955,0.46190470457077026,-0.2237694263458252,1
+28,"He was
+standing there by night like one intent on doing evil.",0.6455573439598083,0.43987375497817993,-0.20568358898162842,1
+29,"I did not know
+who it was, and I entreated him three times either to speak or to go
+away.’ ‘Ah,’ said the father, ‘I have nothing but unhappiness with you.",0.49628445506095886,0.6861523985862732,0.18986794352531433,1
+30,Go out of my sight.,0.6627494096755981,0.5050580501556396,-0.1576913595199585,1
+31,"I will see you no more.’
+
+‘Yes, father, right willingly, wait only until it is day.",0.4200744032859802,0.31328675150871277,-0.10678765177726746,1
+32,"Then will I
+go forth and learn how to shudder, and then I shall, at any rate,
+understand one art which will support me.’ ‘Learn what you will,’ spoke
+the father, ‘it is all the same to me.",0.19389918446540833,0.6317570805549622,0.43785789608955383,1
+33,Here are fifty talers for you.,0.41913241147994995,0.19570447504520416,-0.2234279364347458,1
+34,"Take these and go into the wide world, and tell no one from whence you
+come, and who is your father, for I have reason to be ashamed of you.’
+‘Yes, father, it shall be as you will.",0.1569707989692688,0.6264321804046631,0.4694613814353943,1
+35,"If you desire nothing more than
+that, I can easily keep it in mind.’
+
+When the day dawned, therefore, the boy put his fifty talers into his
+pocket, and went forth on the great highway, and continually said to
+himself: ‘If I could but shudder!",0.5232152938842773,0.900667667388916,0.37745237350463867,1
+36,"If I could but shudder!’ Then a man
+approached who heard this conversation which the youth was holding with
+himself, and when they had walked a little farther to where they could
+see the gallows, the man said to him: ‘Look, there is the tree where
+seven men have married the ropemaker’s daughter, and are now learning
+how to fly.",0.4322662353515625,0.2722674608230591,-0.15999877452850342,1
+37,"Sit down beneath it, and wait till night comes, and you will
+soon learn how to shudder.’ ‘If that is all that is wanted,’ answered
+the youth, ‘it is easily done; but if I learn how to shudder as fast as
+that, you shall have my fifty talers.",0.21324026584625244,0.2232242226600647,0.009983956813812256,1
+38,"Just come back to me early in the
+morning.’ Then the youth went to the gallows, sat down beneath it, and
+waited till evening came.",0.23690380156040192,0.09425442665815353,-0.14264937490224838,1
+39,"And as he was cold, he lighted himself a fire,
+but at midnight the wind blew so sharply that in spite of his fire, he
+could not get warm.",0.0482834093272686,0.18362578749656677,0.13534237816929817,1
+40,"And as the wind knocked the hanged men against each
+other, and they moved backwards and forwards, he thought to himself:
+‘If you shiver below by the fire, how those up above must freeze and
+suffer!’ And as he felt pity for them, he raised the ladder, and climbed
+up, unbound one of them after the other, and brought down all seven.",0.18017402291297913,0.11416440457105637,-0.06600961834192276,1
+41,"Then he stoked the fire, blew it, and set them all round it to warm
+themselves.",0.07134004682302475,0.07250654697418213,0.0011665001511573792,1
+42,"But they sat there and did not stir, and the fire caught
+their clothes.",0.08335055410861969,0.23719997704029083,0.15384942293167114,1
+43,"So he said: ‘Take care, or I will hang you up again.’ The
+dead men, however, did not hear, but were quite silent, and let their
+rags go on burning.",0.1614520251750946,0.12901797890663147,-0.032434046268463135,1
+44,"At this he grew angry, and said: ‘If you will not
+take care, I cannot help you, I will not be burnt with you,’ and he hung
+them up again each in his turn.",0.20303086936473846,0.25035181641578674,0.04732094705104828,1
+45,"Then he sat down by his fire and fell
+asleep, and the next morning the man came to him and wanted to have
+the fifty talers, and said: ‘Well do you know how to shudder?’ ‘No,’
+answered he, ‘how should I know?",0.38046911358833313,2.016658067703247,1.636188954114914,1
+46,"Those fellows up there did not open
+their mouths, and were so stupid that they let the few old rags which
+they had on their bodies get burnt.’ Then the man saw that he would not
+get the fifty talers that day, and went away saying: ‘Such a youth has
+never come my way before.’
+
+The youth likewise went his way, and once more began to mutter to
+himself: ‘Ah, if I could but shudder!",1.937806248664856,0.10345061868429184,-1.8343556299805641,1
+47,"Ah, if I could but shudder!’ A
+waggoner who was striding behind him heard this and asked: ‘Who are
+you?’ ‘I don’t know,’ answered the youth.",0.18927429616451263,0.7201064825057983,0.5308321863412857,1
+48,"Then the waggoner asked: ‘From
+whence do you come?’ ‘I know not.’ ‘Who is your father?’ ‘That I may
+not tell you.’ ‘What is it that you are always muttering between your
+teeth?’ ‘Ah,’ replied the youth, ‘I do so wish I could shudder, but
+no one can teach me how.’ ‘Enough of your foolish chatter,’ said the
+waggoner.",0.12694548070430756,0.1287974864244461,0.0018520057201385498,1
+49,"‘Come, go with me, I will see about a place for you.’ The
+youth went with the waggoner, and in the evening they arrived at an inn
+where they wished to pass the night.",0.17007656395435333,0.11509961634874344,-0.054976947605609894,1
+50,"Then at the entrance of the parlour
+the youth again said quite loudly: ‘If I could but shudder!",0.10169607400894165,0.5935084819793701,0.49181240797042847,1
+51,"If I could
+but shudder!’ The host who heard this, laughed and said: ‘If that is
+your desire, there ought to be a good opportunity for you here.’ ‘Ah,
+be silent,’ said the hostess, ‘so many prying persons have already lost
+their lives, it would be a pity and a shame if such beautiful eyes as
+these should never see the daylight again.’
+
+But the youth said: ‘However difficult it may be, I will learn it.",0.25396236777305603,0.05331244319677353,-0.2006499245762825,1
+52,"For
+this purpose indeed have I journeyed forth.’ He let the host have
+no rest, until the latter told him, that not far from thence stood a
+haunted castle where anyone could very easily learn what shuddering was,
+if he would but watch in it for three nights.",0.053022727370262146,0.08815562725067139,0.03513289988040924,1
+53,"The king had promised that
+he who would venture should have his daughter to wife, and she was the
+most beautiful maiden the sun shone on.",0.11744442582130432,0.11901918798685074,0.0015747621655464172,1
+54,"Likewise in the castle lay great
+treasures, which were guarded by evil spirits, and these treasures would
+then be freed, and would make a poor man rich enough.",0.05810217186808586,0.06768543273210526,0.009583260864019394,1
+55,"Already many men
+had gone into the castle, but as yet none had come out again.",0.058448437601327896,0.34397760033607483,0.28552916273474693,1
+56,"Then the
+youth went next morning to the king, and said: ‘If it be allowed, I will
+willingly watch three nights in the haunted castle.’
+
+The king looked at him, and as the youth pleased him, he said: ‘You may
+ask for three things to take into the castle with you, but they must
+be things without life.’ Then he answered: ‘Then I ask for a fire, a
+turning lathe, and a cutting-board with the knife.’
+
+The king had these things carried into the castle for him during the
+day.",0.04426036775112152,0.02331451140344143,-0.020945856347680092,1
+57,"When night was drawing near, the youth went up and made himself
+a bright fire in one of the rooms, placed the cutting-board and knife
+beside it, and seated himself by the turning-lathe.",0.02759985625743866,0.06207629293203354,0.03447643667459488,1
+58,"‘Ah, if I could
+but shudder!’ said he, ‘but I shall not learn it here either.’ Towards
+midnight he was about to poke his fire, and as he was blowing it,
+something cried suddenly from one corner: ‘Au, miau!",0.08179182559251785,0.07020197063684464,-0.011589854955673218,1
+59,"how cold we are!’
+‘You fools!’ cried he, ‘what are you crying about?",0.04862593859434128,0.05051308125257492,0.0018871426582336426,1
+60,"If you are cold, come
+and take a seat by the fire and warm yourselves.’ And when he had said
+that, two great black cats came with one tremendous leap and sat down
+on each side of him, and looked savagely at him with their fiery
+eyes.",0.07064416259527206,0.07512246817350388,0.0044783055782318115,1
+61,"After a short time, when they had warmed themselves, they said:
+‘Comrade, shall we have a game of cards?’ ‘Why not?’ he replied, ‘but
+just show me your paws.’ Then they stretched out their claws.",0.06358067691326141,0.06663130223751068,0.0030506253242492676,1
+62,"‘Oh,’ said
+he, ‘what long nails you have!",0.060594215989112854,0.0722297728061676,0.011635556817054749,1
+63,"Wait, I must first cut them for you.’
+Thereupon he seized them by the throats, put them on the cutting-board
+and screwed their feet fast.",0.04903236776590347,0.0496671125292778,0.0006347447633743286,1
+64,"‘I have looked at your fingers,’ said he,
+‘and my fancy for card-playing has gone,’ and he struck them dead and
+threw them out into the water.",0.09853912889957428,0.11457120627164841,0.016032077372074127,1
+65,"But when he had made away with these two,
+and was about to sit down again by his fire, out from every hole and
+corner came black cats and black dogs with red-hot chains, and more
+and more of them came until he could no longer move, and they yelled
+horribly, and got on his fire, pulled it to pieces, and tried to put
+it out.",0.15064629912376404,0.08693283796310425,-0.06371346116065979,1
+66,"He watched them for a while quietly, but at last when they were
+going too far, he seized his cutting-knife, and cried: ‘Away with you,
+vermin,’ and began to cut them down.",0.07947797328233719,0.08274199068546295,0.003264017403125763,1
+67,"Some of them ran away, the others
+he killed, and threw out into the fish-pond.",0.10118100792169571,0.09377284348011017,-0.007408164441585541,1
+68,"When he came back he fanned
+the embers of his fire again and warmed himself.",0.06130654737353325,0.14947904646396637,0.08817249909043312,1
+69,"And as he thus sat, his
+eyes would keep open no longer, and he felt a desire to sleep.",0.12088877707719803,0.12357547879219055,0.002686701714992523,1
+70,"Then he
+looked round and saw a great bed in the corner.",0.3802288770675659,0.21427570283412933,-0.16595317423343658,1
+71,"‘That is the very thing
+for me,’ said he, and got into it.",0.3172312378883362,0.29008567333221436,-0.027145564556121826,1
+72,"When he was just going to shut his
+eyes, however, the bed began to move of its own accord, and went over
+the whole of the castle.",0.37795576453208923,0.4788026213645935,0.10084685683250427,1
+73,"‘That’s right,’ said he, ‘but go faster.’ Then
+the bed rolled on as if six horses were harnessed to it, up and down,
+over thresholds and stairs, but suddenly hop, hop, it turned over upside
+down, and lay on him like a mountain.",0.3244432806968689,0.49503016471862793,0.17058688402175903,1
+74,"But he threw quilts and pillows up
+in the air, got out and said: ‘Now anyone who likes, may drive,’ and
+lay down by his fire, and slept till it was day.",0.46718090772628784,0.4363560676574707,-0.03082484006881714,1
+75,"In the morning the king
+came, and when he saw him lying there on the ground, he thought the evil
+spirits had killed him and he was dead.",0.5980610251426697,1.6940498352050781,1.0959888100624084,1
+76,"Then said he: ‘After all it is a
+pity,--for so handsome a man.’ The youth heard it, got up, and said: ‘It
+has not come to that yet.’ Then the king was astonished, but very glad,
+and asked how he had fared.",1.1643563508987427,0.2109459787607193,-0.9534103721380234,1
+77,"‘Very well indeed,’ answered he; ‘one
+night is past, the two others will pass likewise.’ Then he went to the
+innkeeper, who opened his eyes very wide, and said: ‘I never expected to
+see you alive again!",0.3208855986595154,0.711093544960022,0.3902079463005066,1
+78,"Have you learnt how to shudder yet?’ ‘No,’ said he,
+‘it is all in vain.",1.5137194395065308,1.712202787399292,0.19848334789276123,1
+79,"If someone would but tell me!’
+
+The second night he again went up into the old castle, sat down by the
+fire, and once more began his old song: ‘If I could but shudder!’ When
+midnight came, an uproar and noise of tumbling about was heard; at
+first it was low, but it grew louder and louder.",0.17697051167488098,0.15012332797050476,-0.02684718370437622,1
+80,"Then it was quiet for
+a while, and at length with a loud scream, half a man came down the
+chimney and fell before him.",0.24412399530410767,0.2551741600036621,0.011050164699554443,1
+81,"‘Hullo!’ cried he, ‘another half belongs
+to this.",0.08768366277217865,0.07329608500003815,-0.014387577772140503,1
+82,"This is not enough!’ Then the uproar began again, there was a
+roaring and howling, and the other half fell down likewise.",0.033290229737758636,0.11903950572013855,0.08574927598237991,1
+83,"‘Wait,’ said
+he, ‘I will just stoke up the fire a little for you.’ When he had done
+that and looked round again, the two pieces were joined together, and a
+hideous man was sitting in his place.",0.22761304676532745,0.09998699277639389,-0.12762605398893356,1
+84,"‘That is no part of our bargain,’
+said the youth, ‘the bench is mine.’ The man wanted to push him away;
+the youth, however, would not allow that, but thrust him off with all
+his strength, and seated himself again in his own place.",0.08961215615272522,0.05123171955347061,-0.03838043659925461,1
+85,"Then still more
+men fell down, one after the other; they brought nine dead men’s legs
+and two skulls, and set them up and played at nine-pins with them.",0.2676612138748169,0.6497233510017395,0.3820621371269226,1
+86,"The
+youth also wanted to play and said: ‘Listen you, can I join you?’ ‘Yes,
+if you have any money.’ ‘Money enough,’ replied he, ‘but your balls are
+not quite round.’ Then he took the skulls and put them in the lathe and
+turned them till they were round.",0.3165181577205658,0.06980516761541367,-0.24671299010515213,1
+87,"‘There, now they will roll better!’
+said he.",0.0980583131313324,0.11711598187685013,0.01905766874551773,1
+88,‘Hurrah!,0.203337624669075,0.25183674693107605,0.04849912226200104,1
+89,"now we’ll have fun!’ He played with them and lost some
+of his money, but when it struck twelve, everything vanished from his
+sight.",0.2964991331100464,0.1833963841199875,-0.1131027489900589,1
+90,He lay down and quietly fell asleep.,0.20348110795021057,0.257974773645401,0.05449366569519043,1
+91,"Next morning the king came
+to inquire after him.",1.1360043287277222,0.5428996086120605,-0.5931047201156616,1
+92,‘How has it fared with you this time?’ asked he.,0.5605047941207886,0.7559690475463867,0.19546425342559814,1
+93,"‘I have been playing at nine-pins,’ he answered, ‘and have lost a couple
+of farthings.’ ‘Have you not shuddered then?’ ‘What?’ said he, ‘I have
+had a wonderful time!",0.5121991634368896,1.4848358631134033,0.9726366996765137,1
+94,"If I did but know what it was to shudder!’
+
+The third night he sat down again on his bench and said quite sadly:
+‘If I could but shudder.’ When it grew late, six tall men came in and
+brought a coffin.",1.4695401191711426,1.4217472076416016,-0.047792911529541016,1
+95,"Then he said: ‘Ha, ha, that is certainly my little
+cousin, who died only a few days ago,’ and he beckoned with his finger,
+and cried: ‘Come, little cousin, come.’ They placed the coffin on the
+ground, but he went to it and took the lid off, and a dead man lay
+therein.",1.2149784564971924,0.38255366683006287,-0.8324247896671295,1
+96,"He felt his face, but it was cold as ice.",0.8851413726806641,0.8094170689582825,-0.07572430372238159,1
+97,"‘Wait,’ said he, ‘I
+will warm you a little,’ and went to the fire and warmed his hand and
+laid it on the dead man’s face, but he remained cold.",0.19885371625423431,0.2529042959213257,0.05405057966709137,1
+98,"Then he took him
+out, and sat down by the fire and laid him on his breast and rubbed his
+arms that the blood might circulate again.",0.29167383909225464,1.1981290578842163,0.9064552187919617,1
+99,"As this also did no good, he
+thought to himself: ‘When two people lie in bed together, they warm each
+other,’ and carried him to the bed, covered him over and lay down by
+him.",0.3742764890193939,0.2047945261001587,-0.16948196291923523,1
+100,"After a short time the dead man became warm too, and began to move.",0.21615324914455414,0.26315838098526,0.04700513184070587,1
+101,"Then said the youth, ‘See, little cousin, have I not warmed you?’ The
+dead man, however, got up and cried: ‘Now will I strangle you.’
+
+‘What!’ said he, ‘is that the way you thank me?",0.1982022523880005,0.11142570525407791,-0.08677654713392258,1
+102,"You shall at once go
+into your coffin again,’ and he took him up, threw him into it, and shut
+the lid.",0.17085623741149902,0.5568691492080688,0.3860129117965698,1
+103,Then came the six men and carried him away again.,0.680859386920929,0.609006404876709,-0.07185298204421997,1
+104,"‘I cannot
+manage to shudder,’ said he.",0.16785290837287903,0.21827618777751923,0.0504232794046402,1
+105,"‘I shall never learn it here as long as I
+live.’
+
+Then a man entered who was taller than all others, and looked terrible.",0.23611204326152802,0.22203610837459564,-0.014075934886932373,1
+106,"He was old, however, and had a long white beard.",0.4458673298358917,0.36890044808387756,-0.07696688175201416,1
+107,"‘You wretch,’ cried he,
+‘you shall soon learn what it is to shudder, for you shall die.’ ‘Not so
+fast,’ replied the youth.",0.26265716552734375,0.22989939153194427,-0.032757773995399475,1
+108,"‘If I am to die, I shall have to have a say
+in it.’ ‘I will soon seize you,’ said the fiend.",0.28447189927101135,0.658474862575531,0.37400296330451965,1
+109,"‘Softly, softly, do not
+talk so big.",0.20541560649871826,0.15223222970962524,-0.05318337678909302,1
+110,"I am as strong as you are, and perhaps even stronger.’
+‘We shall see,’ said the old man.",0.08998996019363403,0.14269772171974182,0.05270776152610779,1
+111,"‘If you are stronger, I will let you
+go--come, we will try.’ Then he led him by dark passages to a smith’s
+forge, took an axe, and with one blow struck an anvil into the ground.",0.24147801101207733,0.15045125782489777,-0.09102675318717957,1
+112,"‘I can do better than that,’ said the youth, and went to the other
+anvil.",0.14400412142276764,0.18067236244678497,0.036668241024017334,1
+113,"The old man placed himself near and wanted to look on, and his
+white beard hung down.",0.17580749094486237,0.13259483873844147,-0.0432126522064209,1
+114,"Then the youth seized the axe, split the anvil
+with one blow, and in it caught the old man’s beard.",0.11236006766557693,0.13838592171669006,0.02602585405111313,1
+115,"‘Now I have you,’
+said the youth.",0.16615398228168488,0.24134597182273865,0.07519198954105377,1
+116,"‘Now it is your turn to die.’ Then he seized an iron bar
+and beat the old man till he moaned and entreated him to stop, when he
+would give him great riches.",0.12047132104635239,0.11591526865959167,-0.004556052386760712,1
+117,The youth drew out the axe and let him go.,0.1617385447025299,0.14471670985221863,-0.01702183485031128,1
+118,"The old man led him back into the castle, and in a cellar showed him
+three chests full of gold.",0.12737031280994415,0.21794982254505157,0.09057950973510742,1
+119,"‘Of these,’ said he, ‘one part is for the
+poor, the other for the king, the third yours.’ In the meantime it
+struck twelve, and the spirit disappeared, so that the youth stood in
+darkness.",0.19544841349124908,0.13564655184745789,-0.0598018616437912,1
+120,"‘I shall still be able to find my way out,’ said he, and felt
+about, found the way into the room, and slept there by his fire.",0.11930225044488907,0.14378763735294342,0.024485386908054352,1
+121,"Next morning the king came and said: ‘Now you must have learnt what
+shuddering is?’ ‘No,’ he answered; ‘what can it be?",0.39537954330444336,2.3968937397003174,2.001514196395874,1
+122,"My dead cousin was
+here, and a bearded man came and showed me a great deal of money down
+below, but no one told me what it was to shudder.’ ‘Then,’ said the
+king, ‘you have saved the castle, and shall marry my daughter.’ ‘That
+is all very well,’ said he, ‘but still I do not know what it is to
+shudder!’
+
+Then the gold was brought up and the wedding celebrated; but howsoever
+much the young king loved his wife, and however happy he was, he still
+said always: ‘If I could but shudder--if I could but shudder.’ And this
+at last angered her.",1.9510467052459717,0.1562703549861908,-1.7947763502597809,1
+123,"Her waiting-maid said: ‘I will find a cure for him;
+he shall soon learn what it is to shudder.’ She went out to the stream
+which flowed through the garden, and had a whole bucketful of gudgeons
+brought to her.",1.992363452911377,2.2243454456329346,0.23198199272155762,1
+124,"At night when the young king was sleeping, his wife was
+to draw the clothes off him and empty the bucket full of cold water
+with the gudgeons in it over him, so that the little fishes would
+sprawl about him.",2.0182833671569824,2.0196032524108887,0.00131988525390625,1
+125,"Then he woke up and cried: ‘Oh, what makes me shudder
+so?--what makes me shudder so, dear wife?",1.4619752168655396,1.7685660123825073,0.3065907955169678,1
+126,Ah!,0.6014913320541382,0.5769666433334351,-0.024524688720703125,1

@@ -1,0 +1,314 @@
+,sentence,with_sentence,without_sentence,difference,label
+0,"Hard by a great forest dwelt a poor wood-cutter with his wife and his
+two children.",4.106860912524975,4.178878738449051,0.07201782592407646,1
+1,The boy was called Hansel and the girl Gretel.,4.125070600827857,4.1840509273887765,0.05898032656091967,1
+2,"He had
+little to bite and to break, and once when great dearth fell on the
+land, he could no longer procure even daily bread.",4.036225964688155,4.175256117334905,0.13903015264675034,1
+3,"Now when he thought
+over this by night in his bed, and tossed about in his anxiety, he
+groaned and said to his wife: ‘What is to become of us?",3.9377762643914473,4.093232807360198,0.15545654296875044,1
+4,"How are we
+to feed our poor children, when we no longer have anything even for
+ourselves?’ ‘I’ll tell you what, husband,’ answered the woman, ‘early
+tomorrow morning we will take the children out into the forest to where
+it is the thickest; there we will light a fire for them, and give each
+of them one more piece of bread, and then we will go to our work and
+leave them alone.",3.6304801391904467,4.069886919878257,0.4394067806878099,1
+5,"They will not find the way home again, and we shall be
+rid of them.’ ‘No, wife,’ said the man, ‘I will not do that; how can I
+bear to leave my children alone in the forest?--the wild animals would
+soon come and tear them to pieces.’ ‘O, you fool!’ said she, ‘then we
+must all four die of hunger, you may as well plane the planks for our
+coffins,’ and she left him no peace until he consented.",3.4880251912675666,4.095265044263129,0.607239852995562,1
+6,"‘But I feel very
+sorry for the poor children, all the same,’ said the man.",3.9556839693509613,4.036052809495192,0.08036884014423107,1
+7,"The two children had also not been able to sleep for hunger, and had
+heard what their stepmother had said to their father.",3.8976493079822285,4.020925113568291,0.12327580558606233,1
+8,"Gretel wept
+bitter tears, and said to Hansel: ‘Now all is over with us.’ ‘Be quiet,
+Gretel,’ said Hansel, ‘do not distress yourself, I will soon find a way
+to help us.’ And when the old folks had fallen asleep, he got up, put
+on his little coat, opened the door below, and crept outside.",3.47135700729658,3.9829124594634435,0.5115554521668635,1
+9,"The moon
+shone brightly, and the white pebbles which lay in front of the house
+glittered like real silver pennies.",3.86231591796875,4.0632646484375,0.20094873046875028,1
+10,"Hansel stooped and stuffed the
+little pocket of his coat with as many as he could get in.",3.914141760082665,4.022754248731839,0.1086124886491735,1
+11,"Then he went
+back and said to Gretel: ‘Be comforted, dear little sister, and sleep in
+peace, God will not forsake us,’ and he lay down again in his bed.",3.679434531976369,3.9686594561111828,0.28922492413481393,1
+12,"When
+day dawned, but before the sun had risen, the woman came and awoke the
+two children, saying: ‘Get up, you sluggards!",3.8367437087981746,4.014109892003677,0.17736618320550201,1
+13,"we are going into the
+forest to fetch wood.’ She gave each a little piece of bread, and said:
+‘There is something for your dinner, but do not eat it up before then,
+for you will get nothing else.’ Gretel took the bread under her apron,
+as Hansel had the pebbles in his pocket.",3.5616387405883527,4.096221598480811,0.5345828578924579,1
+14,"Then they all set out together
+on the way to the forest.",4.08300488866018,4.133013270334331,0.050008381674151,1
+15,"When they had walked a short time, Hansel
+stood still and peeped back at the house, and did so again and again.",3.9601121074021464,4.133345170454546,0.1732330630523995,1
+16,"His father said: ‘Hansel, what are you looking at there and staying
+behind for?",4.18565417874244,4.297625141759073,0.11197096301663301,1
+17,"Pay attention, and do not forget how to use your legs.’ ‘Ah,
+father,’ said Hansel, ‘I am looking at my little white cat, which is
+sitting up on the roof, and wants to say goodbye to me.’ The wife said:
+‘Fool, that is not your little cat, that is the morning sun which is
+shining on the chimneys.’ Hansel, however, had not been looking back at
+the cat, but had been constantly throwing one of the white pebble-stones
+out of his pocket on the road.",3.270532061230248,4.180952291725451,0.9104202304952032,1
+18,"When they had reached the middle of the forest, the father said: ‘Now,
+children, pile up some wood, and I will light a fire that you may not
+be cold.’ Hansel and Gretel gathered brushwood together, as high as a
+little hill.",3.7288136201746322,4.1618070201713495,0.43299339999671727,1
+19,"The brushwood was lighted, and when the flames were burning
+very high, the woman said: ‘Now, children, lay yourselves down by the
+fire and rest, we will go into the forest and cut some wood.",3.9632855135784824,4.245285700363826,0.2820001867853432,1
+20,"When we
+have done, we will come back and fetch you away.’
+
+Hansel and Gretel sat by the fire, and when noon came, each ate a little
+piece of bread, and as they heard the strokes of the wood-axe they
+believed that their father was near.",3.874382164211152,4.331504257234408,0.4571220930232558,1
+21,"It was not the axe, however, but
+a branch which he had fastened to a withered tree which the wind was
+blowing backwards and forwards.",4.022180646234787,4.227985745753043,0.20580509951825565,1
+22,"And as they had been sitting such a long
+time, their eyes closed with fatigue, and they fell fast asleep.",3.9693147590361444,4.110710419804217,0.14139566076807286,1
+23,"When
+at last they awoke, it was already dark night.",4.114636351330446,4.1795927444306935,0.06495639310024792,1
+24,"Gretel began to cry and
+said: ‘How are we to get out of the forest now?’ But Hansel comforted
+her and said: ‘Just wait a little, until the moon has risen, and then we
+will soon find the way.’ And when the full moon had risen, Hansel took
+his little sister by the hand, and followed the pebbles which shone like
+newly-coined silver pieces, and showed them the way.",3.497882859822412,4.143629973155286,0.6457471133328738,1
+25,"They walked the whole night long, and by break of day came once more
+to their father’s house.",4.15771043157003,4.3048120215235945,0.14710158995356437,1
+26,"They knocked at the door, and when the woman
+opened it and saw that it was Hansel and Gretel, she said: ‘You naughty
+children, why have you slept so long in the forest?--we thought you were
+never coming back at all!’ The father, however, rejoiced, for it had cut
+him to the heart to leave them behind alone.",3.755378918770032,4.261042407435229,0.5056634886651974,1
+27,"Not long afterwards, there was once more great dearth throughout the
+land, and the children heard their mother saying at night to their
+father: ‘Everything is eaten again, we have one half loaf left, and that
+is the end.",3.9432775726951506,4.327912263355809,0.38463469066065814,1
+28,"The children must go, we will take them farther into the
+wood, so that they will not find their way out again; there is no other
+means of saving ourselves!’ The man’s heart was heavy, and he thought:
+‘It would be better for you to share the last mouthful with your
+children.’ The woman, however, would listen to nothing that he had to
+say, but scolded and reproached him.",3.5888911751159935,4.2504994754707965,0.661608300354803,1
+29,"He who says A must say B, likewise,
+and as he had yielded the first time, he had to do so a second time
+also.",3.938472608805668,4.193622295673077,0.2551496868674086,1
+30,"The children, however, were still awake and had heard the conversation.",4.100303604579208,4.146875483446782,0.046571878867573524,1
+31,"When the old folks were asleep, Hansel again got up, and wanted to go
+out and pick up pebbles as he had done before, but the woman had locked
+the door, and Hansel could not get out.",3.910347712979772,4.198403259530601,0.28805554655082943,1
+32,"Nevertheless he comforted his
+little sister, and said: ‘Do not cry, Gretel, go to sleep quietly, the
+good God will help us.’
+
+Early in the morning came the woman, and took the children out of their
+beds.",3.8847818672037424,4.157917871296777,0.27313600409303485,1
+33,"Their piece of bread was given to them, but it was still smaller
+than the time before.",3.9779428524270624,4.082659531407193,0.10471667898013104,1
+34,"On the way into the forest Hansel crumbled his
+in his pocket, and often stood still and threw a morsel on the ground.",3.9351987393826064,4.1367291494992395,0.20153041011663309,1
+35,"‘Hansel, why do you stop and look round?’ said the father, ‘go on.’ ‘I
+am looking back at my little pigeon which is sitting on the roof, and
+wants to say goodbye to me,’ answered Hansel.",3.655811668188935,4.089046597729645,0.43323492954070986,1
+36,"‘Fool!’ said the woman,
+‘that is not your little pigeon, that is the morning sun that is shining
+on the chimney.’ Hansel, however little by little, threw all the crumbs
+on the path.",3.7786359767242494,4.161035762810559,0.3823997860863093,1
+37,"The woman led the children still deeper into the forest, where they had
+never in their lives been before.",3.9587045064786586,4.074670807132876,0.11596630065421776,1
+38,"Then a great fire was again made, and
+the mother said: ‘Just sit there, you children, and when you are tired
+you may sleep a little; we are going into the forest to cut wood, and in
+the evening when we are done, we will come and fetch you away.’ When
+it was noon, Gretel shared her piece of bread with Hansel, who had
+scattered his by the way.",3.501204250169837,4.127450163468071,0.6262459132982339,1
+39,"Then they fell asleep and evening passed, but
+no one came to the poor children.",4.158248136898798,4.259887939942384,0.10163980304358677,1
+40,"They did not awake until it was dark
+night, and Hansel comforted his little sister and said: ‘Just wait,
+Gretel, until the moon rises, and then we shall see the crumbs of bread
+which I have strewn about, they will show us our way home again.’ When
+the moon came they set out, but they found no crumbs, for the many
+thousands of birds which fly about in the woods and fields had picked
+them all up.",3.464411685341283,4.159899795264528,0.6954881099232453,1
+41,"Hansel said to Gretel: ‘We shall soon find the way,’ but
+they did not find it.",4.318989000822368,4.4192141637145745,0.1002251628922064,1
+42,"They walked the whole night and all the next day
+too from morning till evening, but they did not get out of the forest,
+and were very hungry, for they had nothing to eat but two or three
+berries, which grew on the ground.",4.281180758436187,4.5583219127494745,0.2771411543132878,1
+43,"And as they were so weary that their
+legs would carry them no longer, they lay down beneath a tree and fell
+asleep.",4.453488991477273,4.654361979166667,0.20087298768939377,1
+44,It was now three mornings since they had left their father’s house.,4.513160296036283,4.598589129286779,0.08542883325049644,1
+45,"They
+began to walk again, but they always came deeper into the forest, and if
+help did not come soon, they must die of hunger and weariness.",4.41624578620271,4.649063079147495,0.2328172929447847,1
+46,"When it
+was mid-day, they saw a beautiful snow-white bird sitting on a bough,
+which sang so delightfully that they stood still and listened to it.",4.451251929257892,4.662130755950866,0.21087882669297375,1
+47,"And
+when its song was over, it spread its wings and flew away before them,
+and they followed it until they reached a little house, on the roof of
+which it alighted; and when they approached the little house they saw
+that it was built of bread and covered with cakes, but that the windows
+were of clear sugar.",4.237891201297613,4.737706000201181,0.49981479890356795,1
+48,"‘We will set to work on that,’ said Hansel, ‘and
+have a good meal.",4.627660634566326,4.74326321348852,0.11560257892219372,1
+49,"I will eat a bit of the roof, and you Gretel, can eat
+some of the window, it will taste sweet.’ Hansel reached up above, and
+broke off a little of the roof to try how it tasted, and Gretel leant
+against the window and nibbled at the panes.",4.2568959468553045,4.752212652639181,0.49531670578387654,1
+50,"Then a soft voice cried
+from the parlour:
+
+ ‘Nibble, nibble, gnaw,
+  Who is nibbling at my little house?’
+
+The children answered:
+
+ ‘The wind, the wind,
+  The heaven-born wind,’
+
+and went on eating without disturbing themselves.",4.3284674310064934,4.8726806640625,0.5442132330560066,1
+51,"Hansel, who liked the
+taste of the roof, tore down a great piece of it, and Gretel pushed out
+the whole of one round window-pane, sat down, and enjoyed herself with
+it.",4.1332118658371915,4.441553940007716,0.3083420741705245,1
+52,"Suddenly the door opened, and a woman as old as the hills, who
+supported herself on crutches, came creeping out.",4.322151692708333,4.47682982165404,0.1546781289457071,1
+53,"Hansel and Gretel were
+so terribly frightened that they let fall what they had in their
+hands.",4.374008550876525,4.536898977388211,0.1628904265116864,1
+54,"The old woman, however, nodded her head, and said: ‘Oh, you dear
+children, who has brought you here?",4.235978993859311,4.373596944926698,0.13761795106738717,1
+55,"do come in, and stay with me.",4.44512168868988,4.49790890374499,0.05278721505511008,1
+56,"No
+harm shall happen to you.’ She took them both by the hand, and led them
+into her little house.",4.3263691804846935,4.471074816645408,0.1447056361607144,1
+57,"Then good food was set before them, milk and
+pancakes, with sugar, apples, and nuts.",4.327880859375,4.475517677774235,0.14763681839923493,1
+58,"Afterwards two pretty little
+beds were covered with clean white linen, and Hansel and Gretel lay down
+in them, and thought they were in heaven.",4.191017150878906,4.3981786092122395,0.20716145833333321,1
+59,"The old woman had only pretended to be so kind; she was in reality
+a wicked witch, who lay in wait for children, and had only built the
+little house of bread in order to entice them there.",4.149211370179866,4.45462825925207,0.30541688907220443,1
+60,"When a child fell
+into her power, she killed it, cooked and ate it, and that was a feast
+day with her.",4.269888600995464,4.471251456968246,0.20136285597278203,1
+61,"Witches have red eyes, and cannot see far, but they have
+a keen scent like the beasts, and are aware when human beings draw near.",4.167072556774069,4.424037388392857,0.256964831618788,1
+62,"When Hansel and Gretel came into her neighbourhood, she laughed with
+malice, and said mockingly: ‘I have them, they shall not escape me
+again!’ Early in the morning before the children were awake, she was
+already up, and when she saw both of them sleeping and looking so
+pretty, with their plump and rosy cheeks she muttered to herself: ‘That
+will be a dainty mouthful!’ Then she seized Hansel with her shrivelled
+hand, carried him into a little stable, and locked him in behind a
+grated door.",3.348642094344038,4.345823507704493,0.9971814133604551,1
+63,"Scream as he might, it would not help him.",4.211513285117574,4.280370610303218,0.06885732518564414,1
+64,"Then she went to
+Gretel, shook her till she awoke, and cried: ‘Get up, lazy thing, fetch
+some water, and cook something good for your brother, he is in the
+stable outside, and is to be made fat.",4.0725702942654305,4.442827533389523,0.3702572391240926,1
+65,"When he is fat, I will eat him.’
+Gretel began to weep bitterly, but it was all in vain, for she was
+forced to do what the wicked witch commanded.",4.193321386313538,4.402753521297977,0.20943213498443924,1
+66,"And now the best food was cooked for poor Hansel, but Gretel got nothing
+but crab-shells.",4.165500817404427,4.358568402603119,0.19306758519869227,1
+67,"Every morning the woman crept to the little stable, and
+cried: ‘Hansel, stretch out your finger that I may feel if you will soon
+be fat.’ Hansel, however, stretched out a little bone to her, and
+the old woman, who had dim eyes, could not see it, and thought it was
+Hansel’s finger, and was astonished that there was no way of fattening
+him.",3.663165203936688,4.3558331113873106,0.6926679074506223,1
+68,"When four weeks had gone by, and Hansel still remained thin, she
+was seized with impatience and would not wait any longer.",4.03272234807249,4.212357818103228,0.1796354700307381,1
+69,"‘Now, then,
+Gretel,’ she cried to the girl, ‘stir yourself, and bring some water.",4.0422455269061865,4.204411834903259,0.16216630799707232,1
+70,"Let Hansel be fat or lean, tomorrow I will kill him, and cook him.’ Ah,
+how the poor little sister did lament when she had to fetch the water,
+and how her tears did flow down her cheeks!",3.822309366861979,4.197721862792969,0.3754124959309899,1
+71,"‘Dear God, do help us,’ she
+cried.",4.1102221089024695,4.217664164881552,0.10744205597908252,1
+72,"‘If the wild beasts in the forest had but devoured us, we should
+at any rate have died together.’ ‘Just keep your noise to yourself,’
+said the old woman, ‘it won’t help you at all.’
+
+Early in the morning, Gretel had to go out and hang up the cauldron with
+the water, and light the fire.",3.5816962911993984,4.165306709005744,0.5836104178063457,1
+73,"‘We will bake first,’ said the old woman,
+‘I have already heated the oven, and kneaded the dough.’ She pushed poor
+Gretel out to the oven, from which flames of fire were already darting.",3.853253532858456,4.1930531734178045,0.3397996405593484,1
+74,"‘Creep in,’ said the witch, ‘and see if it is properly heated, so that
+we can put the bread in.’ And once Gretel was inside, she intended to
+shut the oven and let her bake in it, and then she would eat her, too.",3.7431281594669117,4.169528480337448,0.42640032087053603,1
+75,"But Gretel saw what she had in mind, and said: ‘I do not know how I am
+to do it; how do I get in?’ ‘Silly goose,’ said the old woman.",4.217804647229381,4.440195614529639,0.22239096730025754,1
+76,"‘The door
+is big enough; just look, I can get in myself!’ and she crept up and
+thrust her head into the oven.",4.220366742331879,4.433722086755647,0.2133553444237677,1
+77,"Then Gretel gave her a push that drove
+her far into it, and shut the iron door, and fastened the bolt.",4.35627590880102,4.5047677176339285,0.14849180883290813,1
+78,Oh!,4.577568955308809,4.578262449249508,0.0006934939406990637,1
+79,"then
+she began to howl quite horribly, but Gretel ran away and the godless
+witch was miserably burnt to death.",4.34027349753458,4.520264672451332,0.17999117491675243,1
+80,"Gretel, however, ran like lightning to Hansel, opened his little stable,
+and cried: ‘Hansel, we are saved!",4.186673677884615,4.387928580465587,0.20125490258097223,1
+81,"The old witch is dead!’ Then Hansel
+sprang like a bird from its cage when the door is opened.",4.267432637117347,4.421796277104592,0.15436363998724545,1
+82,"How they did
+rejoice and embrace each other, and dance about and kiss each other!",4.32625441541497,4.440747915605907,0.11449350019093707,1
+83,"And
+as they had no longer any need to fear her, they went into the witch’s
+house, and in every corner there stood chests full of pearls and jewels.",4.19797857553681,4.453536893692485,0.25555831815567487,1
+84,"‘These are far better than pebbles!’ said Hansel, and thrust into his
+pockets whatever could be got in, and Gretel said: ‘I, too, will take
+something home with me,’ and filled her pinafore full.",3.9985051343169955,4.452265126522621,0.4537599922056259,1
+85,"‘But now we must
+be off,’ said Hansel, ‘that we may get out of the witch’s forest.’
+
+When they had walked for two hours, they came to a great stretch of
+water.",4.109684464738176,4.456343367293075,0.34665890255489895,1
+86,"‘We cannot cross,’ said Hansel, ‘I see no foot-plank, and no
+bridge.’ ‘And there is also no ferry,’ answered Gretel, ‘but a white
+duck is swimming there: if I ask her, she will help us over.’ Then she
+cried:
+
+ ‘Little duck, little duck, dost thou see,
+  Hansel and Gretel are waiting for thee?",3.2248117172300583,4.626265351410506,1.4014536341804478,1
+87,"There’s never a plank, or bridge in sight,
+  Take us across on thy back so white.’
+
+The duck came to them, and Hansel seated himself on its back, and told
+his sister to sit by him.",3.573671219988567,4.612196908346037,1.0385256883574696,1
+88,"‘No,’ replied Gretel, ‘that will be too heavy
+for the little duck; she shall take us across, one after the other.’ The
+good little duck did so, and when they were once safely across and had
+walked for a short time, the forest seemed to be more and more familiar
+to them, and at length they saw from afar their father’s house.",1.7682722611860795,4.1891776344992895,2.42090537331321,1
+89,"Then
+they began to run, rushed into the parlour, and threw themselves round
+their father’s neck.",3.695549217430321,4.6311311464051945,0.9355819289748735,1
+90,"The man had not known one happy hour since he had
+left the children in the forest; the woman, however, was dead.",2.556400962497877,4.650956527046535,2.094555564548658,1
+91,"Gretel
+emptied her pinafore until pearls and precious stones ran about the
+room, and Hansel threw one handful after another out of his pocket to
+add to them.",4.814564598931207,4.819655524359809,0.005090925428602233,1
+92,"Then all anxiety was at an end, and they lived together
+in perfect happiness.",1.904847886827257,4.841908772786458,2.937060885959201,1

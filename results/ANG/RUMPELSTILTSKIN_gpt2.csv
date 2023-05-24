@@ -1,0 +1,118 @@
+,sentence,with_sentence,without_sentence,difference,label
+0,"By the side of a wood, in a country a long way off, ran a fine stream
+of water; and upon the stream there stood a mill.",4.038699266387195,4.121588482120173,0.08288921573297792,1
+1,"The miller’s house was
+close by, and the miller, you must know, had a very beautiful daughter.",3.9997358352227916,4.1127947657893005,0.11305893056650884,1
+2,"She was, moreover, very shrewd and clever; and the miller was so proud
+of her, that he one day told the king of the land, who used to come and
+hunt in the wood, that his daughter could spin gold out of straw.",3.9646563482018156,4.148328386871508,0.18367203866969284,1
+3,"Now
+this king was very fond of money; and when he heard the miller’s boast
+his greediness was raised, and he sent for the girl to be brought before
+him.",3.953807662581943,4.079605557210965,0.12579789462902236,1
+4,"Then he led her to a chamber in his palace where there was a great
+heap of straw, and gave her a spinning-wheel, and said, ‘All this must
+be spun into gold before morning, as you love your life.’ It was in vain
+that the poor maiden said that it was only a silly boast of her father,
+for that she could do no such thing as spin straw into gold: the chamber
+door was locked, and she was left alone.",3.632890962192895,4.0562804122053455,0.42338945001245065,1
+5,"She sat down in one corner of the room, and began to bewail her hard
+fate; when on a sudden the door opened, and a droll-looking little man
+hobbled in, and said, ‘Good morrow to you, my good lass; what are you
+weeping for?’ ‘Alas!’ said she, ‘I must spin this straw into gold, and
+I know not how.’ ‘What will you give me,’ said the hobgoblin, ‘to do it
+for you?’ ‘My necklace,’ replied the maiden.",3.3638354168822433,4.056048058516143,0.6922126416338994,1
+6,"He took her at her word,
+and sat himself down to the wheel, and whistled and sang:
+
+ ‘Round about, round about,
+    Lo and behold!",3.96719483316163,4.220282809638278,0.25308797647664827,1
+7,"Reel away, reel away,
+    Straw into gold!’
+
+And round about the wheel went merrily; the work was quickly done, and
+the straw was all spun into gold.",3.9302978515625,4.258157798493526,0.32785994693102616,1
+8,"When the king came and saw this, he was greatly astonished and pleased;
+but his heart grew still more greedy of gain, and he shut up the poor
+miller’s daughter again with a fresh task.",3.76602160188667,4.109098948878372,0.34307734699170167,1
+9,"Then she knew not what to do,
+and sat down once more to weep; but the dwarf soon opened the door, and
+said, ‘What will you give me to do your task?’ ‘The ring on my finger,’
+said she.",3.599269001839228,3.881352929265659,0.28208392742643085,1
+10,"So her little friend took the ring, and began to work at the
+wheel again, and whistled and sang:
+
+ ‘Round about, round about,
+    Lo and behold!",3.969264538937357,4.1149296182244,0.14566507928704286,1
+11,"Reel away, reel away,
+    Straw into gold!’
+
+till, long before morning, all was done again.",4.058411900398663,4.151051462432484,0.0926395620338214,1
+12,"The king was greatly delighted to see all this glittering treasure;
+but still he had not enough: so he took the miller’s daughter to a yet
+larger heap, and said, ‘All this must be spun tonight; and if it is,
+you shall be my queen.’ As soon as she was alone that dwarf came in, and
+said, ‘What will you give me to spin gold for you this third time?’
+‘I have nothing left,’ said she.",3.538797834278208,4.245672985515763,0.7068751512375551,1
+13,"‘Then say you will give me,’ said
+the little man, ‘the first little child that you may have when you are
+queen.’ ‘That may never be,’ thought the miller’s daughter: and as she
+knew no other way to get her task done, she said she would do what he
+asked.",4.040372703701193,4.616711399301789,0.5763386956005965,1
+14,"Round went the wheel again to the old song, and the manikin once
+more spun the heap into gold.",4.435085066829819,4.634582764652359,0.19949769782254023,1
+15,"The king came in the morning, and, finding
+all he wanted, was forced to keep his word; so he married the miller’s
+daughter, and she really became queen.",4.123283059922352,4.384840209712322,0.2615571497899696,1
+16,"At the birth of her first little child she was very glad, and forgot the
+dwarf, and what she had said.",4.258632367688923,4.406234835986025,0.14760246829710155,1
+17,"But one day he came into her room, where
+she was sitting playing with her baby, and put her in mind of it.",4.370528202266484,4.505337826236263,0.13480962396977958,1
+18,"Then
+she grieved sorely at her misfortune, and said she would give him all
+the wealth of the kingdom if he would let her off, but in vain; till at
+last her tears softened him, and he said, ‘I will give you three days’
+grace, and if during that time you tell me my name, you shall keep your
+child.’
+
+Now the queen lay awake all night, thinking of all the odd names that
+she had ever heard; and she sent messengers all over the land to find
+out new ones.",3.667113971933548,4.52874970268589,0.8616357307523423,1
+19,"The next day the little man came, and she began with
+TIMOTHY, ICHABOD, BENJAMIN, JEREMIAH, and all the names she could
+remember; but to all and each of them he said, ‘Madam, that is not my
+name.’
+
+The second day she began with all the comical names she could hear of,
+BANDY-LEGS, HUNCHBACK, CROOK-SHANKS, and so on; but the little gentleman
+still said to every one of them, ‘Madam, that is not my name.’
+
+The third day one of the messengers came back, and said, ‘I have
+travelled two days without hearing of any other names; but yesterday, as
+I was climbing a high hill, among the trees of the forest where the fox
+and the hare bid each other good night, I saw a little hut; and before
+the hut burnt a fire; and round about the fire a funny little dwarf was
+dancing upon one leg, and singing:
+
+ “Merrily the feast I’ll make.",1.9239190632864933,4.5697582680106965,2.6458392047242034,1
+20,"Today I’ll brew, tomorrow bake;
+  Merrily I’ll dance and sing,
+  For next day will a stranger bring.",3.7869659908234126,4.365338037884425,0.5783720470610123,1
+21,"Little does my lady dream
+  Rumpelstiltskin is my name!”
+
+When the queen heard this she jumped for joy, and as soon as her little
+friend came she sat down upon her throne, and called all her court round
+to enjoy the fun; and the nurse stood by her side with the baby in her
+arms, as if it was quite ready to be given up.",2.541587532340706,4.507187087814529,1.965599555473823,1
+22,"Then the little man began
+to chuckle at the thought of having the poor child, to take home with
+him to his hut in the woods; and he cried out, ‘Now, lady, what is my
+name?’ ‘Is it JOHN?’ asked she.",2.8500689041516014,4.323239160963326,1.4731702568117249,1
+23,"‘No, madam!’ ‘Is it TOM?’ ‘No, madam!’
+‘Is it JEMMY?’ ‘It is not.’ ‘Can your name be ?’ said the
+lady slyly.",4.586466822130927,4.878281165813577,0.2918143436826508,1
+24,"‘Some witch told you that!--some witch told you that!’ cried
+the little man, and dashed his right foot in a rage so deep into the
+floor, that he was forced to lay hold of it with both hands to pull it
+out.",1.5156423634496228,4.739290960903825,3.2236485974542024,1

@@ -1,0 +1,70 @@
+,sentence,with_sentence,without_sentence,difference,label
+0,"Bil je reven mož, ki je imel štiri sinove.",49.819568821269215,49.717634481903815,-0.10193433936539975,1
+1,"Ko so odrasli, jim je dejal: »Ljubi moji sinovi, po svetu morate, jaz nimam ničesar, kar bi vam dal.",50.66572330035515,50.245972856418064,-0.41975044393708316,1
+2,"Pripravite se in pojdite na tuje, izučite se kakšnega rokodelstva in glejte, kako se boste prebili.« Bratje so vzeli popotne palice v roke, se poslovili od svojega očeta ter odšli skozi mestna vrata.",50.63354998703319,50.01027619294606,-0.6232737940871331,1
+3,"Ko so nekaj časa romali, so prišli do križišča, ki je držalo na štiri različne strani.",49.35896642234548,49.35297395007924,-0.0059924722662429986,1
+4,"»Tukaj se moramo ločiti,« je rekel najstarejši, »a čez štiri leta obsorej se spet dobimo.",50.44072354355959,50.36200561197221,-0.07871793158738427,1
+5,Medtem pa poskusimo svojo srečo.« Tako so ubrali vsak svojo pot.,50.70281216179654,50.7364126758658,0.033600514069263454,1
+6,"Pa je srečal najstarejšega brata človek, ki ga je vprašal, kam hoče in kaj namerava.",50.70396083515284,50.45925730076419,-0.24470353438864834,1
+7,"»Rokodelstva se grem učit,« je rekel on.",50.42459988962472,50.39983874862031,-0.024761141004411513,1
+8,»Pojdi z menoj in postani tat!« je rekel človek.,50.66667536171397,50.682039510294935,0.015364148580964354,1
+9,"»Ne,« je odgovoril brat, »to ni pošteno rokodelstvo.",50.792918304323415,50.64996841661988,-0.14294988770353712,1
+10,"In konec pesmice je zmerom ta, da uporabijo nazadnje človeka kje pod milim nebom za kembelj pri zvonu.« »Kaj še,« je rekel človek, »vislic se ti ni treba bati.",50.36174752124646,50.60382436260623,0.24207684135977559,1
+11,"Jaz te naučim samo, da dobiš v roke to, česar noben človek ne more dobiti in da ti nihče ne pride na sled.« Dal se je pregovoriti, se izučil za tatu in je postal tako spreten, da ni bilo nič varno pred njim, kar je hotel dobiti.",50.104526503871355,50.086947215604525,-0.017579288266830417,1
+12,"Tudi drugi brat je srečal človeka, ki ga je vprašal, kaj se gre učit.",50.5050324185766,50.51890455367913,0.013872135102531047,1
+13,"»Saj še sam ne vem,« je rekel ta.",50.2954723967684,50.277589205565526,-0.017883191202876958,1
+14,»Pa pojdi z menoj in postani zvezdogledec.,50.751605824291744,50.35131291440627,-0.40029290988547217,1
+15,Nič ni boljšega kakor to.,49.83338240881459,49.78641717325228,-0.046965235562311136,1
+16,"Človeku ne ostane nič skritega na svetu.« Temu je bilo to všeč in postal je tako spreten zvezdogledec, da mu je njegov mojster, ko se je izučil in hotel iti dalje, dal daljnogled ter mu rekel: »S tem zagledaš vse, kar se godi na zemlji in na nebu in ti ne more ostati nič skritega.« Tretjega brata je vzel neki lovec v uk in ga tako dobro izučil v vsem, kar spada k lovu, da je postal res dober.",50.685576140065145,50.40068200325733,-0.2848941368078144,1
+17,"Pri slovesu mu je mojster podaril puško in dejal: »Ta ne zgreši nikdar, karkoli vzameš na muho, zanesljivo zadeneš z njo.« Tudi najmlajši brat je srečal človeka, ki ga je nagovoril in vprašal, kaj namerava.",49.480537096231494,49.90790608176312,0.42736898553162916,1
+18,»Te ne bi mikalo postati krojač?« ga je vprašal.,50.619673050379575,50.81999978433402,0.2003267339544479,1
+19,"»Ne mika me,« je odgovoril najmlajši.",50.30935366894198,50.329202218430034,0.019848549488052925,1
+20,"»Tisto posedanje s krivim hrbtom od jutra do večera, pa tisto šviganje s šivanko, pa tisti likalnik mi še na misel ne pridejo.« »Eh, kaj,« je rekel človek, »govoriš pač, kakor veš.",50.43912020596591,50.47738924893466,0.03826904296875,1
+21,"Pri meni bi se izučil čisto drugačne krojaške umetnosti, ki je dostojna in velika in celo zelo častivredna.« Tako se je dal pregovoriti, šel je z njim in se korenito izučil krojaške umetnosti.",51.003363875553916,51.05303729689808,0.04967342134416697,1
+22,"Pri slovesu mu je dal mojster šivanko in rekel: »S to šivanko lahko sešiješ, karkoli ti pride pod roko, pa če je tako mehko kakor jajce ali pa tako trdo kakor jeklo.",50.128660070235384,50.35651575550494,0.22785568526955302,1
+23,"In sešito bo kakor en kos, niti šiva ne bo videti.« Ko so minila dogovorjena štiri leta, so se bratje sešli na križišču, kot so se bili zmenili, se prisrčno pozdravili in odšli domov k očetu.",50.65273841487669,50.56032778937948,-0.0924106254972088,1
+24,"»No,« je veselo rekel oče, »vas je spet prinesel veter k meni.« Povedali so mu, kako se jim je godilo in da se je vsakdo izučil svojega rokodelstva.",50.397841468416736,50.44634433962264,0.048502871205904796,1
+25,"Sedeli pa so ravno pred hišo pod 
+
+visokim drevesom, zato je oče dejal: »Rad bi vas preskusil in videl, kaj znate.« Ozrl se je kvišku in rekel drugemu sinu: »Tamle na vrhu drevesa je med dvema vejama ščinkavčevo gnezdo, povej mi, koliko jajc je v njem?« Zvezdogledec je vzel daljnogled, pogledal tja gor in rekel: »Pet jih je.« Oče je rekel najstarejšemu: »Splezaj in prinesi jajčka, a tako, da ščinkavca, ki sedi na njih in vali, ne boš zmotil pri tem.« Zvedeni tat je splezal na drevo in ptiču, ki ni niti opazil in je mirno sedel dalje, vzel pet jajčk ter jih prinesel očetu.",48.669856207973105,50.56214727425552,1.892291066282418,1
+26,"Oče jih je vzel, jih položil na mizo, vsakega v en kot in petega v sredo ter velel lovcu: »Prestreli vseh pet jajčk z enim strelom ravno po sredini.« Lovec je naravnal puško ter prestrelil vseh pet jajčk, kakor je ukazal oče, in sicer z enim samim strelom.",52.16230125387797,52.46481547311272,0.30251421923475164,1
+27,"Gotovo je imel smodnik, ki strelja okrog vogala.",50.13540054179567,50.27477586429308,0.1393753224974148,1
+28,"»Zdaj pride vrsta nate,« je rekel oče četrtemu sinu: »Sešij jajčka nazaj, pa tudi mladiče, ki so v njih, in sicer tako, da se jim strel ne bo poznal.« Krojač je storil, kakor je zahteval oče.",50.51546617445055,50.335585508241756,-0.1798806662087955,1
+29,"Ko je končal, je moral tat odnesti jajčka spet nazaj na drevo v gnezdo in jih podložiti ščinkavki tako, da ne bi ničesar zapazila.",49.60850294879172,50.192399669159954,0.5838967203682373,1
+30,"Ščinkavka jih je zvalila in čez nekaj dni so prilezli mladički iz lupin in imeli tam, kjer jih je krojač šival, rdečo progo okrog vratu.",49.79634915865385,51.27678504356971,1.4804358849158632,1
+31,"»Res,« je dejal oče.",51.59146503337379,51.32565515018204,-0.2658098831917499,1
+32,"»Reči moram, da niste od muh.",50.30047487745098,50.151051240808826,-0.14942363664215463,1
+33,Dobro ste porabili svoj čas in se nekaj poštenega izučili.,49.83516013681592,49.86855760261194,0.03339746579602121,1
+34,"Sam ne vem, komu bi dal prednost.",50.170129549050635,50.03545292721519,-0.13467662183544604,1
+35,"Ko bi le kmalu našli pravo priložnost pokazati svojo umetnost, tedaj bi se ižkazalo.« 
+
+Kmalu zatem je nastala v deželi velika zmeda.",50.10696753843583,50.3767024565508,0.2697349181149704,1
+36,Kraljevo hčerko je ugrabil zmaj!,50.17111559587217,50.20278690912117,0.03167131324899941,1
+37,Kralj je bil zaradi tega noč in dan v skrbeh.,50.10189988191633,49.947052125506076,-0.1548477564102555,1
+38,"Razglasiti je dal, da jo bo tistemu, ki jo privede nazaj, dal za ženo.",50.35030912769784,50.0349595323741,-0.3153495953237382,1
+39,"Bratje so stopili in se posvetovali: »To je priložnost, ko se lahko izkažemo.« Namenili so oditi skupaj in osvoboditi kraljično.",50.05168536721068,50.22657988686944,0.17489451965875702,1
+40,"»Kje je, bom kmalu zvedel,« je rekel zvezdogledec.",50.40642672581903,50.17979109789392,-0.22663562792511271,1
+41,"Vzel je svoj daljnogled, pogledal in dejal: »Jo že vidim.",49.17764673477564,49.308409079527245,0.1307623447516022,1
+42,"Daleč tam zunaj sedi na skali v morju in zraven nje je zmaj, ki.",50.473518585255356,50.58266834843493,0.10914976317957326,1
+43,jo straži.« Nato je šel h kralju ter prosil ladjo zase in za svoje brate.,50.16286467206133,50.31085298658433,0.14798831452299765,1
+44,"Odpeljali so se skupaj na morje do skale, kjer je sedela kraljična.",50.19058497128975,50.2988074204947,0.10822244920494484,1
+45,Zmaj pa je ležal v njenem naročju in spal.,50.04688569229015,50.12817917427007,0.0812934819799267,1
+46,"»Streljati ne smem,« je rekel lovec, »ker bi z zmajem vred ustrelil tudi zalo deklico.« »Torej poskusim jaz svojo umetnost,« je dejal tat.",49.92188232879925,50.15741527908067,0.2355329502814243,1
+47,"Splazil se je k skali in jo ugrabil zmaju tako tiho in ročno, da ta ni nič opazil in je še naprej smrčal kakor prej.",50.20229928861789,50.34142371697155,0.1391244283536608,1
+48,Bratje so vsi veseli odhiteli z njo na ladjo ter zajadrali na odprto morje.,50.1665103029476,50.113643729530565,-0.0528665734170346,1
+49,"Ko pa se je zmaj prebudil in opazil, da ni več kraljične pri njem, je naglo priplaval za njimi ter besno puhal skozi nos.",49.47383439650229,49.63266019208716,0.15882579558486754,1
+50,"Ko pa se je ravno dvignil nad ladjo in se hotel vreči nanjo, je lovec nastavil puško ter ga ustrelil naravnost v srce.",49.179560863466335,49.33446656795511,0.15490570448877605,1
+51,Zmaj je obležal mrtev.,49.24940873138958,49.18335627326303,-0.06605245812654914,1
+52,"Bil pa je tako velik in silen, da je pri padcu raztreščil vso ladjo.",49.33956396349862,49.366536458333336,0.026972494834716088,1
+53,"Bratje so srečno ujeli še nekaj desk, ki so se jih oklenili in plavali po širokem morju.",49.057834201388886,49.406615497076025,0.34878129568713945,1
+54,"V tej hudi stiski pa je krojač, ne bodi len, vzel svojo čudežno šivanko, sešil v največji naglici z nekaj velikimi šivi deske drugo k drugi, sedel nanje in zbral j ladijske kose.",47.984155837458744,49.093369688531354,1.1092138510726102,1
+55,"Nato je sešil še te, da je bila v kratkem času ladja spet dobra za jadranje.",49.72073983787594,49.77632680333647,0.05558696546052744,1
+56,In tako so se lahko srečno vrnili domov.,48.572223319043324,48.57707440207581,0.004851083032484382,1
+57,"Ko je kralj spet zagledal svojo hčer, je zavladalo veliko veselje.",47.6753241356383,47.91358045212766,0.23825631648936252,1
+58,"Bratom pa je dejal: »Eden izmed vas naj jo dobi za ženo, udiočite se sami med 4,eboj.« Tedaj je nastal hud spor med njimi, kajti vsak jo je hotel dobiti zase.",47.66501676655251,48.02545305365297,0.3604362871004554,1
+59,"Zvezdogledec je rekel: »Če jaz kraljične ne bi bil opazil, bi bile vse vaše umetnosti zaman.",48.18029575892857,46.705011160714285,-1.4752845982142873,1
+60,"Zato je moja.« Tat pa je rekel: »Če bi je jaz ne izmaknil zmaju, bi vam vse nič ne pomagalo!",46.82768880208334,47.142268880208334,0.31458007812499744,1
+61,"Zato je moja.« Lovec pa: »Saj bi vas bil zmaj s kraljično vred raztrgal, če ga jaz ne hi bil zadel s kroglo.",48.17626953125,47.9605224609375,-0.21574707031250284,1
+62,"Zato je moja.« Krojač je rekel: »In če vam jaz ne bi bil skrpal ladje, bi bili klavrno utonili.",48.34825367647059,48.2180606617647,-0.1301930147058883,1
+63,"Zato je moja.« Ko je bilo tako, je odločil kralj: »Vsakdo izmed vas ima enako pravico, a ker vsakdo deklice ne more dobiti, je ne bo dobil nobeden izmed vas.",48.99205186631944,49.416702835648145,0.4246509693287024,1
+64,"Za nagrado pa dam nji in vam vsakemu del kraljestva.« Odločitev  je ugajala bratom in rekli so: »Bolje je tako, kakor pa da bi se sprli.« Tako je dobil vsak en del kraljestva.",49.21045357840402,49.40232631138393,0.1918727329799097,1
