@@ -179,7 +179,7 @@ def compute_rest_of_story_probability(model, device, indexed_sentences, sent_ind
 
 
 def compute_story_probability_with_t5(model, tokenizer, device, indexed_sentences, sent_index):
-    context_before, context_after = extract_story_context(indexed_sentences, sent_index, 20000)
+    context_before, context_after = extract_story_context(indexed_sentences, sent_index, 3000)
     context_after_len = len(context_after)
     # Add instruction to the beginning of the context
     instruction = tokenizer('summarize:')['input_ids']
@@ -210,6 +210,7 @@ def compute_story_probability_with_t5(model, tokenizer, device, indexed_sentence
         normalized_loss_wo_sentence = loss_wo_sentence[-context_after_len:].sum().item() / context_after_len
 
         return normalized_loss_w_sentence, normalized_loss_wo_sentence
+
 
 def compute_story_probability_with_bert(model, device, indexed_sentences, sent_index):
     # We will peform next sentence prediction from the context before to the context after with and without the sentence
@@ -282,11 +283,23 @@ def estimate_coherence_with_model(args):
         else:
             title = row['slo_title'].replace(" ", "_")
 
-        # if not os.path.isfile(f"../data/labeled/{title}.csv"):
-        #    continue
-
         logger.info(title)
-        df_story = pd.read_csv(f"../data/slo_processed/{title}.csv")
+        if args.language == "en":
+            df_story = pd.read_csv(f"../data/eng_processed/{title}.csv")
+        else:
+            df_story = pd.read_csv(f"../data/slo_processed/{title}.csv")
+
+        if args.use_sliding_window:
+            title = f"{title}_window"
+        if args.nsp:
+            title = f"{title}_nsp"
+
+        path = f"{args.output}/{title}_{args.model.replace('/', '_')}.csv"
+
+        if os.path.isfile(path):
+            logger.info(f'{path} already exists')
+            continue
+
         sentences = df_story['sentence'].tolist()
         labels = df_story['label'].tolist()
 
@@ -319,11 +332,7 @@ def estimate_coherence_with_model(args):
             progressbar2.update(1)
 
         results_df = pd.DataFrame(results, columns=["sentence", "with_sentence", "without_sentence", "difference", "label"])
-        if args.use_sliding_window:
-            title = f"{title}_window"
-        if args.nsp:
-            title = f"{title}_nsp"
-        results_df.to_csv(f"{args.output}/{title}_{args.model.replace('/', '_')}.csv", sep=",")
+        results_df.to_csv(path, sep=",")
         progressbar.update(1)
 
 
@@ -331,7 +340,7 @@ if __name__ == "__main__":
     parser = argparse.ArgumentParser()
     parser.add_argument("--gpu", type=int, default=1, help="use gpu or not")
     parser.add_argument("--model", type=str, default="cjvt/gpt-sl-base", help="Model name")
-    parser.add_argument("--language", type=str, default="slo", help="Language (slo or eng)")
+    parser.add_argument("--language", type=str, default="en", help="Language (slo or eng)")
     parser.add_argument("--contextlen", type=int, default=1024, help="Context length")
     parser.add_argument("--use_sliding_window", type=bool, default=False, help="Use sliding window")
     parser.add_argument("--nsp", type=bool, default=False, help="Use next sentence prediction")
