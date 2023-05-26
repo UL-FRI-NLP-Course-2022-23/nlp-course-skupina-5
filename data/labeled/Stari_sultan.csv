@@ -2,13 +2,14 @@ label,sentence
 0,"Neki kmet je imel zvestega psa, ki mu je bilo ime Sultan."
 1,"Pes pa se je postaral in zgubil je vse svoje zobe, tako da ni mogel več krepko zgrabiti."
 1,"Nekega dne je stal kmet s svojo ženo pred hišnimi vrati in dejal: »Starega Sultana bom
-jutri ustrelil, ker ni več za rabo.« Ženi pa se je zvesta žival smilila in je rekla:
-»Toliko let nam je služil in zvesto držal z nami, lahko bi ga iz usmiljenja obdržala.«
-»Kje neki,« je rekel kmet, »saj si ob pamet."
-1,"Niti enega zoba nima več, tatovi se ga ne bojijo, lahko ga pogrešamo."
-1,"Če nam je služil, se je zato vsak dan dobro nažrl.« Ubogi pes, ki je ležal nedaleč od tod
+jutri ustrelil, ker ni več za rabo.«"
+0,"Ženi pa se je zvesta žival smilila in je rekla:
+»Toliko let nam je služil in zvesto držal z nami, lahko bi ga iz usmiljenja obdržala.«"
+0,"»Kje neki,« je rekel kmet, »saj si ob pamet."
+1,"Niti enega zoba nima več, tatovi se ga ne bojijo, lahko ga pogrešamo.Če nam je služil, se je zato vsak dan dobro nažrl.«"
+1,"Ubogi pes, ki je ležal nedaleč od tod
 zleknjen na soncu, pa je vse to slišal."
-1,"Žalosten je bil, ker je bil zanj naslednji dan njegov zadnji."
+0,"Žalosten je bil, ker je bil zanj naslednji dan njegov zadnji."
 1,"Imel pa je dobrega starega znanca, volka, in k temu se je zvečer splazil ter mu potožil
 usodo, ki ga čaka."
 1,"»Kar dobre volje bodi, Sultan,« je rekel volk, »jaz ti že pomagam iz stiske."
@@ -20,46 +21,47 @@ usodo, ki ga čaka."
 1,Jaz pa se bom medtem priplazil iz gozda in ugrabil otroka.
 1,"Ti moraš steči za menoj, kakor da mi ga hočeš iztrgati."
 1,"Jaz ga bom spustil na tla, ti pa ga boš prinesel staršem nazaj."
-1,"Mislila bosta, da si ga rešil in ti bosta veliko preveč
-
-hvaležna, da bi ti storila kaj žalega."
-1,"Narobe, še v posebni milosti boš in ničesar več ne boš pogrešal.« Ta naklep je bil psu všeč."
-1,"In kakor sta ga zasnovala, tako sta ga izvedla."
-1,"Oče je zakričal, ko je zagledal volka, ki je tekel z otrokom, ko ga je pa stari Sultan
+1,"Mislila bosta, da si ga rešil in ti bosta veliko preveč hvaležna, da bi ti storila kaj žalega."
+1,"Narobe, še v posebni milosti boš in ničesar več ne boš pogrešal.«: Ta naklep je bil psu všeč."
+0,"In kakor sta ga zasnovala, tako sta ga izvedla."
+0,"Oče je zakričal, ko je zagledal volka, ki je tekel z otrokom, ko ga je pa stari Sultan
 prinesel nazaj, je bil neznansko vesel."
 1,"Pobožal je psa in rekel: »Niti lasu ti ne bomo skrivili, obdržali te bomo in jedel boš,
 dokler boš živ.« Svoji ženi pa je dejal : »Pojdi precej domov in skuhaj staremu Sultanu mlečne
 kaše, ki je ni treba gristi."
-1,"In prinesi še blazino z moje postelje, naj jo ima za svoje ležišče.« Od takrat naprej
+0,"In prinesi še blazino z moje postelje, naj jo ima za svoje ležišče.« Od takrat naprej
 se je staremu Sultanu tako dobro godilo, kot si je le mogel želeti."
-1,Kmalu zatem ga je obiskal volk.
-1,"Bil je vesel, da se je tako lepo posrečilo."
+0,Kmalu zatem ga je obiskal volk.
+0,"Bil je vesel, da se je tako lepo posrečilo."
 1,"»Ampak, Sultan,« je rekel, »saj boš menda zatisnil oko, če vzamem ob priložnosti tvojemu
-gospodarju kakšno rejeno ovco."
-1,"Dandanes se je težko prebijati skozi življenje.« »S tem pa rajši ne računaj,« je
-odgovoril Sultan, »svojemu gospodarju ostanem zvest, v to ne smem privoliti.« Volk je
+gospodarju kakšno rejeno ovco. Dandanes se je težko prebijati skozi življenje.«"
+1,"»S tem pa rajši ne računaj,« je
+odgovoril Sultan, »svojemu gospodarju ostanem zvest, v to ne smem privoliti.«"
+1,"Volk je
 menil, da ni resno govoril; priplazil se je ponoči in hotel ugrabiti ovco."
 1,"Kmet pa, ki mu je zvesti Sultan izdal, kaj volk namerava, ga je pričakal in mu s
 cepcem kaj grdo počesal dlako."
 1,Volk je moral pobegniti.
-1,"Spotoma pa je zaklical psu: »Le čakaj, mrcina pasja, to mi boš plačal!« Drugo jutro
-je volk poslal merjasca, da je pozval Sultana, naj pride v gozd, da bosta z volkom v dvoboju
+0,"Spotoma pa je zaklical psu: »Le čakaj, mrcina pasja, to mi boš plačal!«"
+1,"Drugo jutro je volk poslal merjasca, da je pozval Sultana, naj pride v gozd, da bosta z volkom v dvoboju
 poravnala spor."
-1,"Stari Sultan ni mogel najti druge priče kakor mačka, ki je imel samo še tri noge."
-1,"In ko sta šla skupaj v gozd, je ubogi maček šantal, obenem pa zaradi bolečine visoko
+0,"Stari Sultan ni mogel najti druge priče kakor mačka, ki je imel samo še tri noge."
+0,"In ko sta šla skupaj v gozd, je ubogi maček šantal, obenem pa zaradi bolečine visoko
 dvigal svoj rep."
-1,Volk in njegova priča sta bila že na mestu.
-1,"Ko pa sta zagledala svojega nasprotnika, ki je prihajal, sta mislila, da prinaša sabljo
+0,Volk in njegova priča sta bila že na mestu.
+0,"Ko pa sta zagledala svojega nasprotnika, ki je prihajal, sta mislila, da prinaša sabljo
 s seboj, tak je bil videti mačkin dvignjeni rep."
 1,"In ker je uboga žival poskakovala po treh nogah, sta bila prepričana, da Sultan vsakokrat
 pobere kak kamen, da ju bo obsul z njim."
 1,"Tedaj je obema šinil strah v kosti: merjasec se je zaril v listje, volk pa je skočil
 na drevo."
-1,"Ko sta pes in maček prišla tja, sta se začudila, da ni nikogar nikjer."
+0,"Ko sta pes in maček prišla tja, sta se začudila, da ni nikogar nikjer."
 1,"Merjasec pa se ni mogel čisto skriti v listje, temveč so mu uhlji še moleli iz njega."
 1,"Ko se je maček lagodno oziral okrog sebe, je zmignil merjasec z uhlji."
 1,"Maček pa je mislil, da je švignila miška, skočil je in krepko ugriznil v uho."
 1,"Merjasec je zarjul od bolečine, planil, stekel in zavpil: »Tamle na drevesu se
-skriva pravi krivec!« Pes in maček sta pogledala na drevo in opazila volka, ki ga je bilo
+skriva pravi krivec!«"
+0,"Pes in maček sta pogledala na drevo in opazila volka, ki ga je bilo
 sram, da se je pokazal takega strahopetca."
 1,"In volk je sprejel mir, ki mu ga je ponudil Sultan."
+0,"<|endoftext|>"
