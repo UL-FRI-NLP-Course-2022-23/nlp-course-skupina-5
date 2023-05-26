@@ -285,9 +285,16 @@ def estimate_coherence_with_model(args):
 
         logger.info(title)
         if args.language == "en":
-            df_story = pd.read_csv(f"../data/eng_processed/{title}.csv")
+            if not os.path.isfile(f"../data/labeled/{title}.csv"):
+                logger.info(f"{title} not labeled")
+                continue
+
+            df_story = pd.read_csv(f"../data/labeled/{title}.csv")
         else:
-            df_story = pd.read_csv(f"../data/slo_processed/{title}.csv")
+            if not os.path.isfile(f"../data/labeled/{title}.csv"):
+                logger.info(f"{title} not labeled")
+                continue
+            df_story = pd.read_csv(f"../data/labeled/{title}.csv")
 
         if args.use_sliding_window:
             title = f"{title}_window"
@@ -345,7 +352,7 @@ if __name__ == "__main__":
     parser.add_argument("--use_sliding_window", type=bool, default=False, help="Use sliding window")
     parser.add_argument("--nsp", type=bool, default=False, help="Use next sentence prediction")
     parser.add_argument("--input", type=str, default="../data/data.csv", help="Path to the data")
-    parser.add_argument("--output", type=str, default="../results/SLO", help="Path to the output")
+    parser.add_argument("--output", type=str, default="../results/labeled", help="Path to the output")
 
     args = parser.parse_args()
 

@@ -1,0 +1,43 @@
+,sentence,with_sentence,without_sentence,difference,label
+0,"By the side of a wood, in a country a long way off, ran a fine stream of water; and upon the stream there stood a mill.",13.898702085899014,13.639868524861454,-0.2588335610375605,0
+1,"The miller’s house was close by, and the miller, you must know, had a very beautiful daughter.",13.642441517013232,13.594754253308128,-0.04768726370510379,0
+2,"She was, moreover, very shrewd and clever; and the miller was so proud of her, that he one day told the king of the land, who used to come and hunt in the wood, that his daughter could spin gold out of straw.",14.17030999599359,13.819586338141026,-0.3507236578525639,1
+3,"Now this king was very fond of money; and when he heard the miller’s boast his greediness was raised, and he sent for the girl to be brought before him.",14.129207931091878,13.849302492509986,-0.279905438581892,1
+4,"Then he led her to a chamber in his palace where there was a great heap of straw, and gave her a spinning-wheel, and said, ‘All this must be spun into gold before morning, as you love your life.’",13.798337504277892,13.84632074563655,0.047983241358657835,0
+5,"It was in vain that the poor maiden said that it was only a silly boast of her father, for that she could do no such thing as spin straw into gold: the chamber door was locked, and she was left alone.",13.982008206734186,13.968494580668088,-0.013513626066098183,0
+6,"She sat down in one corner of the room, and began to bewail her hard fate; when on a sudden the door opened, and a droll-looking little man hobbled in, and said, ‘Good morrow to you, my good lass; what are you weeping for?’",13.986475913390208,13.895670089948071,-0.09080582344213717,1
+7,"‘Alas!’ said she, ‘I must spin this straw into gold, and I know not how.’",13.925113995622569,13.947786964980544,0.022672969357975248,0
+8,"‘What will you give me,’ said the hobgoblin, ‘to do it for you?’",13.916201784650516,14.01569015587768,0.0994883712271637,0
+9,"‘My necklace,’ replied the maiden.",14.090457363360324,14.135083502024292,0.04462613866396836,1
+10,"He took her at her word, and sat himself down to the wheel, and whistled and sang: ‘Round about, round about, Lo and behold! Reel away, reel away, Straw into gold!’",14.200369242749183,14.091172960069445,-0.10919628267973813,0
+11,"And round about the wheel went merrily; the work was quickly done, and the straw was all spun into gold.",14.140633332444539,14.005036129479523,-0.1355972029650161,1
+12,"When the king came and saw this, he was greatly astonished and pleased; but his heart grew still more greedy of gain, and he shut up the poor miller’s daughter again with a fresh task.",14.232541280021834,14.054960425764191,-0.17758085425764314,0
+13,"Then she knew not what to do, and sat down once more to weep; but the dwarf soon opened the door, and said, ‘What will you give me to do your task?’",14.084494546260293,14.103218993023788,0.018724446763494385,0
+14,"‘The ring on my finger,’ said she.",14.112810673604486,14.163379465350667,0.050568791746181674,0
+15,"So her little friend took the ring, and began to work at the wheel again, and whistled and sang: ‘Round about, round about, Lo and behold! Reel away, reel away, Straw into gold!’ till, long before morning, all was done again.",14.239697501509662,14.263692632850242,0.0239951313405804,1
+16,"The king was greatly delighted to see all this glittering treasure; but still he had not enough: so he took the miller’s daughter to a yet larger heap, and said, ‘All this must be spun tonight; and if it is, you shall be my queen.’",14.219673258882596,14.128197211315653,-0.0914760475669425,0
+17,"As soon as she was alone that dwarf came in, and said, ‘What will you give me to spin gold for you this third time?’",14.082306883958104,14.090771861218302,0.008464977260198125,0
+18,"‘I have nothing left,’ said she.",14.065833244149543,14.14072310216895,0.07488985801940728,0
+19,"‘Then say you will give me,’ said the little man, ‘the first little child that you may have when you are queen.’",14.169309971098265,14.271899837427746,0.10258986632948108,0
+20,"‘That may never be,’ thought the miller’s daughter: and as she knew no other way to get her task done, she said she would do what he asked.",14.292135041966427,14.310895814598322,0.018760772631894795,1
+21,"Round went the wheel again to the old song, and the manikin once more spun the heap into gold.",14.287272749606919,14.300415192610062,0.013142443003143711,0
+22,"The king came in the morning, and, finding all he wanted, was forced to keep his word; so he married the miller’s daughter, and she really became queen.",14.369021562905317,14.284297482976653,-0.08472407992866415,0
+23,"At the birth of her first little child she was very glad, and forgot the dwarf, and what she had said.",14.146119167380137,14.131520226883561,-0.014598940496576063,1
+24,"But one day he came into her room, where she was sitting playing with her baby, and put her in mind of it.",14.337693927304965,14.301117852393617,-0.0365760749113484,0
+25,"Then she grieved sorely at her misfortune, and said she would give him all the wealth of the kingdom if he would let her off, but in vain; till at last her tears softened him, and he said, ‘I will give you three days’ grace, and if during that time you tell me my name, you shall keep your child.’",14.24533525485437,14.342703908778317,0.09736865392394733,1
+26,"Now the queen lay awake all night, thinking of all the odd names that she had ever heard; and she sent messengers all over the land to find out new ones.",14.383020349451014,14.320063410578546,-0.06295693887246756,0
+27,"The next day the little man came, and she began with TIMOTHY, ICHABOD, BENJAMIN, JEREMIAH, and all the names she could remember; but to all and each of them he said, ‘Madam, that is not my name.’",14.014152252416817,14.091279613028327,0.07712736061150949,0
+28,"The second day she began with all the comical names she could hear of, BANDY-LEGS, HUNCHBACK, CROOK-SHANKS, and so on; but the little gentleman still said to every one of them, ‘Madam, that is not my name.’",14.076304862169716,14.213090105754572,0.13678524358485689,0
+29,"The third day one of the messengers came back, and said, ‘I have travelled two days without hearing of any other names; but yesterday,as I was climbing a high hill, among the trees of the forest where the fox and the hare bid each other good night, I saw a little hut; and before the hut burnt a fire; and round about the fire a funny little dwarf was dancing upon one leg, and singing:",14.752131407527248,14.274571057561309,-0.4775603499659393,0
+30,"“Merrily the feast I’ll make. Today I’ll brew, tomorrow bake; Merrily I’ll dance and sing, For next day will a stranger bring. Little does my lady dream Rumpelstiltskin is my name!",13.040232872596153,12.955064603365384,-0.0851682692307687,1
+31,"When the queen heard this she jumped for joy, and as soon as her little friend came she sat down upon her throne, and called all her court round to enjoy the fun; and the nurse stood by her side with the baby in her arms, as if it was quite ready to be given up.",13.070102847641728,13.37627062035316,0.3061677727114329,0
+32,"Then the little man began to chuckle at the thought of having the poor child, to take home with him to his hut in the woods; and he cried out, ‘Now, lady, what is my name?’",11.931053466796875,11.8038623046875,-0.12719116210937464,0
+33,‘Is it JOHN?’ asked she.,10.536809148015204,10.936492095122466,0.39968294710726227,0
+34,"‘No, madam!’",12.13792086373731,12.330576320590101,0.1926554568527905,0
+35,‘Is it TOM?’,12.04715660135582,12.134434937169312,0.08727833581349209,0
+36,"‘No, madam!’",12.126985677083333,12.223326280381944,0.09634060329861072,0
+37,‘Is it JEMMY?’,10.995522238991477,11.084330610795455,0.08880837180397805,0
+38,‘It is not.’,12.310922942546584,12.492153380968556,0.18123043842197184,0
+39,‘Can your name be rumpelstiltskin?’ said the lady slyly.,11.435572362208104,11.595420082846841,0.1598477206387372,1
+40,"‘Some witch told you that!--some witch told you that!’ cried the little man, and dashed his right foot in a rage so deep into the floor, that he was forced to lay hold of it with both hands to pull it out.",12.622046077952666,12.039635153377757,-0.5824109245749085,0
+41,"Then he made the best of his way off, while the nurse laughed and the baby crowed; and all the court jeered at him for having had so much trouble for nothing, and said, ‘We wish you a very good morning, and a merry feast, Mr RUMPLESTILTSKIN!’",13.34197998046875,11.930150349934896,-1.4118296305338536,1

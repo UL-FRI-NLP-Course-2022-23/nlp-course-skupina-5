@@ -1,0 +1,64 @@
+,sentence,with_sentence,without_sentence,difference,label
+0,"Bila je nekoč majhna, srčkana deklica, ki jo je vsakdo vzljubil, če ga je le pogledala.",2.6273806181996457,2.6675578128953696,0.040177194695723895,0
+1,Najrajši pa jo je imela njena babica.,2.662454659598214,2.677338020169005,0.01488336057079076,0
+2,"Ta sploh ni vedela, kaj vse bi ji dala.",2.67600112820264,2.6961364114259836,0.02013528322334368,0
+3,Nekoč ji je podarila kapico iz rdečega žameta.,2.6795588277936107,2.692444430176299,0.012885602382688432,0
+4,"Ker ji je tako ljubko pristajala in ker tudi sama ni hotela nositi nič drugega več, so ji rekli kar Rdeča kapica.",2.675097228402245,2.7173659125136913,0.04226868411144613,1
+5,"Nekega dne ji je rekla mama: »Rdeča kapica, na kos pogače in steklenico vina in nesi to naši babici.",2.6563825096208666,2.747181108359464,0.0907985987385973,1
+6,Babica je bolna in slaba in to ji bo dobro delo.,2.732934113974883,2.7660870418370327,0.03315292786214963,1
+7,Pokrepčalo jo bo.,2.707146021853019,2.7213087540298946,0.014162732176875803,0
+8,"Le hitro se odpravi, da ne bo prevroče.",2.6989862351190474,2.7241309756324403,0.025144740513392883,0
+9,"In ko prideš v gozd, hodi lepo naravnost in ne tekaj po stranskih stezah, da ne boš padla in razbila steklenice, tako bi babica ničesar ne dobila.",2.628293746064232,2.744429043017947,0.11613529695371527,0
+10,"In ko vstopiš v sobo, ne pozabi voščiti dobro jutro in ne kukaj prej po vseh kotih in kotičkih.« »Vse bom napravila lepo v redu, kakor je treba,« je rekla Rdeča kapica in dala mami roko.",2.591163491303066,2.731586631096277,0.14042313979321097,0
+11,"Babica pa je imela hišico dve uri daleč od vasi, sredi nekega gozda.",2.646556599934896,2.688579305013021,0.042022705078125,0
+12,"Ko je Rdeča kapica prišla v hosto, je srečala volka.",2.6559256417410713,2.6706455775669644,0.014719935825893149,1
+13,"Ker ni vedela, kakšna huda zver je to, se ga ni bala.",2.6887257443768435,2.7220127702110988,0.033287025834255246,0
+14,"»Dobro jutro, Rdeča kapica,« jo je nagovoril volk.",2.7014141660748106,2.719649251302083,0.018235085227272574,0
+15,"»Dobro jutro, volk.« »Kam pa že tako zgodaj, Rdeča kapica?« »K babici sem namenjena.« »Kaj pa imaš v košarici?« »Kos pogače in steklenico vina.",2.71245763208959,2.8094363522219967,0.0969787201324066,1
+16,"Včeraj smo pekli, pa naj se babica, ki je bolna in slaba, malo posladka in Pokrepča s tem.« »Rdeča kapica, kje pa stanuje tvoja babica?« »Kakšne četrt ure je še.",2.6492883192754424,2.825254943307522,0.17596662403207963,1
+17,čisto vgozdt' pod tremi visokimi hrasti je njena hišica.,2.640310269912523,2.7855618021984347,0.1452515322859118,1
+18,"Okrog je leskovanileja z lešniki, saj jo gotovo poznaš,« mu je razložila Rdeča kapica.",2.6411975337009803,2.730218386182598,0.08902085248161784,1
+19,"»Mhm, ta mlada, rahla stvarcam je pomislil volk sam pri sebi, »to bo masten prigrizek, ki bo še veliko bolje teknil kakor stara.",2.469815882240854,2.6918632693407014,0.22204738709984762,1
+20,"Lepo zvito se je treba lotiti, pa bom obe pohrustal.« Stopal je nekaj časa vštric Rdeče kapice, nato pa je glasno dejal: »Poglej no, Rdeča kapica, tele lepe cvetke, ki rastejo vsepovsod ob poti.",2.321394129255457,2.5447206239442566,0.2233264946887994,0
+21,Zakaj si jih malo ne ogledaš?,2.419873823465457,2.458129154758946,0.038255331293489014,0
+22,"Mislim, da niti ne slišiš, kako milo prepevajo ptičke?",2.3895302501397864,2.434099989904324,0.04456973976453771,0
+23,"Tako zamišljeno hodiš po stezi, kakor bi šla v šolo.",2.3803342788938493,2.4355991908482144,0.055264911954365115,0
+24,Pa je vendar vse tako veselo in zanimivo tu v gozdu.« Rdeča kapica je pogledala okrog sebe.,2.400690051978958,2.4119420481588176,0.011251996179859614,0
+25,"Ko je videla, kako poplesavajo sončni žarki skozi drevje in kako je vseokrog polno lepih cvetic, je pomislila: »Če natrgam šopek cvetlic za babico, jih bo gotovo zelo vesela.",2.303926266498447,2.4390295435429605,0.13510327704451353,1
+26,Zgodaj je pa še tudi in bom še pravi čas prišla k njej.« Stekla je s poti v gozd in začela trgati cvetlice.,2.4380563446969696,2.5253013533775253,0.08724500868055562,1
+27,"In ko je katero odtrgala, se ji je zazdelo, da je malo bolj stran še ena lepša.",2.3148674693534046,2.421166396722561,0.10629892736915636,0
+28,Stekla je k njej in je bila tako čedalje globlje v gozdu.,2.212425734468563,2.246509422561128,0.03408368809256501,0
+29,Volk pa jo je medtem ubral naravnost proti babičini hišici.,2.203430784914546,2.2255057755582586,0.022074990643712766,1
+30,"Ko je prišel tja, je potrkal na vrata.",2.263134473823456,2.2790848325448207,0.015950358721364744,0
+31,»Kdo pa je zunaj?« je vprašala babica s šibkim glasom.,2.2799782090983403,2.316991548902792,0.03701333980445165,0
+32,»Rdeča kapica.,2.4235219842360425,2.420998313210227,-0.0025236710258154105,0
+33,"Prinesla sem ti pogače in vina, odpri mi.« »Kar na kljuko pritisni,« je odgovorila babica.",2.284190875206848,2.3966964441987018,0.11250556899185371,1
+34,"»Preveč sem slaba in ne morem vstati.« Volk je pritisnil na kljuko, vrata so se odprla.",2.244036484532193,2.3163924955985915,0.07235601106639855,0
+35,"On pa je šel, ne da bi bil kaj zinil, naravnost k postelji in požrl babico.",2.3278484382859657,2.395640444227867,0.06779200594190149,1
+36,"Nato si je oblekel njeno obleko, posadil na glavo njeno čepico, legel v njeno posteljo ter zagrnil zaveso.",2.2779299366230865,2.354825514190051,0.07689557756696441,1
+37,Rdeča kapica pa je tekala za cvetlicami.,2.3133217297775843,2.333436878727634,0.020115148950049733,0
+38,"Ko jih je toliko nabrala, da jih ni mogla več nositi, se je spet spomnila babice in odpravila se je k njej.",2.3034072564572705,2.3476866430165817,0.044279386559311185,1
+39,"Začudila se je, da so bila vrata odprta.",2.44463134765625,2.463714111328125,0.019082763671875114,0
+40,"In ko je vstopila, jo je tako čudno spreletelo, da je pomislila: »Jej, kako tesno mi je danes pri srcu.",2.379849880752409,2.4223147502535496,0.0424648695011407,1
+41,Pa sem bila drugače zmerom tako rada pri babici.« Zavzdihnila je in rekla glasno: »Dobro jutro.« Odgovora pa ni bilo.,2.4821944361481387,2.5507377762669767,0.068543340118838,0
+42,Zato je stopila k postelji in odgrnila zavese.,2.4534931447246286,2.493020478805693,0.039527334081064236,0
+43,"Pred njo je ležala babica, s čepico, ki jo je imela potisnjeno globoko na obraz.",2.4240280120290225,2.489002484168152,0.06497447213912944,1
+44,In tako čudna je bila videti.,2.497162900760978,2.5227713518275947,0.025608451066616578,0
+45,"»Joj, babica, kako velika ušesa imaš!« »Da te lahko bolje slišim.« »Joj, babica, kako velike oči imaš!« »Da te lahko bolje vidim.« »Joj, babica, kako velike roke imaš!« »Da te lahko bolje zgrabim.« »Jojmene, babica, kako grozno velika usta imaš!« »Da te lahko bolje požrem!« Volk je zarenčal, bil v skoku iz postelje in požrl ubogo Rdečo kapico.",2.257643872638081,2.540168229923692,0.28252435728561087,1
+46,"Ko je volk tako nasitil svoj pohlep, je legel spet nazaj v posteljo, zaspal in pričel smrčati, da je kar odmevalo po hiši.",2.51992346852871,2.6417284434652095,0.12180497493649955,0
+47,"Pa je prišel mimo hiše lovec, slišal to in začudeno pomislil: »Kako smrči stara žena.",2.532666247823964,2.637968975564708,0.10530272774074412,1
+48,"Moram pogledati, če se ji ni kaj zgodilo.« Stopil je v sobo, in ko je prišel do postelje, je videl, da leži volk v njej.",2.481591832568074,2.5789659288194446,0.09737409625137072,0
+49,"»Ha, tukaj sem te našel, mrcina stara!« je vzkliknil.",2.489065825754644,2.621572205156734,0.13250637940208998,0
+50,"»Že dolgo sem te iskal.« Že je hotel nameriti, da bi ustrelil, kar se je domislil, da je volk nemara požrl babico in da bi jo mogoče še lahko rešil.",2.3763093549489067,2.6183026099839593,0.24199325503505253,0
+51,Zato je vzel škarje in začel spečemu volku parati trebuh.,2.4619437552787162,2.561027143912886,0.09908338863416999,1
+52,"Ko je prerezal kožo, je zagledal Rdečo kapico, ko pa je še malo globlje razparal, je skočila deklica iz trebuha.",2.3400512147911994,2.550094809767377,0.21004359497617742,1
+53,"»Hu, kako me je bilo strah!« je vzkliknila.",2.40341303898738,2.4791846642127404,0.0757716252253604,0
+54,"»Tako temno je bilo v volkovem trebuhu!« Nato je prišla ven tudi stara babica, še živa, in je komaj še dihala.",2.3087627432938946,2.5195690000677384,0.2108062567738438,1
+55,"Rdeča kapica pa je hitro prinesla nekaj debelih kamnov, ki so jih stlačili volku v trebuh.",2.225793716755319,2.4496256510416665,0.2238319342863475,1
+56,"Ko se je volk malo prebudil, je hotel pobegniti.",2.4354931276236007,2.490108888540695,0.0546157609170943,0
+57,"Kamni pa so bili tako težki, da je kar omahnil in padel mrtev na tla.",2.303059190806776,2.4801652360670636,0.17710604526028773,1
+58,Vsi trije so bili Zidane volje.,2.382545789082845,2.6677144368489585,0.2851686477661133,1
+59,Lovec je odrl volku kožo in odšel z njo domov.,2.1784815354780718,2.317243749445135,0.138762213967063,1
+60,"Babica je pojedla pogačo in popila vino, ki ga je Rdeča kapica prinesla, ter si spet opomogla.",1.6976357254327512,2.224422380035999,0.5267866546032476,1
+61,"Rdeča kapica pa je resno premišljevala: »Nikdar več ne smeš uhajati s poti in sama tekati po gozdu, če ti je mama prepovedala.",2.264633369445801,2.6105268478393553,0.34589347839355433,0
+62,"Kako hudo bi bilo ubogi mami, če bi jaz ostala v volkovem trebuhu!«",6.076465606689453,6.247307586669922,0.17084197998046857,0

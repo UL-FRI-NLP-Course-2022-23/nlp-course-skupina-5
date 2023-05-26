@@ -1,0 +1,32 @@
+,sentence,with_sentence,without_sentence,difference,label
+0,"Pred davnimi časi so mišek, ptička in klobasa pričeli svojo navezo in pričeli tudi stanovati skupaj.",0.3614898920059204,0.4082532525062561,0.04676336050033569,1
+1,Zelo dolgo jim je šlo odlično; živeli so v velikem udobju in uspeli svoje zaloge znatno povečevati.,0.4082532525062561,0.4322851002216339,0.024031847715377808,0
+2,"Naloga ptičke je bila, da je dnevno poletela proti gozdu in poskrbela za kurivo; mišek je prinašal vodo, klobasa pa se je lotila kuhanja.",0.10262773931026459,0.1443450003862381,0.04171726107597351,1
+3,"Ko pa nam gre prelepo, pričnemo vedno hrepeneti po nečem novem.",0.026517558842897415,0.08320050686597824,0.056682948023080826,0
+4,"In tako se je po določenem času ptička nekega dne prijatelju ptičku prav na veliko pohvalila, kako odlično imajo urejeno v njihovem gospodinjstvu.",0.05044722929596901,0.04500653222203255,-0.005440697073936462,0
+5,"Prijatelj ptiček pa je prhnil in ji rekel, da je le ona tista, ki postori vso trdo delo, medtem ko sostanovalca doma uživata na njen račun.",0.03298889100551605,0.04624943807721138,0.013260547071695328,1
+6,"Ker ko je mišek zakuril in prinesel vodo, je lahko počival v svoji mali sobici in ostal tam vse do takrat, ko je bilo potrebno pripraviti mizo.",0.23393100500106812,0.09754309803247452,-0.1363879069685936,0
+7,"Klobasa je morala le gledati v lonec in paziti, da se hrana dobro kuha in ko se je bližal čas kosila, se je le vrgla v enolončnico ali se povaljala med zelenjavo trikrat, štirikrat in to je bilo vse, hrana je bila tako namaščena in osoljena pripravljena za postrežbo.",0.20435188710689545,0.09168313443660736,-0.11266875267028809,0
+8,"Ko je ptička prišla domov in odložila svoje breme, sta se sostanovalca usedla k mizi in ko sta končala z obrokom, sta lahko vse do jutra spala: verjel bi, da je to prav lagodno življenje.",0.22441303730010986,0.14965128898620605,-0.07476174831390381,0
+9,"Pod vplivom teh opomb je ptička naslednje jutro protestirala in ni hotela prinesti lesa, sostanovalcema je povedala, da je že predolgo njuna sužnja in da sta jo s to kupčijo prinesla okoli ter da je skrajni čas za spremembo in drugačno razporeditev dela med njimi.",0.2826048731803894,0.16742798686027527,-0.11517688632011414,1
+10,Vsaka prošnja in moledovanje miška in klobase je bila odveč.,0.11837678402662277,0.14976932108402252,0.03139253705739975,0
+11,Ptička je vztrajala pri svojem in spremembe so bile neizogibne.,0.030079802498221397,0.03700229898095131,0.006922496482729912,0
+12,"Tako so žrebali in določili, da bo les prinesla klobasa mišku, ki bo kuhal in vodo bo zdaj prinesla ptička.",0.06464976817369461,0.08261194080114365,0.017962172627449036,1
+13,In kaj se je zgodilo?,0.11432082951068878,0.08898340910673141,-0.025337420403957367,0
+14,"Klobasa je pričela z iskanjem lesa, ptička je zakurila in mišek je pristavil lonec, tako sta zadnja dva čakala, da se klobasa vrne z lesom, ki ga potrebujejo za kosilo naslednji dan.",0.11949712038040161,0.07636772841215134,-0.043129391968250275,0
+15,"Ampak klobase dolgo ni bilo in postalo jima je prav nelagodno, zato se je ptička odločila, da jo poišče.",0.12621884047985077,0.1378454864025116,0.011626645922660828,1
+16,"Ni še letela dolgo, ko je srečala psa.",0.10250530391931534,0.10443101078271866,0.0019257068634033203,0
+17,"Ta je srečal klobaso, si jo vzel za svojo in jo seveda pogoltnil.",0.14027158915996552,0.09999345988035202,-0.040278129279613495,1
+18,"Ptička se je psu pritožila in ga obtožila kraje, ampak vse, kar je rekla je bilo zaman, saj ji je pes odgovoril, da nima nobenih pravic do klobase, ker jo je našel in zato je njena usoda v njegovih tačkah.",0.14211638271808624,0.21209333837032318,0.06997695565223694,0
+19,Pobrala je les in nesrečna odletela domov.,0.17813046276569366,0.2114621251821518,0.03333166241645813,0
+20,"Povedala je mišku vse, kar je videla in slišala.",0.11845472455024719,0.07046830654144287,-0.04798641800880432,0
+21,"Oba sta bila zelo nesrečna, a vendar sta se dogovorila, da bosta iz tega potegnila najbolje, kar lahko in vseeno ostala sostanovalca.",0.1276979148387909,0.1437777280807495,0.016079813241958618,0
+22,"Tako je ptička pripravljala mizo, mišek je pazil na hrano in si le želel, da bi jo lahko pripravil tako dobro kot je to znala klobasa, ko se je pomešala med zelenjavo, jo solila in namastila, Tako je tudi sam skočil v lonec, a še preden je dosegel njegovo dno, se je poslovil od svojega kožuščka.",0.18208861351013184,0.12239041179418564,-0.0596982017159462,1
+23,Od takrat naprej mu dlake nikoli več niso zrasle.,0.13241900503635406,0.12248734384775162,-0.009931661188602448,0
+24,"Ptička je prišla, da bi postregla hrano, a kuharja ni bilo nikjer.",0.14048531651496887,0.12183249741792679,-0.018652819097042084,1
+25,"V paniki je odvrgla les povsod po tleh in klicala naokoli, iskala, ampak kuharja ni bilo nikjer.",0.20861321687698364,0.23229506611824036,0.023681849241256714,0
+26,"Prestrašen, opečen mišek je bil že daleč, daleč stran.",0.2185962200164795,0.21205352246761322,-0.006542697548866272,0
+27,"Kar na lepem pa je les, odvržen povsod okoli, zagorel.",0.20429639518260956,0.22210045158863068,0.017804056406021118,1
+28,"Ptička se je trudila, da bi ga pogasila, a ji je vedro padlo v vodnjak.",0.21736948192119598,0.22688952088356018,0.009520038962364197,0
+29,Hiša je za vedno zgorela.,0.20458975434303284,0.22800612449645996,0.023416370153427124,1
+30,Ptiček je prestrašeno odfrčal stran in z miškom se nikoli več nista srečala.,0.1560116410255432,0.14606179296970367,-0.009949848055839539,1

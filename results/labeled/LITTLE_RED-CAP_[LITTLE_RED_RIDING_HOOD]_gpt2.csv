@@ -1,0 +1,107 @@
+,sentence,with_sentence,without_sentence,difference,label
+0,"Once upon a time there was a dear little girl who was loved by everyone
+who looked at her, but most of all by her grandmother, and there was
+nothing that she would not have given to the child.",3.9531636930438396,4.090052692436733,0.13688899939289323,0
+1,"Once she gave her a
+little cap of red velvet, which suited her so well that she would never
+wear anything else; so she was always called ‘Little Red-Cap.’
+One day her mother said to her: ‘Come, Little Red-Cap, here is a piece
+of cake and a bottle of wine; take them to your grandmother, she is ill
+and weak, and they will do her good.",3.7099254664443815,4.100820933243473,0.3908954667990918,1
+2,"Set out before it gets hot, and
+when you are going, walk nicely and quietly and do not run off the path,
+or you may fall and break the bottle, and then your grandmother will
+get nothing; and when you go into her room, don’t forget to say, “Good
+morning”, and don’t peep into every corner before you do it.’
+‘I will take great care,’ said Little Red-Cap to her mother, and gave
+her hand on it.",3.5204780158095472,4.118881425832513,0.598403410022966,0
+3,"The grandmother lived out in the wood, half a league from the village,
+and just as Little Red-Cap entered the wood, a wolf met her.",3.726153136283528,3.8456913713247936,0.11953823504126548,1
+4,"Red-Cap did not know what a wicked creature he was, and was not at all afraid of him.",3.798663979388298,3.8930262355939718,0.09436225620567384,0
+5,"‘Good day, Little Red-Cap,’ said he.",3.8276582398166545,3.897737536127168,0.07007929631051324,0
+6,"‘Thank you kindly, wolf.’",3.9003747576624814,3.9383575574686116,0.037982799806130174,1
+7,"‘Whither away so early, Little Red-Cap?’",3.8653471116004496,3.91452076696027,0.04917365535982032,0
+8,‘To my grandmother’s.’,3.9207235699050997,3.963583355300997,0.04285978539589719,1
+9,‘What have you got in your apron?’,3.938249180357839,3.973262221504485,0.03501304114664583,0
+10,"‘Cake and wine; yesterday was baking-day, so poor sick grandmother is to
+have something good, to make her stronger.’",3.766810366981908,3.971121537057977,0.20431117007606892,0
+11,"‘Where does your grandmother live, Little Red-Cap?’",3.930526835806418,3.9510596358536074,0.020532800047189603,1
+12,"‘A good quarter of a league farther on in the wood; her house stands
+under the three large oak-trees, the nut-trees are just below; you
+surely must know it,’ replied Little Red-Cap.",3.7756544689964056,4.0942242397669295,0.31856977077052395,1
+13,"The wolf thought to himself: ‘What a tender young creature!, what a nice
+plump mouthful--she will be better to eat than the old woman.",3.8089626094058184,4.047153329943294,0.23819072053747536,1
+14,"I must
+act craftily, so as to catch both.’ So he walked for a short time by
+the side of Little Red-Cap, and then he said: ‘See, Little Red-Cap, how
+pretty the flowers are about here--why do you not look round?",3.5461479410466787,3.9729565736140167,0.4268086325673379,0
+15,"I believe,
+too, that you do not hear how sweetly the little birds are singing; you
+walk gravely along as if you were going to school, while everything else
+out here in the wood is merry.’",3.6010180915753867,3.9367846931378865,0.3357666015624998,0
+16,"Little Red-Cap raised her eyes, and when she saw the sunbeams dancing
+here and there through the trees, and pretty flowers growing everywhere,
+she thought: ‘Suppose I take grandmother a fresh nosegay; that would
+please her too.",3.4134243704331944,3.814719182215553,0.4012948117823587,1
+17,"It is so early in the day that I shall still get there
+in good time’; and so she ran from the path into the wood to look for
+flowers.",3.2078073575696573,3.440688556444913,0.2328811988752557,0
+18,"And whenever she had picked one, she fancied that she saw a
+still prettier one farther on, and ran after it, and so got deeper and
+deeper into the wood.",3.1119629906826334,3.409116651191086,0.2971536605084526,0
+19,"Meanwhile the wolf ran straight to the grandmother’s house and knocked
+at the door.",3.343486162770792,3.4214793657401645,0.07799320296937262,1
+20,"‘Who is there?’ ‘Little Red-Cap,’ replied the wolf.",3.3414941504298445,3.4016681962223894,0.06017404579254482,0
+21,‘She is bringing cake and wine; open the door.’,3.437904312406809,3.5038916889289267,0.06598737652211772,1
+22,"‘Lift the latch,’ called out the grandmother, ‘I am too weak, and cannot
+get up.’",3.2504343028968052,3.436400624366126,0.18596632146932057,0
+23,"The wolf lifted the latch, the door sprang open, and without saying a
+word he went straight to the grandmother’s bed, and devoured her.",3.2508022470841786,3.4456769776876266,0.19487473060344795,1
+24,"Then he put on her clothes, dressed himself in her cap laid himself in bed
+and drew the curtains.",3.4398313953030493,3.574249267578125,0.13441787227507573,0
+25,"Little Red-Cap, however, had been running about picking flowers,
+and when she had gathered so many that she could carry no more, she
+remembered her grandmother, and set out on the way to her.",3.175925925925926,3.460879730099023,0.2849538041730968,0
+26,"She was surprised to find the cottage-door standing open, and when she
+went into the room, she had such a strange feeling that she said to
+herself: ‘Oh dear! how uneasy I feel today, and at other times I like
+being with grandmother so much.’",3.08345947265625,3.5196517280910324,0.43619225543478235,1
+27,"She called out: ‘Good morning,’ but received no answer; so she went to the bed and drew back the curtains.",3.4505006162375524,3.5662143155463837,0.11571369930883124,0
+28,"There lay her grandmother with her cap pulled far over her face, and
+looking very strange.",3.551044965374443,3.6706222160356345,0.1195772506611914,1
+29,"‘Oh! grandmother,’ she said, ‘what big ears you have!’",3.5010829827724357,3.600970359393211,0.09988737662077529,0
+30,"‘The better to hear you with, my child,’ was the reply.",3.5876333199295343,3.730560302734375,0.14292698280484073,0
+31,"‘But, grandmother, what big eyes you have!’ she said.",3.6599847255608973,3.722285344050481,0.06230061848958357,0
+32,"‘The better to see you with, my dear.’",3.755621779700067,3.788930938966153,0.03330915926608613,0
+33,"‘But, grandmother, what large hands you have!’",3.844952341573816,3.871611273720404,0.026658932146587766,0
+34,‘The better to hug you with.’,3.927952686254529,3.9525914288949275,0.024638742640398448,0
+35,"‘Oh!, but, grandmother, what a terrible big mouth you have!’",3.9478730527226795,4.037367769344124,0.08949471662144459,0
+36,‘The better to eat you with!’,4.071075825751582,4.088029306146163,0.016953480394581,0
+37,"And scarcely had the wolf said this, than with one bound he was out of
+bed and swallowed up Red-Cap.",3.87007556352459,4.237400742827869,0.36732517930327857,1
+38,"When the wolf had appeased his appetite, he lay down again in the bed,
+fell asleep and began to snore very loud.",3.7997758106518815,4.075078930051523,0.2753031193996418,0
+39,"The huntsman was just passing
+the house, and thought to himself: ‘How the old woman is snoring!",3.877790771484375,4.144724609375,0.2669338378906252,1
+40,"I must
+just see if she wants anything.’ So he went into the room, and when he
+came to the bed, he saw that the wolf was lying in it.",3.7688260759626115,4.203733444213867,0.43490736825125564,0
+41,"‘Do I find you
+here, you old sinner!’ said he.",3.9816977912611,4.34696318412739,0.36526539286629056,0
+42,‘I have long sought you!’,4.215851766200154,4.351869922474118,0.1360181562739644,0
+43,"Then just as
+he was going to fire at him, it occurred to him that the wolf might have
+devoured the grandmother, and that she might still be saved, so he did
+not fire, but took a pair of scissors, and began to cut open the stomach
+of the sleeping wolf.",2.709841868916496,4.348397176773822,1.6385553078573256,1
+44,"When he had made two snips, he saw the little
+Red-Cap shining, and then he made two snips more, and the little girl
+sprang out, crying: ‘Ah, how frightened I have been!",2.779632919136135,4.5792825633081895,1.7996496441720544,1
+45,"How dark it was
+inside the wolf’; and after that the aged grandmother came out alive
+also, but scarcely able to breathe.",2.288435652449324,4.895786594700169,2.607350942250845,0
+46,"Red-Cap, however, quickly fetched
+great stones with which they filled the wolf’s belly, and when he awoke,
+he wanted to run away, but the stones were so heavy that he collapsed at
+once, and fell dead.",4.985769271850586,5.703987121582031,0.7182178497314453,1
+47,Then all three were delighted.,2.879971504211426,5.011842727661133,2.131871223449707,1

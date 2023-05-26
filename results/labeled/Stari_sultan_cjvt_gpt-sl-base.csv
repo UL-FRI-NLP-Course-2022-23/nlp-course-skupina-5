@@ -1,0 +1,66 @@
+,sentence,with_sentence,without_sentence,difference,label
+0,"Neki kmet je imel zvestega psa, ki mu je bilo ime Sultan.",3.601089220453419,3.6260114051660057,0.02492218471258667,0
+1,"Pes pa se je postaral in zgubil je vse svoje zobe, tako da ni mogel več krepko zgrabiti.",3.5631809449366685,3.6034361606000513,0.04025521566338286,1
+2,"Nekega dne je stal kmet s svojo ženo pred hišnimi vrati in dejal: »Starega Sultana bom
+jutri ustrelil, ker ni več za rabo.«",3.555667679398148,3.6365869915674605,0.08091931216931236,1
+3,"Ženi pa se je zvesta žival smilila in je rekla:
+»Toliko let nam je služil in zvesto držal z nami, lahko bi ga iz usmiljenja obdržala.«",3.5134670590394297,3.6151349709871363,0.10166791194770664,0
+4,"»Kje neki,« je rekel kmet, »saj si ob pamet.",3.5958822528967698,3.612648404582163,0.016766151685393194,0
+5,"Niti enega zoba nima več, tatovi se ga ne bojijo, lahko ga pogrešamo.Če nam je služil, se je zato vsak dan dobro nažrl.«",3.542652313913778,3.609012375146886,0.06636006123310789,1
+6,"Ubogi pes, ki je ležal nedaleč od tod
+zleknjen na soncu, pa je vse to slišal.",3.4775307361449452,3.581340162530451,0.10380942638550561,1
+7,"Žalosten je bil, ker je bil zanj naslednji dan njegov zadnji.",3.5879840615354937,3.607719063464506,0.01973500192901234,0
+8,"Imel pa je dobrega starega znanca, volka, in k temu se je zvečer splazil ter mu potožil
+usodo, ki ga čaka.",3.484016216621197,3.593332764963624,0.10931654834242721,1
+9,"»Kar dobre volje bodi, Sultan,« je rekel volk, »jaz ti že pomagam iz stiske.",3.4901839546535327,3.5362555462381113,0.04607159158457863,1
+10,Nekaj sem si izmislil.,3.60859375,3.6266220301797945,0.01802828017979463,1
+11,Jutri odide tvoj gospodar z ženo po seno.,3.5699338122626036,3.6114646953772445,0.041530883114640815,1
+12,"S seboj bosta vzela svojega malega otroka, ker ne bo nikogar doma.",3.5665303893008473,3.603170793608757,0.0366404043079096,1
+13,Navadno položita med delom otroka za seč v senco.,3.563381013938849,3.6261613365557555,0.06278032261690658,1
+14,"Lezi ti zraven otroka, kakor da ga hočeš stražiti.",3.5244353077756267,3.5803787996635323,0.055943491887905594,1
+15,Jaz pa se bom medtem priplazil iz gozda in ugrabil otroka.,3.5908232583898942,3.6143855904741704,0.02356233208427616,1
+16,"Ti moraš steči za menoj, kakor da mi ga hočeš iztrgati.",3.5229140098801506,3.5546867261786845,0.031772716298533954,1
+17,"Jaz ga bom spustil na tla, ti pa ga boš prinesel staršem nazaj.",3.568573947038666,3.5894194008285596,0.020845453789893664,1
+18,"Mislila bosta, da si ga rešil in ti bosta veliko preveč hvaležna, da bi ti storila kaj žalega.",3.5820811503642314,3.6347911937816724,0.05271004341744101,1
+19,"Narobe, še v posebni milosti boš in ničesar več ne boš pogrešal.«: Ta naklep je bil psu všeč.",3.599017636995789,3.6862083056294326,0.08719066863364366,1
+20,"In kakor sta ga zasnovala, tako sta ga izvedla.",3.7120588692359857,3.75621256216094,0.04415369292495441,0
+21,"Oče je zakričal, ko je zagledal volka, ki je tekel z otrokom, ko ga je pa stari Sultan
+prinesel nazaj, je bil neznansko vesel.",3.619653083282767,3.734987958889563,0.11533487560679623,0
+22,"Pobožal je psa in rekel: »Niti lasu ti ne bomo skrivili, obdržali te bomo in jedel boš,
+dokler boš živ.« Svoji ženi pa je dejal : »Pojdi precej domov in skuhaj staremu Sultanu mlečne
+kaše, ki je ni treba gristi.",3.50191094087473,3.78004907068372,0.27813812980899,1
+23,"In prinesi še blazino z moje postelje, naj jo ima za svoje ležišče.« Od takrat naprej
+se je staremu Sultanu tako dobro godilo, kot si je le mogel želeti.",3.555653033560062,3.711133013026181,0.15547997946611902,0
+24,Kmalu zatem ga je obiskal volk.,3.613885546487475,3.6414368644593256,0.02755131797185051,0
+25,"Bil je vesel, da se je tako lepo posrečilo.",3.623155892249381,3.637787167388614,0.014631275139232791,0
+26,"»Ampak, Sultan,« je rekel, »saj boš menda zatisnil oko, če vzamem ob priložnosti tvojemu
+gospodarju kakšno rejeno ovco. Dandanes se je težko prebijati skozi življenje.«",3.5171221936464803,3.6729592269992235,0.15583703335274324,1
+27,"»S tem pa rajši ne računaj,« je
+odgovoril Sultan, »svojemu gospodarju ostanem zvest, v to ne smem privoliti.«",3.541057578771998,3.6451810279988353,0.10412344922683747,1
+28,"Volk je
+menil, da ni resno govoril; priplazil se je ponoči in hotel ugrabiti ovco.",3.4736127316693723,3.563946348248106,0.09033361657873362,1
+29,"Kmet pa, ki mu je zvesti Sultan izdal, kaj volk namerava, ga je pričakal in mu s
+cepcem kaj grdo počesal dlako.",3.366723402491156,3.544958438513414,0.178235036022258,1
+30,Volk je moral pobegniti.,3.437095407616726,3.4389867760047284,0.0018913683880024124,1
+31,"Spotoma pa je zaklical psu: »Le čakaj, mrcina pasja, to mi boš plačal!«",3.2853582656053213,3.400634150661209,0.1152758850558877,0
+32,"Drugo jutro je volk poslal merjasca, da je pozval Sultana, naj pride v gozd, da bosta z volkom v dvoboju
+poravnala spor.",3.3183424303957154,3.5032786080249645,0.18493617762924908,1
+33,"Stari Sultan ni mogel najti druge priče kakor mačka, ki je imel samo še tri noge.",3.3610033576871143,3.4733879183545526,0.1123845606674383,0
+34,"In ko sta šla skupaj v gozd, je ubogi maček šantal, obenem pa zaradi bolečine visoko
+dvigal svoj rep.",3.262152599897541,3.445428967085041,0.18327636718750018,0
+35,Volk in njegova priča sta bila že na mestu.,3.4120753966655926,3.4618251315506874,0.04974973488509482,0
+36,"Ko pa sta zagledala svojega nasprotnika, ki je prihajal, sta mislila, da prinaša sabljo
+s seboj, tak je bil videti mačkin dvignjeni rep.",3.0954238953378037,3.4044125205592106,0.3089886252214069,0
+37,"In ker je uboga žival poskakovala po treh nogah, sta bila prepričana, da Sultan vsakokrat
+pobere kak kamen, da ju bo obsul z njim.",3.0110758463541667,3.2715733119419643,0.2604974655877976,1
+38,"Tedaj je obema šinil strah v kosti: merjasec se je zaril v listje, volk pa je skočil
+na drevo.",2.7945431714866595,3.1045746385005484,0.31003146701388884,1
+39,"Ko sta pes in maček prišla tja, sta se začudila, da ni nikogar nikjer.",2.91155637190646,3.002093423932991,0.09053705202653095,0
+40,"Merjasec pa se ni mogel čisto skriti v listje, temveč so mu uhlji še moleli iz njega.",2.838662215105192,3.1240318478561764,0.28536963275098426,1
+41,"Ko se je maček lagodno oziral okrog sebe, je zmignil merjasec z uhlji.",3.0680464141222896,3.333385233976403,0.26533881985411334,1
+42,"Maček pa je mislil, da je švignila miška, skočil je in krepko ugriznil v uho.",2.8980601542704814,3.3128928107184334,0.4148326564479521,1
+43,"Merjasec je zarjul od bolečine, planil, stekel in zavpil: »Tamle na drevesu se
+skriva pravi krivec!«",2.3523565756308065,3.7323583654455237,1.3800017898147172,1
+44,"Pes in maček sta pogledala na drevo in opazila volka, ki ga je bilo
+sram, da se je pokazal takega strahopetca.",2.6151700701032365,2.618645804268973,0.0034757341657365437,0
+45,"In volk je sprejel mir, ki mu ga je ponudil Sultan.",5.633402252197266,5.677102279663086,0.043700027465820135,1
