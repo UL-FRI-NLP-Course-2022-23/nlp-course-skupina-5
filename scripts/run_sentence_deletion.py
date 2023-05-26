@@ -11,11 +11,8 @@ from logzero import logger
 from transformers import AutoModelForCausalLM, AutoTokenizer, T5Tokenizer, T5ForConditionalGeneration, BertTokenizer, BertForNextSentencePrediction
 
 
-def sliding_window_coherence_evaluation(model, tokenizer, device, sentences, sent_index, max_context_len):
+def sliding_window_coherence_evaluation(model, device, indexed_tokens, sent_index, max_context_len):
     """ Function is intended to be able to measure the coherence of a story longer than the maximum length of the model"""
-
-    # Tokenize the story
-    indexed_tokens = [tokenizer.encode(sent) for sent in sentences]
 
     # Create a sliding window of max context len on which we will evaluate the model
     context_before, context_after = extract_story_context(indexed_tokens, sent_index, max_context_len)
@@ -349,7 +346,7 @@ if __name__ == "__main__":
     parser.add_argument("--model", type=str, default="cjvt/gpt-sl-base", help="Model name")
     parser.add_argument("--language", type=str, default="en", help="Language (slo or eng)")
     parser.add_argument("--contextlen", type=int, default=1024, help="Context length")
-    parser.add_argument("--use_sliding_window", type=bool, default=False, help="Use sliding window")
+    parser.add_argument("--use_sliding_window", type=bool, default=True, help="Use sliding window")
     parser.add_argument("--nsp", type=bool, default=False, help="Use next sentence prediction")
     parser.add_argument("--input", type=str, default="../data/data.csv", help="Path to the data")
     parser.add_argument("--output", type=str, default="../results/labeled", help="Path to the output")
