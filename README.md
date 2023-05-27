@@ -7,3 +7,5 @@ Team members:
  
 Group public acronym/name: `skip-3`
  > This value will be used for publishing marks/scores. It will be known only to you and not your colleagues.
+
+Instructions available under: [Instructions](./scripts/README.md)
