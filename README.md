@@ -14,6 +14,8 @@ Instructions available under: [Instructions](./scripts/README.md)
 
 ### Models
 
+We used the following publicly available pre-trained large language models
+
 Slovene Models:
 - [cjvt/gpt-sl-base](https://huggingface.co/cjvt/gpt-sl-base)
 - [cjvt/t5-sl-small](https://huggingface.co/cjvt/t5-sl-small)
